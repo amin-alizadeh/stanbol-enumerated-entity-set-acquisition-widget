@@ -62,6 +62,8 @@ public class URLFetcher {
 			validUrl = URLDecoder.decode(validUrl);
 			validURLs.add(validUrl);
 		}
+		
+		
 		return validURLs;
 	}
 

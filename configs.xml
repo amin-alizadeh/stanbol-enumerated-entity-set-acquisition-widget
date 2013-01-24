@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Configurations>
+	<URLS>persianwikipedia.xml</URLS>
+	<Language>fa</Language>
+	<RDFFile>persian-wiki.rdf</RDFFile>
+	<EntityUrl>http://5.9.86.210:8082/entityhub/entity</EntityUrl>
+	<LogFile>entitystanbol</LogFile>
+	<RequestsPerSecond>10</RequestsPerSecond>
+	<RDFFormat>http://www.w3.org/2000/01/rdf-schema#label</RDFFormat>
+	<ValidateURL>http://fa.wikipedia.org</ValidateURL>
+	<RDFAppend>false</RDFAppend>
+</Configurations>

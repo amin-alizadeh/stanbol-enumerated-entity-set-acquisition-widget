@@ -19,7 +19,7 @@ import java.util.Timer;
 
 /**
  * Copyright (c) Conatix UK Ltd. www.conatix.com
- * 
+ * <p>
  * Stanbol Entity Set Acquisition Widget is a contribution of Conatix UK Ltd. to
  * Apache Stanbol for the early adapters program of IKS,
  * http://www.iks-project.eu/ SESAW is specifically built to fetch the pages
@@ -31,23 +31,70 @@ import java.util.Timer;
  * 
  * @author Amin Alizadeh, amin.alizadeh@conatix.com/amin.alizadeh@gmail.com
  * 
- * 
  */
+
 public class EntitySet {
 	static String validateUrl;
-	static String url = "http://fa.wikipedia.org/wiki/%D8%B1%D8%AF%D9%87:%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C";
 	static String format = "<http://www.w3.org/2000/01/rdf-schema#label>";
 	static String language = "fa";
 	static String fileName = "wikis/PersianMeasurement.rdf";
 	static String configsFileName = "configs.xml";
 	static boolean append = false;
-	static List<String> allPageUrls = new ArrayList<String>();
-	static List<String> allPageTitles = new ArrayList<String>();
 	static String entityUrl = "http://5.9.86.210:8082/entityhub/entity";
 	static String logFileName = "entitystanbol";
 	static String rdfFileName = "persian-wiki.rdf";
 	static int intervalPeriods = 100;
+	static int reqPerSec = 10;
+	static List<String> allPageUrls = new ArrayList<String>();
+	static List<String> allPageTitles = new ArrayList<String>();
 
+	/**
+	 * Main thread which starts the program.
+	 * 
+	 * @param args
+	 *            (optional): If command line args are not used, the default
+	 *            configs.xml file is used. You can change the the properties in
+	 *            configs.xml or create a new XML file under a new name. Note
+	 *            that the command line args override the XML or default values.
+	 *            <ul>
+	 *            <li>-URLs: the filename where the URLs are located in the XML
+	 *            format.
+	 * 
+	 *            <li>-RDFFormat: Default is
+	 *            <http://www.w3.org/2000/01/rdf-schema#label>.
+	 * 
+	 *            <li>-Language: The language for the RDF request. The default
+	 *            value is Farsi (Persian).
+	 * 
+	 *            <li>-RDFFile: The RDF file where entities are stored in RDF
+	 *            Standard format. The default filename is persian-wiki.rdf.
+	 * 
+	 *            <li>-ValidateUrl: When fetching the pages from a list in
+	 *            Wikipedia, the addresses are relative. This will add the
+	 *            correct part at the beginning of the URL so they are valid
+	 *            URLs. The default value is http://fa.wikipedia.org
+	 * 
+	 *            <li>-EntityUrl: The entity where Apache Stanbol is installed.
+	 *            It ends with /entity/entityhub . The default value is
+	 *            http://dev.iks-project.eu:8081/entityhub/entity
+	 * 
+	 *            <li>-LogFile: LogFile is where the logs are stored. It logs in
+	 *            the result of the entity fetch and entity add.
+	 * 
+	 *            <li>-RequestsPerSecond: The number of requests made per second
+	 *            to the website from where the fetching and parsing is done.
+	 *            This is a politeness factor which limits the number of
+	 *            HTTPRequests to a website to avoid artificial traffic in the
+	 *            domain.
+	 * 
+	 *            <li>-RDFAppend: In the case the RDFFile already exists, you
+	 *            can append the entities to the file. This allows you to add
+	 *            them to the entityhub later.
+	 *            </ul>
+	 * @see {@link #ConfigureVariables(String, String[])}
+	 * 
+	 * @throws IOException
+	 */
 	public static void main(String[] args) throws IOException {
 
 		ConfigureVariables(configsFileName, args);
@@ -65,61 +112,30 @@ public class EntitySet {
 		List<String> allUrlsFromFile = new ArrayList<String>();
 		Timer entityScheduler = new Timer();
 
-		allUrlsFromFile = urlList.UrlList("persianwikipedia.txt");
-		for (int j = 0; j < allUrlsFromFile.size(); j++) {
-			String fUrl = allUrlsFromFile.get(j);
-			entityScheduler
-					.schedule(new EntitySetScheduled(fUrl, validateUrl,
-							language, rdfWriter, logger, entityUrl), 0,
-							intervalPeriods);
-		}
+		allUrlsFromFile = urlList.UrlList(fileName);
 
-		URLFetcher wikiUrls = new URLFetcher(url, validateUrl);
-		List<String> pUrls = wikiUrls.getPagesUrls();
-		List<String> pTitles = wikiUrls.getPagesTitle();
-		List<String> cUrls = wikiUrls.getCategoriesUrls();
-		List<String> cTitles = wikiUrls.getCategoriesTitle();
+		entityScheduler.schedule(new EntitySetScheduled(entityScheduler,
+				allUrlsFromFile, validateUrl, language, rdfWriter, logger,
+				entityUrl), 0, intervalPeriods);
 
-		// for (int i = 0; i<pUrls.size(); i++){
-		// String currentUrl = pUrls.get(i);
-		// if (correctUrl(currentUrl)){
-		// allPageUrls.add(currentUrl);
-		// allPageTitles.add(pTitles.get(i));
-		// }
-		// }
-
-		// rdfWriter.close();
-		// logger.closeLogFile();
 	}
 
+	/**
+	 * 
+	 * @param configsFile
+	 *            the xml file where the configurations are stored. The
+	 *            configuration variables are static variables within the Main
+	 *            class.
+	 * @param args
+	 *            The String array of command line arguments. They overwrite the
+	 *            configs.xml attributes.
+	 */
 	@SuppressWarnings("static-access")
 	private static void ConfigureVariables(String configsFile, String[] args) {
-		
-		SetConfigurations configure = new SetConfigurations(configsFile);;
-		
-		if (args.length > 0) {
 
-			/*
-			 * this.fileName = docEle.getElementsByTagName("URLS").item(0)
-			 * .getFirstChild().getTextContent(); this.language =
-			 * docEle.getElementsByTagName("Language").item(0)
-			 * .getFirstChild().getTextContent(); this.rdfFileName =
-			 * docEle.getElementsByTagName("RDFFile").item(0)
-			 * .getFirstChild().getTextContent(); this.entityUrl =
-			 * docEle.getElementsByTagName("EntityUrl").item(0)
-			 * .getFirstChild().getTextContent(); this.logFileName =
-			 * docEle.getElementsByTagName("LogFile").item(0)
-			 * .getFirstChild().getTextContent(); this.reqPerSec =
-			 * Integer.parseInt(docEle
-			 * .getElementsByTagName("RequestsPerSecond").item(0)
-			 * .getFirstChild().getTextContent()); this.format =
-			 * docEle.getElementsByTagName("RDFFormat").item(0)
-			 * .getFirstChild().getTextContent(); this.validateUrl =
-			 * docEle.getElementsByTagName("ValidateURL").item(0)
-			 * .getFirstChild().getTextContent(); this.append =
-			 * Boolean.parseBoolean(docEle.getElementsByTagName("RDFAppend").item(0)
-			 * .getFirstChild().getTextContent());
-			 */
+		SetConfigurations configure = new SetConfigurations(configsFile);
+
+		if (args.length > 0) {
 
 			for (int i = 0; i < args.length; i++) {
 				if ("-URLs".equals(args[i])) {
@@ -144,7 +160,8 @@ public class EntitySet {
 					configure.setLogFileName(args[i + 1]);
 					i++;
 				} else if ("-RequestsPerSecond".equals(args[i])) {
-					configure.setIntervalPeriods(1000 / Integer.parseInt(args[i + 1]));
+					configure.setIntervalPeriods(1000 / Integer
+							.parseInt(args[i + 1]));
 					i++;
 				} else if ("-RDFAppend".equals(args[i])) {
 					configure.setAppend(Boolean.parseBoolean(args[i + 1]));
@@ -153,7 +170,7 @@ public class EntitySet {
 			}
 
 		}
-		
+
 		fileName = configure.getFileName();
 		language = configure.getLanguage();
 		rdfFileName = configure.getRdfFileName();
@@ -166,29 +183,4 @@ public class EntitySet {
 		intervalPeriods = configure.getIntervalPeriods();
 
 	}
-
-	private static String getUrlContent(String recUrl) {
-
-		URL url;
-		HttpURLConnection conn;
-		BufferedReader rd;
-		String line;
-		String result = "";
-		try {
-			url = new URL(recUrl);
-			conn = (HttpURLConnection) url.openConnection();
-			conn.setRequestMethod("GET");
-			rd = new BufferedReader(
-					new InputStreamReader(conn.getInputStream()));
-			while ((line = rd.readLine()) != null) {
-				result += line.toLowerCase() + "\n";
-			}
-			rd.close();
-		} catch (Exception e) {
-			e.printStackTrace();
-		}
-
-		return result;
-	}
-
 }

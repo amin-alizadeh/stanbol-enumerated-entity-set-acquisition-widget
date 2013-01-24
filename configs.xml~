@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Configurations>
+	<URLS>wikis/PersianMeasurement.rdf</URLS>
+	<Language>50</Language>
+	<RDFFile>50</RDFFile>
+	<EntityUrl>1</EntityUrl>
+	<LogFile>6768</LogFile>
+	<LogFile>logs/logs</LogFile>
+	<RequestsPerSecond>logs/logserror</RequestsPerSecond>
+	<RDFFormat>/home/amin/apache-tomcat-6.0.36/webapps/ROOT/frontend/index.html</RDFFormat>
+	<ValidateURL>post.html</ValidateURL>
+	<RDFAppend>login.html</RDFAppend>
+</Configurations>

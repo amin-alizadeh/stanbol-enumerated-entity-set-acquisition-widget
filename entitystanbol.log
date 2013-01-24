@@ -1,3 +1,842 @@
 23.01.2013 13:09:12.580: <http://fa.wikipedia.org/wiki/مهندسی> <http://www.w3.org/2000/01/rdf-schema#label> "مهندسی"@fa . with result 200
 23.01.2013 13:09:14.034: <http://fa.wikipedia.org/wiki/آزمایشگاه_روی_تراشه> <http://www.w3.org/2000/01/rdf-schema#label> "آزمایشگاه روی تراشه"@fa . with result 200
 23.01.2013 13:09:15.781: <http://fa.wikipedia.org/wiki/آمار_مهندسی> <http://www.w3.org/2000/01/rdf-schema#label> "آمار مهندسی"@fa . with result 200
+23.01.2013 19:39:29.914: <http://fa.wikipedia.org/w/index.php?title=رده:روان‌شناسی&amp;pagefrom=نظریه محاسباتی ذهن#mw-pages> <http://www.w3.org/2000/01/rdf-schema#label> "۲۰۰تای بعدی"@fa . with result 200
+23.01.2013 19:39:30.734: <http://fa.wikipedia.org/wiki/آلفرد_آدلر> <http://www.w3.org/2000/01/rdf-schema#label> "آلفرد آدلر"@fa . with result 200
+23.01.2013 19:39:31.725: <http://fa.wikipedia.org/wiki/آزارگری-آزارطلبی_جنسی> <http://www.w3.org/2000/01/rdf-schema#label> "آزارگری-آزارطلبی جنسی"@fa . with result 200
+23.01.2013 19:39:32.810: <http://fa.wikipedia.org/wiki/آزمایش_زندان_استنفورد> <http://www.w3.org/2000/01/rdf-schema#label> "آزمایش زندان استنفورد"@fa . with result 200
+23.01.2013 19:39:33.893: <http://fa.wikipedia.org/wiki/آزمون_روانی> <http://www.w3.org/2000/01/rdf-schema#label> "آزمون روانی"@fa . with result 200
+23.01.2013 19:39:34.614: <http://fa.wikipedia.org/wiki/آشناپنداری> <http://www.w3.org/2000/01/rdf-schema#label> "آشناپنداری"@fa . with result 200
+23.01.2013 19:39:35.862: <http://fa.wikipedia.org/wiki/آلبرت_بندورا> <http://www.w3.org/2000/01/rdf-schema#label> "آلبرت بندورا"@fa . with result 200
+23.01.2013 19:39:36.875: <http://fa.wikipedia.org/wiki/آمیزش_جنسی> <http://www.w3.org/2000/01/rdf-schema#label> "آمیزش جنسی"@fa . with result 200
+23.01.2013 19:39:37.754: <http://fa.wikipedia.org/wiki/اثر_پیگمالیون> <http://www.w3.org/2000/01/rdf-schema#label> "اثر پیگمالیون"@fa . with result 200
+23.01.2013 19:39:38.739: <http://fa.wikipedia.org/wiki/اختلال_تنش‌زای_پس_از_رویداد> <http://www.w3.org/2000/01/rdf-schema#label> "اختلال تنش‌زای پس از رویداد"@fa . with result 200
+23.01.2013 19:39:39.570: <http://fa.wikipedia.org/wiki/اختلال_خلقی> <http://www.w3.org/2000/01/rdf-schema#label> "اختلال خلقی"@fa . with result 200
+23.01.2013 19:39:40.747: <http://fa.wikipedia.org/wiki/اختلال_شخصیت> <http://www.w3.org/2000/01/rdf-schema#label> "اختلال شخصیت"@fa . with result 200
+23.01.2013 19:39:41.439: <http://fa.wikipedia.org/wiki/اختلال_شخصیت_اسکیزویید> <http://www.w3.org/2000/01/rdf-schema#label> "اختلال شخصیت اسکیزویید"@fa . with result 200
+23.01.2013 19:39:42.486: <http://fa.wikipedia.org/wiki/اختلال_شخصیت_ضد_اجتماعی> <http://www.w3.org/2000/01/rdf-schema#label> "اختلال شخصیت ضد اجتماعی"@fa . with result 200
+23.01.2013 19:39:43.316: <http://fa.wikipedia.org/wiki/اختلال_شخصیت_مرزی> <http://www.w3.org/2000/01/rdf-schema#label> "اختلال شخصیت مرزی"@fa . with result 200
+23.01.2013 19:39:43.909: <http://fa.wikipedia.org/wiki/اختلال_شخصیت_نمایشی> <http://www.w3.org/2000/01/rdf-schema#label> "اختلال شخصیت نمایشی"@fa . with result 200
+23.01.2013 19:39:45.103: <http://fa.wikipedia.org/wiki/اختلال_وسواسی_جبری> <http://www.w3.org/2000/01/rdf-schema#label> "اختلال وسواسی جبری"@fa . with result 200
+23.01.2013 19:39:45.835: <http://fa.wikipedia.org/wiki/الگو:اختلالات_اضطرابی> <http://www.w3.org/2000/01/rdf-schema#label> "الگو:اختلالات اضطرابی"@fa . with result 200
+23.01.2013 19:39:46.742: <http://fa.wikipedia.org/wiki/اختلالات_افسردگی> <http://www.w3.org/2000/01/rdf-schema#label> "اختلالات افسردگی"@fa . with result 200
+23.01.2013 19:39:47.592: <http://fa.wikipedia.org/wiki/اختلال‌های_مرتبط_با_مصرف_مواد> <http://www.w3.org/2000/01/rdf-schema#label> "اختلال‌های مرتبط با مصرف مواد"@fa . with result 200
+23.01.2013 19:39:48.763: <http://fa.wikipedia.org/wiki/ادراک‌پریشی> <http://www.w3.org/2000/01/rdf-schema#label> "ادراک‌پریشی"@fa . with result 200
+23.01.2013 19:39:50.046: <http://fa.wikipedia.org/wiki/ادراک‌پریشی_چهره‌ای> <http://www.w3.org/2000/01/rdf-schema#label> "ادراک‌پریشی چهره‌ای"@fa . with result 200
+23.01.2013 19:39:51.170: <http://fa.wikipedia.org/wiki/ارگاسم_زنان> <http://www.w3.org/2000/01/rdf-schema#label> "ارگاسم زنان"@fa . with result 200
+23.01.2013 19:39:52.066: <http://fa.wikipedia.org/wiki/ارگاسم_مردان> <http://www.w3.org/2000/01/rdf-schema#label> "ارگاسم مردان"@fa . with result 200
+23.01.2013 19:39:52.766: <http://fa.wikipedia.org/wiki/اسلکتیویزم> <http://www.w3.org/2000/01/rdf-schema#label> "اسلکتیویزم"@fa . with result 200
+23.01.2013 19:39:53.632: <http://fa.wikipedia.org/wiki/اشتهای_دهانی> <http://www.w3.org/2000/01/rdf-schema#label> "اشتهای دهانی"@fa . with result 200
+23.01.2013 19:39:54.860: <http://fa.wikipedia.org/wiki/اضطراب> <http://www.w3.org/2000/01/rdf-schema#label> "اضطراب"@fa . with result 200
+23.01.2013 19:39:56.506: <http://fa.wikipedia.org/wiki/اضطراب_اجتماعی> <http://www.w3.org/2000/01/rdf-schema#label> "اضطراب اجتماعی"@fa . with result 200
+23.01.2013 19:39:57.518: <http://fa.wikipedia.org/wiki/افسردگی_(حالت)> <http://www.w3.org/2000/01/rdf-schema#label> "افسردگی (حالت)"@fa . with result 200
+23.01.2013 19:39:58.374: <http://fa.wikipedia.org/wiki/امید> <http://www.w3.org/2000/01/rdf-schema#label> "امید"@fa . with result 200
+23.01.2013 19:39:59.252: <http://fa.wikipedia.org/wiki/انحراف_جنسی> <http://www.w3.org/2000/01/rdf-schema#label> "انحراف جنسی"@fa . with result 200
+23.01.2013 19:40:00.295: <http://fa.wikipedia.org/wiki/انزال_زنان> <http://www.w3.org/2000/01/rdf-schema#label> "انزال زنان"@fa . with result 200
+23.01.2013 19:40:01.430: <http://fa.wikipedia.org/wiki/اوج_لذت_جنسی> <http://www.w3.org/2000/01/rdf-schema#label> "اوج لذت جنسی"@fa . with result 200
+23.01.2013 19:40:02.076: <http://fa.wikipedia.org/wiki/اوریانتاسیون> <http://www.w3.org/2000/01/rdf-schema#label> "اوریانتاسیون"@fa . with result 200
+23.01.2013 19:40:03.109: <http://fa.wikipedia.org/wiki/بارورسازی> <http://www.w3.org/2000/01/rdf-schema#label> "بارورسازی"@fa . with result 200
+23.01.2013 19:40:04.016: <http://fa.wikipedia.org/wiki/بازی‌درمانی> <http://www.w3.org/2000/01/rdf-schema#label> "بازی‌درمانی"@fa . with result 200
+23.01.2013 19:40:04.719: <http://fa.wikipedia.org/wiki/بحران_میانسالی> <http://www.w3.org/2000/01/rdf-schema#label> "بحران میانسالی"@fa . with result 200
+23.01.2013 19:40:05.398: <http://fa.wikipedia.org/wiki/ناتانیل_براندن> <http://www.w3.org/2000/01/rdf-schema#label> "ناتانیل براندن"@fa . with result 200
+23.01.2013 19:40:06.126: <http://fa.wikipedia.org/wiki/اریک_برن> <http://www.w3.org/2000/01/rdf-schema#label> "اریک برن"@fa . with result 200
+23.01.2013 19:40:06.747: <http://fa.wikipedia.org/wiki/یوزف_برویر> <http://www.w3.org/2000/01/rdf-schema#label> "یوزف برویر"@fa . with result 200
+23.01.2013 19:40:08.634: <http://fa.wikipedia.org/wiki/بریدن_آلت_جنسی_زنان> <http://www.w3.org/2000/01/rdf-schema#label> "بریدن آلت جنسی زنان"@fa . with result 200
+23.01.2013 19:40:09.300: <http://fa.wikipedia.org/wiki/بزرگ‌سال‌پنداری> <http://www.w3.org/2000/01/rdf-schema#label> "بزرگ‌سال‌پنداری"@fa . with result 200
+23.01.2013 19:40:10.115: <http://fa.wikipedia.org/wiki/بلندی‌هراسی> <http://www.w3.org/2000/01/rdf-schema#label> "بلندی‌هراسی"@fa . with result 200
+23.01.2013 19:40:10.900: <http://fa.wikipedia.org/wiki/بلوغ_جنسی> <http://www.w3.org/2000/01/rdf-schema#label> "بلوغ جنسی"@fa . with result 200
+23.01.2013 19:40:11.721: <http://fa.wikipedia.org/wiki/بهداشت_روان> <http://www.w3.org/2000/01/rdf-schema#label> "بهداشت روان"@fa . with result 200
+23.01.2013 19:40:13.430: <http://fa.wikipedia.org/wiki/تونی_بوزان> <http://www.w3.org/2000/01/rdf-schema#label> "تونی بوزان"@fa . with result 200
+23.01.2013 19:40:14.260: <http://fa.wikipedia.org/wiki/بی_اعتمادی> <http://www.w3.org/2000/01/rdf-schema#label> "بی اعتمادی"@fa . with result 200
+23.01.2013 19:40:14.880: <http://fa.wikipedia.org/wiki/بی‌ارادگی> <http://www.w3.org/2000/01/rdf-schema#label> "بی‌ارادگی"@fa . with result 200
+23.01.2013 19:40:15.740: <http://fa.wikipedia.org/wiki/بی‌قراری_روانی> <http://www.w3.org/2000/01/rdf-schema#label> "بی‌قراری روانی"@fa . with result 200
+23.01.2013 19:40:16.652: <http://fa.wikipedia.org/wiki/تاریخ_روان‌شناسی> <http://www.w3.org/2000/01/rdf-schema#label> "تاریخ روان‌شناسی"@fa . with result 200
+23.01.2013 19:40:18.282: <http://fa.wikipedia.org/wiki/تجاوز_جنسی> <http://www.w3.org/2000/01/rdf-schema#label> "تجاوز جنسی"@fa . with result 200
+23.01.2013 19:40:18.932: <http://fa.wikipedia.org/wiki/تجربه> <http://www.w3.org/2000/01/rdf-schema#label> "تجربه"@fa . with result 200
+23.01.2013 19:40:19.759: <http://fa.wikipedia.org/wiki/ترتیب_تولد> <http://www.w3.org/2000/01/rdf-schema#label> "ترتیب تولد"@fa . with result 200
+23.01.2013 19:40:20.717: <http://fa.wikipedia.org/wiki/تماشاگری_جنسی> <http://www.w3.org/2000/01/rdf-schema#label> "تماشاگری جنسی"@fa . with result 200
+23.01.2013 19:40:21.456: <http://fa.wikipedia.org/wiki/تمرکز> <http://www.w3.org/2000/01/rdf-schema#label> "تمرکز"@fa . with result 200
+23.01.2013 20:13:26.831: <http://fa.wikipedia.org/w/index.php?title=رده:روان‌شناسی&amp;pagefrom=نظریه محاسباتی ذهن#mw-pages> <http://www.w3.org/2000/01/rdf-schema#label> "۲۰۰تای بعدی"@fa . with result 500
+23.01.2013 20:13:28.269: <http://fa.wikipedia.org/wiki/آلفرد_آدلر> <http://www.w3.org/2000/01/rdf-schema#label> "آلفرد آدلر"@fa . with result 200
+23.01.2013 20:13:29.938: <http://fa.wikipedia.org/wiki/آزارگری-آزارطلبی_جنسی> <http://www.w3.org/2000/01/rdf-schema#label> "آزارگری-آزارطلبی جنسی"@fa . with result 200
+23.01.2013 20:20:27.015: <http://fa.wikipedia.org/wiki/آلفرد_آدلر> <http://www.w3.org/2000/01/rdf-schema#label> "آلفرد آدلر"@fa . with result 200
+23.01.2013 20:20:28.540: <http://fa.wikipedia.org/wiki/آزارگری-آزارطلبی_جنسی> <http://www.w3.org/2000/01/rdf-schema#label> "آزارگری-آزارطلبی جنسی"@fa . with result 200
+23.01.2013 20:20:30.481: <http://fa.wikipedia.org/wiki/آزمایش_زندان_استنفورد> <http://www.w3.org/2000/01/rdf-schema#label> "آزمایش زندان استنفورد"@fa . with result 200
+23.01.2013 20:20:32.205: <http://fa.wikipedia.org/wiki/آزمون_روانی> <http://www.w3.org/2000/01/rdf-schema#label> "آزمون روانی"@fa . with result 200
+23.01.2013 20:20:33.666: <http://fa.wikipedia.org/wiki/آشناپنداری> <http://www.w3.org/2000/01/rdf-schema#label> "آشناپنداری"@fa . with result 200
+23.01.2013 20:20:35.392: <http://fa.wikipedia.org/wiki/آلبرت_بندورا> <http://www.w3.org/2000/01/rdf-schema#label> "آلبرت بندورا"@fa . with result 200
+23.01.2013 20:20:37.080: <http://fa.wikipedia.org/wiki/آمیزش_جنسی> <http://www.w3.org/2000/01/rdf-schema#label> "آمیزش جنسی"@fa . with result 200
+23.01.2013 20:20:38.941: <http://fa.wikipedia.org/wiki/اثر_پیگمالیون> <http://www.w3.org/2000/01/rdf-schema#label> "اثر پیگمالیون"@fa . with result 200
+23.01.2013 20:20:40.891: <http://fa.wikipedia.org/wiki/اختلال_تنش‌زای_پس_از_رویداد> <http://www.w3.org/2000/01/rdf-schema#label> "اختلال تنش‌زای پس از رویداد"@fa . with result 200
+23.01.2013 20:20:42.447: <http://fa.wikipedia.org/wiki/اختلال_خلقی> <http://www.w3.org/2000/01/rdf-schema#label> "اختلال خلقی"@fa . with result 200
+23.01.2013 20:32:00.375: <http://fa.wikipedia.org/wiki/آلفرد_آدلر> <http://www.w3.org/2000/01/rdf-schema#label> "آلفرد آدلر"@fa . with result 200
+23.01.2013 20:32:02.066: <http://fa.wikipedia.org/wiki/آزارگری-آزارطلبی_جنسی> <http://www.w3.org/2000/01/rdf-schema#label> "آزارگری-آزارطلبی جنسی"@fa . with result 200
+23.01.2013 20:32:03.657: <http://fa.wikipedia.org/wiki/آزمایش_زندان_استنفورد> <http://www.w3.org/2000/01/rdf-schema#label> "آزمایش زندان استنفورد"@fa . with result 200
+23.01.2013 20:46:16.538: <http://fa.wikipedia.org/wiki/آلفرد_آدلر> <http://www.w3.org/2000/01/rdf-schema#label> "آلفرد آدلر"@fa . with result 200
+23.01.2013 20:46:18.141: <http://fa.wikipedia.org/wiki/آزارگری-آزارطلبی_جنسی> <http://www.w3.org/2000/01/rdf-schema#label> "آزارگری-آزارطلبی جنسی"@fa . with result 200
+24.01.2013 14:08:37.961: <http://fa.wikipedia.org/wiki/آب_و_هوا_نیمه_خشک> <http://www.w3.org/2000/01/rdf-schema#label> "آب و هوا نیمه خشک"@fa . with result 200
+24.01.2013 14:08:39.597: <http://fa.wikipedia.org/wiki/آبرفت> <http://www.w3.org/2000/01/rdf-schema#label> "آبرفت"@fa . with result 200
+24.01.2013 14:08:41.132: <http://fa.wikipedia.org/wiki/آفریقای_شمالی> <http://www.w3.org/2000/01/rdf-schema#label> "آفریقای شمالی"@fa . with result 200
+24.01.2013 14:08:43.047: <http://fa.wikipedia.org/wiki/آفریقای_غربی> <http://www.w3.org/2000/01/rdf-schema#label> "آفریقای غربی"@fa . with result 200
+24.01.2013 14:08:45.078: <http://fa.wikipedia.org/wiki/آمازون_(رود)> <http://www.w3.org/2000/01/rdf-schema#label> "آمازون (رود)"@fa . with result 200
+24.01.2013 14:08:47.052: <http://fa.wikipedia.org/wiki/اختلاف_منظر> <http://www.w3.org/2000/01/rdf-schema#label> "اختلاف منظر"@fa . with result 200
+24.01.2013 14:08:49.003: <http://fa.wikipedia.org/wiki/ارتفاع_از_سطح_دریا> <http://www.w3.org/2000/01/rdf-schema#label> "ارتفاع از سطح دریا"@fa . with result 200
+24.01.2013 14:08:50.728: <http://fa.wikipedia.org/wiki/اردآپفل> <http://www.w3.org/2000/01/rdf-schema#label> "اردآپفل"@fa . with result 200
+24.01.2013 14:08:52.129: <http://fa.wikipedia.org/wiki/اسپیلی> <http://www.w3.org/2000/01/rdf-schema#label> "اسپیلی"@fa . with result 200
+24.01.2013 14:09:19.369: <http://fa.wikipedia.org/wiki/آب_و_هوا_نیمه_خشک> <http://www.w3.org/2000/01/rdf-schema#label> "آب و هوا نیمه خشک"@fa . with result 200
+24.01.2013 14:09:20.841: <http://fa.wikipedia.org/wiki/آبرفت> <http://www.w3.org/2000/01/rdf-schema#label> "آبرفت"@fa . with result 200
+24.01.2013 14:09:22.456: <http://fa.wikipedia.org/wiki/آفریقای_شمالی> <http://www.w3.org/2000/01/rdf-schema#label> "آفریقای شمالی"@fa . with result 200
+24.01.2013 14:09:24.501: <http://fa.wikipedia.org/wiki/آفریقای_غربی> <http://www.w3.org/2000/01/rdf-schema#label> "آفریقای غربی"@fa . with result 200
+24.01.2013 14:09:26.067: <http://fa.wikipedia.org/wiki/آمازون_(رود)> <http://www.w3.org/2000/01/rdf-schema#label> "آمازون (رود)"@fa . with result 200
+24.01.2013 14:09:27.823: <http://fa.wikipedia.org/wiki/اختلاف_منظر> <http://www.w3.org/2000/01/rdf-schema#label> "اختلاف منظر"@fa . with result 200
+24.01.2013 14:09:29.235: <http://fa.wikipedia.org/wiki/ارتفاع_از_سطح_دریا> <http://www.w3.org/2000/01/rdf-schema#label> "ارتفاع از سطح دریا"@fa . with result 200
+24.01.2013 14:09:30.596: <http://fa.wikipedia.org/wiki/اردآپفل> <http://www.w3.org/2000/01/rdf-schema#label> "اردآپفل"@fa . with result 200
+24.01.2013 14:09:31.958: <http://fa.wikipedia.org/wiki/اسپیلی> <http://www.w3.org/2000/01/rdf-schema#label> "اسپیلی"@fa . with result 200
+24.01.2013 14:09:33.424: <http://fa.wikipedia.org/wiki/اطلس> <http://www.w3.org/2000/01/rdf-schema#label> "اطلس"@fa . with result 200
+24.01.2013 14:09:35.027: <http://fa.wikipedia.org/wiki/باتلاق> <http://www.w3.org/2000/01/rdf-schema#label> "باتلاق"@fa . with result 200
+24.01.2013 14:09:36.632: <http://fa.wikipedia.org/wiki/برنامه‌ریزی_شهری> <http://www.w3.org/2000/01/rdf-schema#label> "برنامه‌ریزی شهری"@fa . with result 200
+24.01.2013 14:09:38.484: <http://fa.wikipedia.org/wiki/بورا_بورا> <http://www.w3.org/2000/01/rdf-schema#label> "بورا بورا"@fa . with result 200
+24.01.2013 14:09:40.106: <http://fa.wikipedia.org/wiki/بیابان_گبی> <http://www.w3.org/2000/01/rdf-schema#label> "بیابان گبی"@fa . with result 200
+24.01.2013 14:09:41.446: <http://fa.wikipedia.org/wiki/بیمینی،_باهاما> <http://www.w3.org/2000/01/rdf-schema#label> "بیمینی، باهاما"@fa . with result 200
+24.01.2013 14:09:42.987: <http://fa.wikipedia.org/wiki/بی‌اس‌ای‌ای_استار_آریل> <http://www.w3.org/2000/01/rdf-schema#label> "بی‌اس‌ای‌ای استار آریل"@fa . with result 200
+24.01.2013 14:09:45.014: <http://fa.wikipedia.org/wiki/بی‌اس‌ای‌ای_استار_تیگر> <http://www.w3.org/2000/01/rdf-schema#label> "بی‌اس‌ای‌ای استار تیگر"@fa . with result 200
+24.01.2013 14:09:47.598: <http://fa.wikipedia.org/wiki/تراکم_جمعیت> <http://www.w3.org/2000/01/rdf-schema#label> "تراکم جمعیت"@fa . with result 200
+24.01.2013 14:09:50.175: <http://fa.wikipedia.org/wiki/تنگه> <http://www.w3.org/2000/01/rdf-schema#label> "تنگه"@fa . with result 200
+24.01.2013 14:09:52.524: <http://fa.wikipedia.org/wiki/تنگه_کره> <http://www.w3.org/2000/01/rdf-schema#label> "تنگه کره"@fa . with result 200
+24.01.2013 14:09:55.098: <http://fa.wikipedia.org/wiki/تنگه_کرچ> <http://www.w3.org/2000/01/rdf-schema#label> "تنگه کرچ"@fa . with result 200
+24.01.2013 14:09:57.473: <http://fa.wikipedia.org/wiki/توده_خاکی> <http://www.w3.org/2000/01/rdf-schema#label> "توده خاکی"@fa . with result 200
+24.01.2013 14:09:59.552: <http://fa.wikipedia.org/wiki/توزیع_و_رشد_جمعیت> <http://www.w3.org/2000/01/rdf-schema#label> "توزیع و رشد جمعیت"@fa . with result 200
+24.01.2013 14:10:02.017: <http://fa.wikipedia.org/wiki/تپه> <http://www.w3.org/2000/01/rdf-schema#label> "تپه"@fa . with result 200
+24.01.2013 14:10:04.448: <http://fa.wikipedia.org/wiki/جای‌نام> <http://www.w3.org/2000/01/rdf-schema#label> "جای‌نام"@fa . with result 200
+24.01.2013 14:10:07.040: <http://fa.wikipedia.org/wiki/جزر_و_مد> <http://www.w3.org/2000/01/rdf-schema#label> "جزر و مد"@fa . with result 200
+24.01.2013 14:10:10.658: <http://fa.wikipedia.org/wiki/درگاه:جغرافیا> <http://www.w3.org/2000/01/rdf-schema#label> "درگاه:جغرافیا"@fa . with result 200
+24.01.2013 14:10:14.978: <http://fa.wikipedia.org/wiki/جغرافیا> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیا"@fa . with result 200
+24.01.2013 14:10:17.689: <http://fa.wikipedia.org/wiki/جغرافیای_انسانی> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیای انسانی"@fa . with result 200
+24.01.2013 14:10:20.687: <http://fa.wikipedia.org/wiki/جغرافیای_سیاسی> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیای سیاسی"@fa . with result 200
+24.01.2013 14:10:24.245: <http://fa.wikipedia.org/wiki/جغرافیای_طبیعی> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیای طبیعی"@fa . with result 200
+24.01.2013 14:10:26.808: <http://fa.wikipedia.org/wiki/جلگه> <http://www.w3.org/2000/01/rdf-schema#label> "جلگه"@fa . with result 200
+24.01.2013 14:10:29.405: <http://fa.wikipedia.org/wiki/جنوب_آفریقا> <http://www.w3.org/2000/01/rdf-schema#label> "جنوب آفریقا"@fa . with result 200
+24.01.2013 14:10:32.309: <http://fa.wikipedia.org/wiki/جنوبگان> <http://www.w3.org/2000/01/rdf-schema#label> "جنوبگان"@fa . with result 200
+24.01.2013 14:10:34.717: <http://fa.wikipedia.org/wiki/جنگل> <http://www.w3.org/2000/01/rdf-schema#label> "جنگل"@fa . with result 200
+24.01.2013 14:10:37.900: <http://fa.wikipedia.org/wiki/جهت‌یابی> <http://www.w3.org/2000/01/rdf-schema#label> "جهت‌یابی"@fa . with result 200
+24.01.2013 14:10:40.143: <http://fa.wikipedia.org/wiki/خاور_نزدیک> <http://www.w3.org/2000/01/rdf-schema#label> "خاور نزدیک"@fa . with result 200
+24.01.2013 14:10:43.111: <http://fa.wikipedia.org/wiki/خلیج_ایلات> <http://www.w3.org/2000/01/rdf-schema#label> "خلیج ایلات"@fa . with result 200
+24.01.2013 14:10:45.362: <http://fa.wikipedia.org/wiki/خلیج_بحرین> <http://www.w3.org/2000/01/rdf-schema#label> "خلیج بحرین"@fa . with result 200
+24.01.2013 14:10:48.678: <http://fa.wikipedia.org/wiki/خلیج_عقبه> <http://www.w3.org/2000/01/rdf-schema#label> "خلیج عقبه"@fa . with result 200
+24.01.2013 14:10:51.216: <http://fa.wikipedia.org/wiki/خور_عبدالله> <http://www.w3.org/2000/01/rdf-schema#label> "خور عبدالله"@fa . with result 200
+24.01.2013 14:10:53.353: <http://fa.wikipedia.org/wiki/خورشید_نیمه‌شب> <http://www.w3.org/2000/01/rdf-schema#label> "خورشید نیمه‌شب"@fa . with result 200
+24.01.2013 14:10:55.822: <http://fa.wikipedia.org/wiki/داده‌های_مکانی> <http://www.w3.org/2000/01/rdf-schema#label> "داده‌های مکانی"@fa . with result 200
+24.01.2013 14:10:58.287: <http://fa.wikipedia.org/wiki/دره_پازیریک> <http://www.w3.org/2000/01/rdf-schema#label> "دره پازیریک"@fa . with result 200
+24.01.2013 14:11:01.467: <http://fa.wikipedia.org/wiki/دستگاه_مختصات_جغرافیایی> <http://www.w3.org/2000/01/rdf-schema#label> "دستگاه مختصات جغرافیایی"@fa . with result 200
+24.01.2013 14:11:04.140: <http://fa.wikipedia.org/wiki/دماغه_واشنگتن> <http://www.w3.org/2000/01/rdf-schema#label> "دماغه واشنگتن"@fa . with result 200
+24.01.2013 14:11:07.252: <http://fa.wikipedia.org/wiki/ریگ‌روان> <http://www.w3.org/2000/01/rdf-schema#label> "ریگ‌روان"@fa . with result 200
+24.01.2013 14:11:13.557: <http://fa.wikipedia.org/wiki/زمین> <http://www.w3.org/2000/01/rdf-schema#label> "زمین"@fa . with result 200
+24.01.2013 14:11:16.717: <http://fa.wikipedia.org/wiki/سازمان_زمین‌شناسی_آمریکا> <http://www.w3.org/2000/01/rdf-schema#label> "سازمان زمین‌شناسی آمریکا"@fa . with result 200
+24.01.2013 14:11:19.907: <http://fa.wikipedia.org/wiki/سامانه_موقعیت‌یاب_جهانی> <http://www.w3.org/2000/01/rdf-schema#label> "سامانه موقعیت‌یاب جهانی"@fa . with result 200
+24.01.2013 14:11:22.529: <http://fa.wikipedia.org/wiki/سامانه_ناوبری_بیدو> <http://www.w3.org/2000/01/rdf-schema#label> "سامانه ناوبری بیدو"@fa . with result 200
+24.01.2013 14:11:25.217: <http://fa.wikipedia.org/wiki/سفیدرود_(ایران)> <http://www.w3.org/2000/01/rdf-schema#label> "سفیدرود (ایران)"@fa . with result 200
+24.01.2013 14:11:28.154: <http://fa.wikipedia.org/wiki/شبه‌قاره_هند> <http://www.w3.org/2000/01/rdf-schema#label> "شبه‌قاره هند"@fa . with result 200
+24.01.2013 14:11:30.926: <http://fa.wikipedia.org/wiki/شمال_حقیقی> <http://www.w3.org/2000/01/rdf-schema#label> "شمال حقیقی"@fa . with result 200
+24.01.2013 14:11:33.738: <http://fa.wikipedia.org/wiki/شمالگان> <http://www.w3.org/2000/01/rdf-schema#label> "شمالگان"@fa . with result 200
+24.01.2013 14:11:36.391: <http://fa.wikipedia.org/wiki/شهرسازی> <http://www.w3.org/2000/01/rdf-schema#label> "شهرسازی"@fa . with result 200
+24.01.2013 14:11:39.103: <http://fa.wikipedia.org/wiki/صفحه_آمریکای_جنوبی> <http://www.w3.org/2000/01/rdf-schema#label> "صفحه آمریکای جنوبی"@fa . with result 200
+24.01.2013 14:11:42.008: <http://fa.wikipedia.org/wiki/صفحه_نازکا> <http://www.w3.org/2000/01/rdf-schema#label> "صفحه نازکا"@fa . with result 200
+24.01.2013 14:11:44.918: <http://fa.wikipedia.org/wiki/طول_جغرافیایی> <http://www.w3.org/2000/01/rdf-schema#label> "طول جغرافیایی"@fa . with result 200
+24.01.2013 14:11:47.531: <http://fa.wikipedia.org/wiki/فانوس_دریایی_ایزاک> <http://www.w3.org/2000/01/rdf-schema#label> "فانوس دریایی ایزاک"@fa . with result 200
+24.01.2013 14:11:50.332: <http://fa.wikipedia.org/wiki/فهرست_دریاچه‌های_روسیه> <http://www.w3.org/2000/01/rdf-schema#label> "فهرست دریاچه‌های روسیه"@fa . with result 200
+24.01.2013 14:11:52.898: <http://fa.wikipedia.org/wiki/فهرست_شهرهای_قاره_آمریکای_جنوبی> <http://www.w3.org/2000/01/rdf-schema#label> "فهرست شهرهای قاره آمریکای جنوبی"@fa . with result 200
+24.01.2013 14:11:55.553: <http://fa.wikipedia.org/wiki/فهرست_کوه‌های_استان_هرمزگان> <http://www.w3.org/2000/01/rdf-schema#label> "فهرست کوه‌های استان هرمزگان"@fa . with result 200
+24.01.2013 14:11:58.439: <http://fa.wikipedia.org/wiki/قطب_شمال> <http://www.w3.org/2000/01/rdf-schema#label> "قطب شمال"@fa . with result 200
+24.01.2013 14:12:00.727: <http://fa.wikipedia.org/wiki/ویکی‌پدیا:قواعد_مختصات‌دهی> <http://www.w3.org/2000/01/rdf-schema#label> "ویکی‌پدیا:قواعد مختصات‌دهی"@fa . with result 200
+24.01.2013 14:12:04.114: <http://fa.wikipedia.org/wiki/مثلث_برمودا> <http://www.w3.org/2000/01/rdf-schema#label> "مثلث برمودا"@fa . with result 200
+24.01.2013 14:12:07.041: <http://fa.wikipedia.org/wiki/مدار_(جغرافیا)> <http://www.w3.org/2000/01/rdf-schema#label> "مدار (جغرافیا)"@fa . with result 200
+24.01.2013 14:12:09.620: <http://fa.wikipedia.org/wiki/مدار_قطبی> <http://www.w3.org/2000/01/rdf-schema#label> "مدار قطبی"@fa . with result 200
+24.01.2013 14:12:11.950: <http://fa.wikipedia.org/wiki/مدل_های_سه_بعدی_شهرها> <http://www.w3.org/2000/01/rdf-schema#label> "مدل های سه بعدی شهرها"@fa . with result 200
+24.01.2013 14:12:14.354: <http://fa.wikipedia.org/wiki/مرز_(سرحد)> <http://www.w3.org/2000/01/rdf-schema#label> "مرز (سرحد)"@fa . with result 200
+24.01.2013 14:12:16.656: <http://fa.wikipedia.org/wiki/ملنیک_(بلغارستان)> <http://www.w3.org/2000/01/rdf-schema#label> "ملنیک (بلغارستان)"@fa . with result 200
+24.01.2013 14:12:19.278: <http://fa.wikipedia.org/wiki/منطقه> <http://www.w3.org/2000/01/rdf-schema#label> "منطقه"@fa . with result 200
+24.01.2013 14:12:21.451: <http://fa.wikipedia.org/wiki/نبکا> <http://www.w3.org/2000/01/rdf-schema#label> "نبکا"@fa . with result 200
+24.01.2013 14:12:23.812: <http://fa.wikipedia.org/wiki/نصف‌النهار> <http://www.w3.org/2000/01/rdf-schema#label> "نصف‌النهار"@fa . with result 200
+24.01.2013 14:12:25.975: <http://fa.wikipedia.org/wiki/راهنما:نقشه_شهری_باز> <http://www.w3.org/2000/01/rdf-schema#label> "راهنما:نقشه شهری باز"@fa . with result 200
+24.01.2013 14:12:29.127: <http://fa.wikipedia.org/wiki/نقشه_پیری_رئیس> <http://www.w3.org/2000/01/rdf-schema#label> "نقشه پیری رئیس"@fa . with result 200
+24.01.2013 14:12:31.913: <http://fa.wikipedia.org/wiki/نقشه‌نگاری> <http://www.w3.org/2000/01/rdf-schema#label> "نقشه‌نگاری"@fa . with result 200
+24.01.2013 14:12:34.136: <http://fa.wikipedia.org/wiki/هفت_کشور> <http://www.w3.org/2000/01/rdf-schema#label> "هفت کشور"@fa . with result 200
+24.01.2013 14:12:36.957: <http://fa.wikipedia.org/wiki/هیمالیا> <http://www.w3.org/2000/01/rdf-schema#label> "هیمالیا"@fa . with result 200
+24.01.2013 14:12:39.711: <http://fa.wikipedia.org/wiki/ویکی‌پدیا:ویکی‌پروژه_جغرافیا> <http://www.w3.org/2000/01/rdf-schema#label> "ویکی‌پدیا:ویکی‌پروژه جغرافیا"@fa . with result 200
+24.01.2013 14:12:42.013: <http://fa.wikipedia.org/wiki/پارک_ملی_تیده> <http://www.w3.org/2000/01/rdf-schema#label> "پارک ملی تیده"@fa . with result 200
+24.01.2013 14:12:44.569: <http://fa.wikipedia.org/wiki/پارک_ملی_گاراجونای> <http://www.w3.org/2000/01/rdf-schema#label> "پارک ملی گاراجونای"@fa . with result 200
+24.01.2013 14:12:46.650: <http://fa.wikipedia.org/wiki/پیز_اسپالدا> <http://www.w3.org/2000/01/rdf-schema#label> "پیز اسپالدا"@fa . with result 200
+24.01.2013 14:12:49.292: <http://fa.wikipedia.org/wiki/ژرف_(جغرافیا)> <http://www.w3.org/2000/01/rdf-schema#label> "ژرف (جغرافیا)"@fa . with result 200
+24.01.2013 14:12:51.808: <http://fa.wikipedia.org/wiki/کارول_آ_دیرینگ> <http://www.w3.org/2000/01/rdf-schema#label> "کارول آ دیرینگ"@fa . with result 200
+24.01.2013 14:12:54.258: <http://fa.wikipedia.org/wiki/کشور> <http://www.w3.org/2000/01/rdf-schema#label> "کشور"@fa . with result 200
+24.01.2013 14:12:56.401: <http://fa.wikipedia.org/wiki/کشور_محصور_در_خشکی> <http://www.w3.org/2000/01/rdf-schema#label> "کشور محصور در خشکی"@fa . with result 200
+24.01.2013 14:12:58.352: <http://fa.wikipedia.org/wiki/کلوت> <http://www.w3.org/2000/01/rdf-schema#label> "کلوت"@fa . with result 200
+24.01.2013 14:13:00.369: <http://fa.wikipedia.org/wiki/کونمارا_پنجم> <http://www.w3.org/2000/01/rdf-schema#label> "کونمارا پنجم"@fa . with result 200
+24.01.2013 14:13:03.255: <http://fa.wikipedia.org/wiki/گالیلئو_(ناوبری_ماهواره‌ای)> <http://www.w3.org/2000/01/rdf-schema#label> "گالیلئو (ناوبری ماهواره‌ای)"@fa . with result 200
+24.01.2013 14:13:05.522: <http://fa.wikipedia.org/wiki/گلوناس> <http://www.w3.org/2000/01/rdf-schema#label> "گلوناس"@fa . with result 200
+24.01.2013 14:13:07.643: <http://fa.wikipedia.org/wiki/گلوناس-کی> <http://www.w3.org/2000/01/rdf-schema#label> "گلوناس-کی"@fa . with result 200
+24.01.2013 14:13:10.148: <http://fa.wikipedia.org/wiki/یواس‌اس_سایکلوپ> <http://www.w3.org/2000/01/rdf-schema#label> "یواس‌اس سایکلوپ"@fa . with result 200
+24.01.2013 14:13:12.493: <http://fa.wikipedia.org/wiki/یواس‌اس_نرئوس> <http://www.w3.org/2000/01/rdf-schema#label> "یواس‌اس نرئوس"@fa . with result 200
+24.01.2013 14:13:14.030: <http://fa.wikipedia.org/wiki/پرونده:urmia_lake_1984_to_2011.gif> <http://www.w3.org/2000/01/rdf-schema#label> "<img alt="urmia lake 1984 to 2011.gif" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/urmia_lake_1984_to_2011.gif/120px-urmia_lake_1984_to_2011.gif" width="120" height="120" />"@fa . with result 500
+24.01.2013 14:13:16.012: <http://fa.wikipedia.org/wiki/پرونده:urmia_lake_1984_to_2011.gif> <http://www.w3.org/2000/01/rdf-schema#label> "urmia lake 1984 to 201..."@fa . with result 200
+24.01.2013 14:13:18.043: <http://fa.wikipedia.org/wiki/آب_و_هوا_نیمه_خشک> <http://www.w3.org/2000/01/rdf-schema#label> "آب و هوا نیمه خشک"@fa . with result 200
+24.01.2013 14:13:20.382: <http://fa.wikipedia.org/wiki/آبرفت> <http://www.w3.org/2000/01/rdf-schema#label> "آبرفت"@fa . with result 200
+24.01.2013 14:13:22.815: <http://fa.wikipedia.org/wiki/آفریقای_شمالی> <http://www.w3.org/2000/01/rdf-schema#label> "آفریقای شمالی"@fa . with result 200
+24.01.2013 14:13:25.512: <http://fa.wikipedia.org/wiki/آفریقای_غربی> <http://www.w3.org/2000/01/rdf-schema#label> "آفریقای غربی"@fa . with result 200
+24.01.2013 14:13:28.077: <http://fa.wikipedia.org/wiki/آمازون_(رود)> <http://www.w3.org/2000/01/rdf-schema#label> "آمازون (رود)"@fa . with result 200
+24.01.2013 14:13:30.792: <http://fa.wikipedia.org/wiki/اختلاف_منظر> <http://www.w3.org/2000/01/rdf-schema#label> "اختلاف منظر"@fa . with result 200
+24.01.2013 14:13:33.328: <http://fa.wikipedia.org/wiki/ارتفاع_از_سطح_دریا> <http://www.w3.org/2000/01/rdf-schema#label> "ارتفاع از سطح دریا"@fa . with result 200
+24.01.2013 14:13:36.497: <http://fa.wikipedia.org/wiki/اردآپفل> <http://www.w3.org/2000/01/rdf-schema#label> "اردآپفل"@fa . with result 200
+24.01.2013 14:13:38.744: <http://fa.wikipedia.org/wiki/اسپیلی> <http://www.w3.org/2000/01/rdf-schema#label> "اسپیلی"@fa . with result 200
+24.01.2013 14:13:41.232: <http://fa.wikipedia.org/wiki/اطلس> <http://www.w3.org/2000/01/rdf-schema#label> "اطلس"@fa . with result 200
+24.01.2013 14:13:44.411: <http://fa.wikipedia.org/wiki/باتلاق> <http://www.w3.org/2000/01/rdf-schema#label> "باتلاق"@fa . with result 200
+24.01.2013 14:13:46.830: <http://fa.wikipedia.org/wiki/برنامه‌ریزی_شهری> <http://www.w3.org/2000/01/rdf-schema#label> "برنامه‌ریزی شهری"@fa . with result 200
+24.01.2013 14:13:49.546: <http://fa.wikipedia.org/wiki/بورا_بورا> <http://www.w3.org/2000/01/rdf-schema#label> "بورا بورا"@fa . with result 200
+24.01.2013 14:13:52.676: <http://fa.wikipedia.org/wiki/بیابان_گبی> <http://www.w3.org/2000/01/rdf-schema#label> "بیابان گبی"@fa . with result 200
+24.01.2013 14:13:55.533: <http://fa.wikipedia.org/wiki/بیمینی،_باهاما> <http://www.w3.org/2000/01/rdf-schema#label> "بیمینی، باهاما"@fa . with result 200
+24.01.2013 14:13:58.632: <http://fa.wikipedia.org/wiki/بی‌اس‌ای‌ای_استار_آریل> <http://www.w3.org/2000/01/rdf-schema#label> "بی‌اس‌ای‌ای استار آریل"@fa . with result 200
+24.01.2013 14:14:02.339: <http://fa.wikipedia.org/wiki/بی‌اس‌ای‌ای_استار_تیگر> <http://www.w3.org/2000/01/rdf-schema#label> "بی‌اس‌ای‌ای استار تیگر"@fa . with result 200
+24.01.2013 14:14:05.256: <http://fa.wikipedia.org/wiki/تراکم_جمعیت> <http://www.w3.org/2000/01/rdf-schema#label> "تراکم جمعیت"@fa . with result 200
+24.01.2013 14:14:07.744: <http://fa.wikipedia.org/wiki/تنگه> <http://www.w3.org/2000/01/rdf-schema#label> "تنگه"@fa . with result 200
+24.01.2013 14:14:10.277: <http://fa.wikipedia.org/wiki/تنگه_کره> <http://www.w3.org/2000/01/rdf-schema#label> "تنگه کره"@fa . with result 200
+24.01.2013 14:14:13.041: <http://fa.wikipedia.org/wiki/تنگه_کرچ> <http://www.w3.org/2000/01/rdf-schema#label> "تنگه کرچ"@fa . with result 200
+24.01.2013 14:14:15.333: <http://fa.wikipedia.org/wiki/توده_خاکی> <http://www.w3.org/2000/01/rdf-schema#label> "توده خاکی"@fa . with result 200
+24.01.2013 14:14:18.237: <http://fa.wikipedia.org/wiki/توزیع_و_رشد_جمعیت> <http://www.w3.org/2000/01/rdf-schema#label> "توزیع و رشد جمعیت"@fa . with result 200
+24.01.2013 14:14:20.999: <http://fa.wikipedia.org/wiki/تپه> <http://www.w3.org/2000/01/rdf-schema#label> "تپه"@fa . with result 200
+24.01.2013 14:14:23.932: <http://fa.wikipedia.org/wiki/جای‌نام> <http://www.w3.org/2000/01/rdf-schema#label> "جای‌نام"@fa . with result 200
+24.01.2013 14:14:27.268: <http://fa.wikipedia.org/wiki/جزر_و_مد> <http://www.w3.org/2000/01/rdf-schema#label> "جزر و مد"@fa . with result 200
+24.01.2013 14:14:30.323: <http://fa.wikipedia.org/wiki/درگاه:جغرافیا> <http://www.w3.org/2000/01/rdf-schema#label> "درگاه:جغرافیا"@fa . with result 200
+24.01.2013 14:14:35.001: <http://fa.wikipedia.org/wiki/جغرافیا> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیا"@fa . with result 200
+24.01.2013 14:14:37.830: <http://fa.wikipedia.org/wiki/جغرافیای_انسانی> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیای انسانی"@fa . with result 200
+24.01.2013 14:14:40.893: <http://fa.wikipedia.org/wiki/جغرافیای_سیاسی> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیای سیاسی"@fa . with result 200
+24.01.2013 14:14:44.355: <http://fa.wikipedia.org/wiki/جغرافیای_طبیعی> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیای طبیعی"@fa . with result 200
+24.01.2013 14:14:47.529: <http://fa.wikipedia.org/wiki/جلگه> <http://www.w3.org/2000/01/rdf-schema#label> "جلگه"@fa . with result 200
+24.01.2013 14:14:50.467: <http://fa.wikipedia.org/wiki/جنوب_آفریقا> <http://www.w3.org/2000/01/rdf-schema#label> "جنوب آفریقا"@fa . with result 200
+24.01.2013 14:14:53.988: <http://fa.wikipedia.org/wiki/جنوبگان> <http://www.w3.org/2000/01/rdf-schema#label> "جنوبگان"@fa . with result 200
+24.01.2013 14:14:57.677: <http://fa.wikipedia.org/wiki/جنگل> <http://www.w3.org/2000/01/rdf-schema#label> "جنگل"@fa . with result 200
+24.01.2013 14:15:00.148: <http://fa.wikipedia.org/wiki/جهت‌یابی> <http://www.w3.org/2000/01/rdf-schema#label> "جهت‌یابی"@fa . with result 200
+24.01.2013 14:15:03.207: <http://fa.wikipedia.org/wiki/خاور_نزدیک> <http://www.w3.org/2000/01/rdf-schema#label> "خاور نزدیک"@fa . with result 200
+24.01.2013 14:15:06.309: <http://fa.wikipedia.org/wiki/خلیج_ایلات> <http://www.w3.org/2000/01/rdf-schema#label> "خلیج ایلات"@fa . with result 200
+24.01.2013 14:15:08.758: <http://fa.wikipedia.org/wiki/خلیج_بحرین> <http://www.w3.org/2000/01/rdf-schema#label> "خلیج بحرین"@fa . with result 200
+24.01.2013 14:15:11.852: <http://fa.wikipedia.org/wiki/خلیج_عقبه> <http://www.w3.org/2000/01/rdf-schema#label> "خلیج عقبه"@fa . with result 200
+24.01.2013 14:15:14.785: <http://fa.wikipedia.org/wiki/خور_عبدالله> <http://www.w3.org/2000/01/rdf-schema#label> "خور عبدالله"@fa . with result 200
+24.01.2013 14:15:17.934: <http://fa.wikipedia.org/wiki/خورشید_نیمه‌شب> <http://www.w3.org/2000/01/rdf-schema#label> "خورشید نیمه‌شب"@fa . with result 200
+24.01.2013 14:15:20.187: <http://fa.wikipedia.org/wiki/داده‌های_مکانی> <http://www.w3.org/2000/01/rdf-schema#label> "داده‌های مکانی"@fa . with result 200
+24.01.2013 14:15:22.985: <http://fa.wikipedia.org/wiki/دره_پازیریک> <http://www.w3.org/2000/01/rdf-schema#label> "دره پازیریک"@fa . with result 200
+24.01.2013 14:15:26.258: <http://fa.wikipedia.org/wiki/دستگاه_مختصات_جغرافیایی> <http://www.w3.org/2000/01/rdf-schema#label> "دستگاه مختصات جغرافیایی"@fa . with result 200
+24.01.2013 14:15:28.896: <http://fa.wikipedia.org/wiki/دماغه_واشنگتن> <http://www.w3.org/2000/01/rdf-schema#label> "دماغه واشنگتن"@fa . with result 200
+24.01.2013 14:15:31.952: <http://fa.wikipedia.org/wiki/ریگ‌روان> <http://www.w3.org/2000/01/rdf-schema#label> "ریگ‌روان"@fa . with result 200
+24.01.2013 14:15:40.311: <http://fa.wikipedia.org/wiki/زمین> <http://www.w3.org/2000/01/rdf-schema#label> "زمین"@fa . with result 200
+24.01.2013 14:15:42.846: <http://fa.wikipedia.org/wiki/سازمان_زمین‌شناسی_آمریکا> <http://www.w3.org/2000/01/rdf-schema#label> "سازمان زمین‌شناسی آمریکا"@fa . with result 200
+24.01.2013 14:15:47.462: <http://fa.wikipedia.org/wiki/سامانه_موقعیت‌یاب_جهانی> <http://www.w3.org/2000/01/rdf-schema#label> "سامانه موقعیت‌یاب جهانی"@fa . with result 200
+24.01.2013 14:15:50.599: <http://fa.wikipedia.org/wiki/سامانه_ناوبری_بیدو> <http://www.w3.org/2000/01/rdf-schema#label> "سامانه ناوبری بیدو"@fa . with result 200
+24.01.2013 14:15:53.433: <http://fa.wikipedia.org/wiki/سفیدرود_(ایران)> <http://www.w3.org/2000/01/rdf-schema#label> "سفیدرود (ایران)"@fa . with result 200
+24.01.2013 14:15:56.368: <http://fa.wikipedia.org/wiki/شبه‌قاره_هند> <http://www.w3.org/2000/01/rdf-schema#label> "شبه‌قاره هند"@fa . with result 200
+24.01.2013 14:15:58.859: <http://fa.wikipedia.org/wiki/شمال_حقیقی> <http://www.w3.org/2000/01/rdf-schema#label> "شمال حقیقی"@fa . with result 200
+24.01.2013 14:16:02.051: <http://fa.wikipedia.org/wiki/شمالگان> <http://www.w3.org/2000/01/rdf-schema#label> "شمالگان"@fa . with result 200
+24.01.2013 14:16:04.833: <http://fa.wikipedia.org/wiki/شهرسازی> <http://www.w3.org/2000/01/rdf-schema#label> "شهرسازی"@fa . with result 200
+24.01.2013 14:16:07.372: <http://fa.wikipedia.org/wiki/صفحه_آمریکای_جنوبی> <http://www.w3.org/2000/01/rdf-schema#label> "صفحه آمریکای جنوبی"@fa . with result 200
+24.01.2013 14:16:10.101: <http://fa.wikipedia.org/wiki/صفحه_نازکا> <http://www.w3.org/2000/01/rdf-schema#label> "صفحه نازکا"@fa . with result 200
+24.01.2013 14:16:13.141: <http://fa.wikipedia.org/wiki/طول_جغرافیایی> <http://www.w3.org/2000/01/rdf-schema#label> "طول جغرافیایی"@fa . with result 200
+24.01.2013 14:16:15.360: <http://fa.wikipedia.org/wiki/فانوس_دریایی_ایزاک> <http://www.w3.org/2000/01/rdf-schema#label> "فانوس دریایی ایزاک"@fa . with result 200
+24.01.2013 14:16:17.698: <http://fa.wikipedia.org/wiki/فهرست_دریاچه‌های_روسیه> <http://www.w3.org/2000/01/rdf-schema#label> "فهرست دریاچه‌های روسیه"@fa . with result 200
+24.01.2013 14:16:20.569: <http://fa.wikipedia.org/wiki/فهرست_شهرهای_قاره_آمریکای_جنوبی> <http://www.w3.org/2000/01/rdf-schema#label> "فهرست شهرهای قاره آمریکای جنوبی"@fa . with result 200
+24.01.2013 14:16:23.002: <http://fa.wikipedia.org/wiki/فهرست_کوه‌های_استان_هرمزگان> <http://www.w3.org/2000/01/rdf-schema#label> "فهرست کوه‌های استان هرمزگان"@fa . with result 200
+24.01.2013 14:16:26.226: <http://fa.wikipedia.org/wiki/قطب_شمال> <http://www.w3.org/2000/01/rdf-schema#label> "قطب شمال"@fa . with result 200
+24.01.2013 14:16:28.886: <http://fa.wikipedia.org/wiki/ویکی‌پدیا:قواعد_مختصات‌دهی> <http://www.w3.org/2000/01/rdf-schema#label> "ویکی‌پدیا:قواعد مختصات‌دهی"@fa . with result 200
+24.01.2013 14:16:32.428: <http://fa.wikipedia.org/wiki/مثلث_برمودا> <http://www.w3.org/2000/01/rdf-schema#label> "مثلث برمودا"@fa . with result 200
+24.01.2013 14:16:35.239: <http://fa.wikipedia.org/wiki/مدار_(جغرافیا)> <http://www.w3.org/2000/01/rdf-schema#label> "مدار (جغرافیا)"@fa . with result 200
+24.01.2013 14:16:37.820: <http://fa.wikipedia.org/wiki/مدار_قطبی> <http://www.w3.org/2000/01/rdf-schema#label> "مدار قطبی"@fa . with result 200
+24.01.2013 14:16:40.394: <http://fa.wikipedia.org/wiki/مدل_های_سه_بعدی_شهرها> <http://www.w3.org/2000/01/rdf-schema#label> "مدل های سه بعدی شهرها"@fa . with result 200
+24.01.2013 14:16:43.006: <http://fa.wikipedia.org/wiki/مرز_(سرحد)> <http://www.w3.org/2000/01/rdf-schema#label> "مرز (سرحد)"@fa . with result 200
+24.01.2013 14:16:45.726: <http://fa.wikipedia.org/wiki/ملنیک_(بلغارستان)> <http://www.w3.org/2000/01/rdf-schema#label> "ملنیک (بلغارستان)"@fa . with result 200
+24.01.2013 14:16:48.012: <http://fa.wikipedia.org/wiki/منطقه> <http://www.w3.org/2000/01/rdf-schema#label> "منطقه"@fa . with result 200
+24.01.2013 14:16:50.590: <http://fa.wikipedia.org/wiki/نبکا> <http://www.w3.org/2000/01/rdf-schema#label> "نبکا"@fa . with result 200
+24.01.2013 14:16:53.122: <http://fa.wikipedia.org/wiki/نصف‌النهار> <http://www.w3.org/2000/01/rdf-schema#label> "نصف‌النهار"@fa . with result 200
+24.01.2013 14:16:55.502: <http://fa.wikipedia.org/wiki/راهنما:نقشه_شهری_باز> <http://www.w3.org/2000/01/rdf-schema#label> "راهنما:نقشه شهری باز"@fa . with result 200
+24.01.2013 14:16:57.951: <http://fa.wikipedia.org/wiki/نقشه_پیری_رئیس> <http://www.w3.org/2000/01/rdf-schema#label> "نقشه پیری رئیس"@fa . with result 200
+24.01.2013 14:17:02.752: <http://fa.wikipedia.org/wiki/نقشه‌نگاری> <http://www.w3.org/2000/01/rdf-schema#label> "نقشه‌نگاری"@fa . with result 200
+24.01.2013 14:17:05.238: <http://fa.wikipedia.org/wiki/هفت_کشور> <http://www.w3.org/2000/01/rdf-schema#label> "هفت کشور"@fa . with result 200
+24.01.2013 14:17:08.017: <http://fa.wikipedia.org/wiki/هیمالیا> <http://www.w3.org/2000/01/rdf-schema#label> "هیمالیا"@fa . with result 200
+24.01.2013 14:17:11.198: <http://fa.wikipedia.org/wiki/ویکی‌پدیا:ویکی‌پروژه_جغرافیا> <http://www.w3.org/2000/01/rdf-schema#label> "ویکی‌پدیا:ویکی‌پروژه جغرافیا"@fa . with result 200
+24.01.2013 14:17:13.929: <http://fa.wikipedia.org/wiki/پارک_ملی_تیده> <http://www.w3.org/2000/01/rdf-schema#label> "پارک ملی تیده"@fa . with result 200
+24.01.2013 14:17:16.488: <http://fa.wikipedia.org/wiki/پارک_ملی_گاراجونای> <http://www.w3.org/2000/01/rdf-schema#label> "پارک ملی گاراجونای"@fa . with result 200
+24.01.2013 14:17:19.419: <http://fa.wikipedia.org/wiki/پیز_اسپالدا> <http://www.w3.org/2000/01/rdf-schema#label> "پیز اسپالدا"@fa . with result 200
+24.01.2013 14:17:21.463: <http://fa.wikipedia.org/wiki/ژرف_(جغرافیا)> <http://www.w3.org/2000/01/rdf-schema#label> "ژرف (جغرافیا)"@fa . with result 200
+24.01.2013 14:17:23.669: <http://fa.wikipedia.org/wiki/کارول_آ_دیرینگ> <http://www.w3.org/2000/01/rdf-schema#label> "کارول آ دیرینگ"@fa . with result 200
+24.01.2013 14:17:26.579: <http://fa.wikipedia.org/wiki/کشور> <http://www.w3.org/2000/01/rdf-schema#label> "کشور"@fa . with result 200
+24.01.2013 14:17:28.882: <http://fa.wikipedia.org/wiki/کشور_محصور_در_خشکی> <http://www.w3.org/2000/01/rdf-schema#label> "کشور محصور در خشکی"@fa . with result 200
+24.01.2013 14:17:31.549: <http://fa.wikipedia.org/wiki/کلوت> <http://www.w3.org/2000/01/rdf-schema#label> "کلوت"@fa . with result 200
+24.01.2013 14:17:33.704: <http://fa.wikipedia.org/wiki/کونمارا_پنجم> <http://www.w3.org/2000/01/rdf-schema#label> "کونمارا پنجم"@fa . with result 200
+24.01.2013 14:17:35.831: <http://fa.wikipedia.org/wiki/گالیلئو_(ناوبری_ماهواره‌ای)> <http://www.w3.org/2000/01/rdf-schema#label> "گالیلئو (ناوبری ماهواره‌ای)"@fa . with result 200
+24.01.2013 14:17:39.367: <http://fa.wikipedia.org/wiki/گلوناس> <http://www.w3.org/2000/01/rdf-schema#label> "گلوناس"@fa . with result 200
+24.01.2013 14:17:42.116: <http://fa.wikipedia.org/wiki/گلوناس-کی> <http://www.w3.org/2000/01/rdf-schema#label> "گلوناس-کی"@fa . with result 200
+24.01.2013 14:17:44.896: <http://fa.wikipedia.org/wiki/یواس‌اس_سایکلوپ> <http://www.w3.org/2000/01/rdf-schema#label> "یواس‌اس سایکلوپ"@fa . with result 200
+24.01.2013 14:17:47.288: <http://fa.wikipedia.org/wiki/یواس‌اس_نرئوس> <http://www.w3.org/2000/01/rdf-schema#label> "یواس‌اس نرئوس"@fa . with result 200
+24.01.2013 14:17:50.514: <http://fa.wikipedia.org/wiki/رده:علوم_میان‌رشته‌ای> <http://www.w3.org/2000/01/rdf-schema#label> "دسته‌بندی موضوعات اصلی"@fa . with result 200
+24.01.2013 14:17:53.260: <http://fa.wikipedia.org/wiki/آب_و_هوا_نیمه_خشک> <http://www.w3.org/2000/01/rdf-schema#label> "آب و هوا نیمه خشک"@fa . with result 200
+24.01.2013 14:17:55.691: <http://fa.wikipedia.org/wiki/آبرفت> <http://www.w3.org/2000/01/rdf-schema#label> "آبرفت"@fa . with result 200
+24.01.2013 14:17:58.366: <http://fa.wikipedia.org/wiki/آفریقای_شمالی> <http://www.w3.org/2000/01/rdf-schema#label> "آفریقای شمالی"@fa . with result 200
+24.01.2013 14:18:01.227: <http://fa.wikipedia.org/wiki/آفریقای_غربی> <http://www.w3.org/2000/01/rdf-schema#label> "آفریقای غربی"@fa . with result 200
+24.01.2013 14:18:03.677: <http://fa.wikipedia.org/wiki/آمازون_(رود)> <http://www.w3.org/2000/01/rdf-schema#label> "آمازون (رود)"@fa . with result 200
+24.01.2013 14:18:06.767: <http://fa.wikipedia.org/wiki/اختلاف_منظر> <http://www.w3.org/2000/01/rdf-schema#label> "اختلاف منظر"@fa . with result 200
+24.01.2013 14:18:09.094: <http://fa.wikipedia.org/wiki/ارتفاع_از_سطح_دریا> <http://www.w3.org/2000/01/rdf-schema#label> "ارتفاع از سطح دریا"@fa . with result 200
+24.01.2013 14:18:11.581: <http://fa.wikipedia.org/wiki/اردآپفل> <http://www.w3.org/2000/01/rdf-schema#label> "اردآپفل"@fa . with result 200
+24.01.2013 14:18:14.298: <http://fa.wikipedia.org/wiki/اسپیلی> <http://www.w3.org/2000/01/rdf-schema#label> "اسپیلی"@fa . with result 200
+24.01.2013 14:18:16.681: <http://fa.wikipedia.org/wiki/اطلس> <http://www.w3.org/2000/01/rdf-schema#label> "اطلس"@fa . with result 200
+24.01.2013 14:18:19.089: <http://fa.wikipedia.org/wiki/باتلاق> <http://www.w3.org/2000/01/rdf-schema#label> "باتلاق"@fa . with result 200
+24.01.2013 14:18:22.233: <http://fa.wikipedia.org/wiki/برنامه‌ریزی_شهری> <http://www.w3.org/2000/01/rdf-schema#label> "برنامه‌ریزی شهری"@fa . with result 200
+24.01.2013 14:18:24.802: <http://fa.wikipedia.org/wiki/بورا_بورا> <http://www.w3.org/2000/01/rdf-schema#label> "بورا بورا"@fa . with result 200
+24.01.2013 14:18:27.751: <http://fa.wikipedia.org/wiki/بیابان_گبی> <http://www.w3.org/2000/01/rdf-schema#label> "بیابان گبی"@fa . with result 200
+24.01.2013 14:18:30.483: <http://fa.wikipedia.org/wiki/بیمینی،_باهاما> <http://www.w3.org/2000/01/rdf-schema#label> "بیمینی، باهاما"@fa . with result 200
+24.01.2013 14:18:33.083: <http://fa.wikipedia.org/wiki/بی‌اس‌ای‌ای_استار_آریل> <http://www.w3.org/2000/01/rdf-schema#label> "بی‌اس‌ای‌ای استار آریل"@fa . with result 200
+24.01.2013 14:18:35.400: <http://fa.wikipedia.org/wiki/بی‌اس‌ای‌ای_استار_تیگر> <http://www.w3.org/2000/01/rdf-schema#label> "بی‌اس‌ای‌ای استار تیگر"@fa . with result 200
+24.01.2013 14:18:38.230: <http://fa.wikipedia.org/wiki/تراکم_جمعیت> <http://www.w3.org/2000/01/rdf-schema#label> "تراکم جمعیت"@fa . with result 200
+24.01.2013 14:18:40.638: <http://fa.wikipedia.org/wiki/تنگه> <http://www.w3.org/2000/01/rdf-schema#label> "تنگه"@fa . with result 200
+24.01.2013 14:18:43.378: <http://fa.wikipedia.org/wiki/تنگه_کره> <http://www.w3.org/2000/01/rdf-schema#label> "تنگه کره"@fa . with result 200
+24.01.2013 14:18:46.341: <http://fa.wikipedia.org/wiki/تنگه_کرچ> <http://www.w3.org/2000/01/rdf-schema#label> "تنگه کرچ"@fa . with result 200
+24.01.2013 14:18:48.478: <http://fa.wikipedia.org/wiki/توده_خاکی> <http://www.w3.org/2000/01/rdf-schema#label> "توده خاکی"@fa . with result 200
+24.01.2013 14:18:51.625: <http://fa.wikipedia.org/wiki/توزیع_و_رشد_جمعیت> <http://www.w3.org/2000/01/rdf-schema#label> "توزیع و رشد جمعیت"@fa . with result 200
+24.01.2013 14:18:54.272: <http://fa.wikipedia.org/wiki/تپه> <http://www.w3.org/2000/01/rdf-schema#label> "تپه"@fa . with result 200
+24.01.2013 14:18:56.998: <http://fa.wikipedia.org/wiki/جای‌نام> <http://www.w3.org/2000/01/rdf-schema#label> "جای‌نام"@fa . with result 200
+24.01.2013 14:18:59.589: <http://fa.wikipedia.org/wiki/جزر_و_مد> <http://www.w3.org/2000/01/rdf-schema#label> "جزر و مد"@fa . with result 200
+24.01.2013 14:19:03.111: <http://fa.wikipedia.org/wiki/درگاه:جغرافیا> <http://www.w3.org/2000/01/rdf-schema#label> "درگاه:جغرافیا"@fa . with result 200
+24.01.2013 14:19:07.689: <http://fa.wikipedia.org/wiki/جغرافیا> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیا"@fa . with result 200
+24.01.2013 14:19:10.011: <http://fa.wikipedia.org/wiki/جغرافیای_انسانی> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیای انسانی"@fa . with result 200
+24.01.2013 14:19:14.020: <http://fa.wikipedia.org/wiki/جغرافیای_سیاسی> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیای سیاسی"@fa . with result 200
+24.01.2013 14:19:17.440: <http://fa.wikipedia.org/wiki/جغرافیای_طبیعی> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیای طبیعی"@fa . with result 200
+24.01.2013 14:19:19.890: <http://fa.wikipedia.org/wiki/جلگه> <http://www.w3.org/2000/01/rdf-schema#label> "جلگه"@fa . with result 200
+24.01.2013 14:19:22.728: <http://fa.wikipedia.org/wiki/جنوب_آفریقا> <http://www.w3.org/2000/01/rdf-schema#label> "جنوب آفریقا"@fa . with result 200
+24.01.2013 14:19:26.948: <http://fa.wikipedia.org/wiki/جنوبگان> <http://www.w3.org/2000/01/rdf-schema#label> "جنوبگان"@fa . with result 200
+24.01.2013 14:19:29.649: <http://fa.wikipedia.org/wiki/جنگل> <http://www.w3.org/2000/01/rdf-schema#label> "جنگل"@fa . with result 200
+24.01.2013 14:19:32.543: <http://fa.wikipedia.org/wiki/جهت‌یابی> <http://www.w3.org/2000/01/rdf-schema#label> "جهت‌یابی"@fa . with result 200
+24.01.2013 14:19:35.041: <http://fa.wikipedia.org/wiki/خاور_نزدیک> <http://www.w3.org/2000/01/rdf-schema#label> "خاور نزدیک"@fa . with result 200
+24.01.2013 14:19:38.550: <http://fa.wikipedia.org/wiki/خلیج_ایلات> <http://www.w3.org/2000/01/rdf-schema#label> "خلیج ایلات"@fa . with result 200
+24.01.2013 14:19:41.138: <http://fa.wikipedia.org/wiki/خلیج_بحرین> <http://www.w3.org/2000/01/rdf-schema#label> "خلیج بحرین"@fa . with result 200
+24.01.2013 14:19:43.911: <http://fa.wikipedia.org/wiki/خلیج_عقبه> <http://www.w3.org/2000/01/rdf-schema#label> "خلیج عقبه"@fa . with result 200
+24.01.2013 14:19:46.682: <http://fa.wikipedia.org/wiki/خور_عبدالله> <http://www.w3.org/2000/01/rdf-schema#label> "خور عبدالله"@fa . with result 200
+24.01.2013 14:19:49.488: <http://fa.wikipedia.org/wiki/خورشید_نیمه‌شب> <http://www.w3.org/2000/01/rdf-schema#label> "خورشید نیمه‌شب"@fa . with result 200
+24.01.2013 14:19:52.354: <http://fa.wikipedia.org/wiki/داده‌های_مکانی> <http://www.w3.org/2000/01/rdf-schema#label> "داده‌های مکانی"@fa . with result 200
+24.01.2013 14:19:54.652: <http://fa.wikipedia.org/wiki/دره_پازیریک> <http://www.w3.org/2000/01/rdf-schema#label> "دره پازیریک"@fa . with result 200
+24.01.2013 14:19:57.625: <http://fa.wikipedia.org/wiki/دستگاه_مختصات_جغرافیایی> <http://www.w3.org/2000/01/rdf-schema#label> "دستگاه مختصات جغرافیایی"@fa . with result 200
+24.01.2013 14:20:00.071: <http://fa.wikipedia.org/wiki/دماغه_واشنگتن> <http://www.w3.org/2000/01/rdf-schema#label> "دماغه واشنگتن"@fa . with result 200
+24.01.2013 14:20:02.946: <http://fa.wikipedia.org/wiki/ریگ‌روان> <http://www.w3.org/2000/01/rdf-schema#label> "ریگ‌روان"@fa . with result 200
+24.01.2013 14:20:09.832: <http://fa.wikipedia.org/wiki/زمین> <http://www.w3.org/2000/01/rdf-schema#label> "زمین"@fa . with result 200
+24.01.2013 14:20:12.363: <http://fa.wikipedia.org/wiki/سازمان_زمین‌شناسی_آمریکا> <http://www.w3.org/2000/01/rdf-schema#label> "سازمان زمین‌شناسی آمریکا"@fa . with result 200
+24.01.2013 14:20:15.686: <http://fa.wikipedia.org/wiki/سامانه_موقعیت‌یاب_جهانی> <http://www.w3.org/2000/01/rdf-schema#label> "سامانه موقعیت‌یاب جهانی"@fa . with result 200
+24.01.2013 14:20:18.617: <http://fa.wikipedia.org/wiki/سامانه_ناوبری_بیدو> <http://www.w3.org/2000/01/rdf-schema#label> "سامانه ناوبری بیدو"@fa . with result 200
+24.01.2013 14:20:21.208: <http://fa.wikipedia.org/wiki/سفیدرود_(ایران)> <http://www.w3.org/2000/01/rdf-schema#label> "سفیدرود (ایران)"@fa . with result 200
+24.01.2013 14:20:23.809: <http://fa.wikipedia.org/wiki/شبه‌قاره_هند> <http://www.w3.org/2000/01/rdf-schema#label> "شبه‌قاره هند"@fa . with result 200
+24.01.2013 14:20:26.469: <http://fa.wikipedia.org/wiki/شمال_حقیقی> <http://www.w3.org/2000/01/rdf-schema#label> "شمال حقیقی"@fa . with result 200
+24.01.2013 14:20:29.238: <http://fa.wikipedia.org/wiki/شمالگان> <http://www.w3.org/2000/01/rdf-schema#label> "شمالگان"@fa . with result 200
+24.01.2013 14:20:31.674: <http://fa.wikipedia.org/wiki/شهرسازی> <http://www.w3.org/2000/01/rdf-schema#label> "شهرسازی"@fa . with result 200
+24.01.2013 14:20:34.649: <http://fa.wikipedia.org/wiki/صفحه_آمریکای_جنوبی> <http://www.w3.org/2000/01/rdf-schema#label> "صفحه آمریکای جنوبی"@fa . with result 200
+24.01.2013 14:20:37.162: <http://fa.wikipedia.org/wiki/صفحه_نازکا> <http://www.w3.org/2000/01/rdf-schema#label> "صفحه نازکا"@fa . with result 200
+24.01.2013 14:20:40.354: <http://fa.wikipedia.org/wiki/طول_جغرافیایی> <http://www.w3.org/2000/01/rdf-schema#label> "طول جغرافیایی"@fa . with result 200
+24.01.2013 14:20:42.497: <http://fa.wikipedia.org/wiki/فانوس_دریایی_ایزاک> <http://www.w3.org/2000/01/rdf-schema#label> "فانوس دریایی ایزاک"@fa . with result 200
+24.01.2013 14:20:45.075: <http://fa.wikipedia.org/wiki/فهرست_دریاچه‌های_روسیه> <http://www.w3.org/2000/01/rdf-schema#label> "فهرست دریاچه‌های روسیه"@fa . with result 200
+24.01.2013 14:20:47.281: <http://fa.wikipedia.org/wiki/فهرست_شهرهای_قاره_آمریکای_جنوبی> <http://www.w3.org/2000/01/rdf-schema#label> "فهرست شهرهای قاره آمریکای جنوبی"@fa . with result 200
+24.01.2013 14:20:49.985: <http://fa.wikipedia.org/wiki/فهرست_کوه‌های_استان_هرمزگان> <http://www.w3.org/2000/01/rdf-schema#label> "فهرست کوه‌های استان هرمزگان"@fa . with result 200
+24.01.2013 14:20:53.037: <http://fa.wikipedia.org/wiki/قطب_شمال> <http://www.w3.org/2000/01/rdf-schema#label> "قطب شمال"@fa . with result 200
+24.01.2013 14:20:55.989: <http://fa.wikipedia.org/wiki/ویکی‌پدیا:قواعد_مختصات‌دهی> <http://www.w3.org/2000/01/rdf-schema#label> "ویکی‌پدیا:قواعد مختصات‌دهی"@fa . with result 200
+24.01.2013 14:21:00.086: <http://fa.wikipedia.org/wiki/مثلث_برمودا> <http://www.w3.org/2000/01/rdf-schema#label> "مثلث برمودا"@fa . with result 200
+24.01.2013 14:21:03.061: <http://fa.wikipedia.org/wiki/مدار_(جغرافیا)> <http://www.w3.org/2000/01/rdf-schema#label> "مدار (جغرافیا)"@fa . with result 200
+24.01.2013 14:21:05.256: <http://fa.wikipedia.org/wiki/مدار_قطبی> <http://www.w3.org/2000/01/rdf-schema#label> "مدار قطبی"@fa . with result 200
+24.01.2013 14:21:07.726: <http://fa.wikipedia.org/wiki/مدل_های_سه_بعدی_شهرها> <http://www.w3.org/2000/01/rdf-schema#label> "مدل های سه بعدی شهرها"@fa . with result 200
+24.01.2013 14:21:10.783: <http://fa.wikipedia.org/wiki/مرز_(سرحد)> <http://www.w3.org/2000/01/rdf-schema#label> "مرز (سرحد)"@fa . with result 200
+24.01.2013 14:21:13.537: <http://fa.wikipedia.org/wiki/ملنیک_(بلغارستان)> <http://www.w3.org/2000/01/rdf-schema#label> "ملنیک (بلغارستان)"@fa . with result 200
+24.01.2013 14:21:16.157: <http://fa.wikipedia.org/wiki/منطقه> <http://www.w3.org/2000/01/rdf-schema#label> "منطقه"@fa . with result 200
+24.01.2013 14:21:18.403: <http://fa.wikipedia.org/wiki/نبکا> <http://www.w3.org/2000/01/rdf-schema#label> "نبکا"@fa . with result 200
+24.01.2013 14:21:20.827: <http://fa.wikipedia.org/wiki/نصف‌النهار> <http://www.w3.org/2000/01/rdf-schema#label> "نصف‌النهار"@fa . with result 200
+24.01.2013 14:21:24.339: <http://fa.wikipedia.org/wiki/راهنما:نقشه_شهری_باز> <http://www.w3.org/2000/01/rdf-schema#label> "راهنما:نقشه شهری باز"@fa . with result 200
+24.01.2013 14:21:26.799: <http://fa.wikipedia.org/wiki/نقشه_پیری_رئیس> <http://www.w3.org/2000/01/rdf-schema#label> "نقشه پیری رئیس"@fa . with result 200
+24.01.2013 14:21:30.004: <http://fa.wikipedia.org/wiki/نقشه‌نگاری> <http://www.w3.org/2000/01/rdf-schema#label> "نقشه‌نگاری"@fa . with result 200
+24.01.2013 14:21:32.427: <http://fa.wikipedia.org/wiki/هفت_کشور> <http://www.w3.org/2000/01/rdf-schema#label> "هفت کشور"@fa . with result 200
+24.01.2013 14:21:35.595: <http://fa.wikipedia.org/wiki/هیمالیا> <http://www.w3.org/2000/01/rdf-schema#label> "هیمالیا"@fa . with result 200
+24.01.2013 14:21:38.371: <http://fa.wikipedia.org/wiki/ویکی‌پدیا:ویکی‌پروژه_جغرافیا> <http://www.w3.org/2000/01/rdf-schema#label> "ویکی‌پدیا:ویکی‌پروژه جغرافیا"@fa . with result 200
+24.01.2013 14:21:41.201: <http://fa.wikipedia.org/wiki/پارک_ملی_تیده> <http://www.w3.org/2000/01/rdf-schema#label> "پارک ملی تیده"@fa . with result 200
+24.01.2013 14:21:43.928: <http://fa.wikipedia.org/wiki/پارک_ملی_گاراجونای> <http://www.w3.org/2000/01/rdf-schema#label> "پارک ملی گاراجونای"@fa . with result 200
+24.01.2013 14:21:46.837: <http://fa.wikipedia.org/wiki/پیز_اسپالدا> <http://www.w3.org/2000/01/rdf-schema#label> "پیز اسپالدا"@fa . with result 200
+24.01.2013 14:21:50.205: <http://fa.wikipedia.org/wiki/ژرف_(جغرافیا)> <http://www.w3.org/2000/01/rdf-schema#label> "ژرف (جغرافیا)"@fa . with result 200
+24.01.2013 14:21:52.473: <http://fa.wikipedia.org/wiki/کارول_آ_دیرینگ> <http://www.w3.org/2000/01/rdf-schema#label> "کارول آ دیرینگ"@fa . with result 200
+24.01.2013 14:21:55.240: <http://fa.wikipedia.org/wiki/کشور> <http://www.w3.org/2000/01/rdf-schema#label> "کشور"@fa . with result 200
+24.01.2013 14:21:58.020: <http://fa.wikipedia.org/wiki/کشور_محصور_در_خشکی> <http://www.w3.org/2000/01/rdf-schema#label> "کشور محصور در خشکی"@fa . with result 200
+24.01.2013 14:22:00.889: <http://fa.wikipedia.org/wiki/کلوت> <http://www.w3.org/2000/01/rdf-schema#label> "کلوت"@fa . with result 200
+24.01.2013 14:22:03.413: <http://fa.wikipedia.org/wiki/کونمارا_پنجم> <http://www.w3.org/2000/01/rdf-schema#label> "کونمارا پنجم"@fa . with result 200
+24.01.2013 14:22:06.069: <http://fa.wikipedia.org/wiki/گالیلئو_(ناوبری_ماهواره‌ای)> <http://www.w3.org/2000/01/rdf-schema#label> "گالیلئو (ناوبری ماهواره‌ای)"@fa . with result 200
+24.01.2013 14:22:09.135: <http://fa.wikipedia.org/wiki/گلوناس> <http://www.w3.org/2000/01/rdf-schema#label> "گلوناس"@fa . with result 200
+24.01.2013 14:22:11.671: <http://fa.wikipedia.org/wiki/گلوناس-کی> <http://www.w3.org/2000/01/rdf-schema#label> "گلوناس-کی"@fa . with result 200
+24.01.2013 14:22:14.790: <http://fa.wikipedia.org/wiki/یواس‌اس_سایکلوپ> <http://www.w3.org/2000/01/rdf-schema#label> "یواس‌اس سایکلوپ"@fa . with result 200
+24.01.2013 14:22:17.226: <http://fa.wikipedia.org/wiki/یواس‌اس_نرئوس> <http://www.w3.org/2000/01/rdf-schema#label> "یواس‌اس نرئوس"@fa . with result 200
+24.01.2013 14:22:17.485: <http://fa.wikipedia.org/wiki/پرونده:urmia_lake_1984_to_2011.gif> <http://www.w3.org/2000/01/rdf-schema#label> "<img alt="urmia lake 1984 to 2011.gif" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/urmia_lake_1984_to_2011.gif/120px-urmia_lake_1984_to_2011.gif" width="120" height="120" />"@fa . with result 500
+24.01.2013 14:22:19.509: <http://fa.wikipedia.org/wiki/پرونده:urmia_lake_1984_to_2011.gif> <http://www.w3.org/2000/01/rdf-schema#label> "urmia lake 1984 to 201..."@fa . with result 200
+24.01.2013 14:22:21.903: <http://fa.wikipedia.org/wiki/آب_و_هوا_نیمه_خشک> <http://www.w3.org/2000/01/rdf-schema#label> "آب و هوا نیمه خشک"@fa . with result 200
+24.01.2013 14:22:24.426: <http://fa.wikipedia.org/wiki/آبرفت> <http://www.w3.org/2000/01/rdf-schema#label> "آبرفت"@fa . with result 200
+24.01.2013 14:22:27.301: <http://fa.wikipedia.org/wiki/آفریقای_شمالی> <http://www.w3.org/2000/01/rdf-schema#label> "آفریقای شمالی"@fa . with result 200
+24.01.2013 14:22:30.264: <http://fa.wikipedia.org/wiki/آفریقای_غربی> <http://www.w3.org/2000/01/rdf-schema#label> "آفریقای غربی"@fa . with result 200
+24.01.2013 14:22:32.766: <http://fa.wikipedia.org/wiki/آمازون_(رود)> <http://www.w3.org/2000/01/rdf-schema#label> "آمازون (رود)"@fa . with result 200
+24.01.2013 14:22:35.858: <http://fa.wikipedia.org/wiki/اختلاف_منظر> <http://www.w3.org/2000/01/rdf-schema#label> "اختلاف منظر"@fa . with result 200
+24.01.2013 14:22:38.599: <http://fa.wikipedia.org/wiki/ارتفاع_از_سطح_دریا> <http://www.w3.org/2000/01/rdf-schema#label> "ارتفاع از سطح دریا"@fa . with result 200
+24.01.2013 14:22:41.552: <http://fa.wikipedia.org/wiki/اردآپفل> <http://www.w3.org/2000/01/rdf-schema#label> "اردآپفل"@fa . with result 200
+24.01.2013 14:22:44.182: <http://fa.wikipedia.org/wiki/اسپیلی> <http://www.w3.org/2000/01/rdf-schema#label> "اسپیلی"@fa . with result 200
+24.01.2013 14:22:47.034: <http://fa.wikipedia.org/wiki/اطلس> <http://www.w3.org/2000/01/rdf-schema#label> "اطلس"@fa . with result 200
+24.01.2013 14:22:49.891: <http://fa.wikipedia.org/wiki/باتلاق> <http://www.w3.org/2000/01/rdf-schema#label> "باتلاق"@fa . with result 200
+24.01.2013 14:22:52.505: <http://fa.wikipedia.org/wiki/برنامه‌ریزی_شهری> <http://www.w3.org/2000/01/rdf-schema#label> "برنامه‌ریزی شهری"@fa . with result 200
+24.01.2013 14:22:55.276: <http://fa.wikipedia.org/wiki/بورا_بورا> <http://www.w3.org/2000/01/rdf-schema#label> "بورا بورا"@fa . with result 200
+24.01.2013 14:22:58.250: <http://fa.wikipedia.org/wiki/بیابان_گبی> <http://www.w3.org/2000/01/rdf-schema#label> "بیابان گبی"@fa . with result 200
+24.01.2013 14:23:00.749: <http://fa.wikipedia.org/wiki/بیمینی،_باهاما> <http://www.w3.org/2000/01/rdf-schema#label> "بیمینی، باهاما"@fa . with result 200
+24.01.2013 14:23:03.702: <http://fa.wikipedia.org/wiki/بی‌اس‌ای‌ای_استار_آریل> <http://www.w3.org/2000/01/rdf-schema#label> "بی‌اس‌ای‌ای استار آریل"@fa . with result 200
+24.01.2013 14:23:06.039: <http://fa.wikipedia.org/wiki/بی‌اس‌ای‌ای_استار_تیگر> <http://www.w3.org/2000/01/rdf-schema#label> "بی‌اس‌ای‌ای استار تیگر"@fa . with result 200
+24.01.2013 14:23:08.640: <http://fa.wikipedia.org/wiki/تراکم_جمعیت> <http://www.w3.org/2000/01/rdf-schema#label> "تراکم جمعیت"@fa . with result 200
+24.01.2013 14:23:11.327: <http://fa.wikipedia.org/wiki/تنگه> <http://www.w3.org/2000/01/rdf-schema#label> "تنگه"@fa . with result 200
+24.01.2013 14:23:14.164: <http://fa.wikipedia.org/wiki/تنگه_کره> <http://www.w3.org/2000/01/rdf-schema#label> "تنگه کره"@fa . with result 200
+24.01.2013 14:23:16.890: <http://fa.wikipedia.org/wiki/تنگه_کرچ> <http://www.w3.org/2000/01/rdf-schema#label> "تنگه کرچ"@fa . with result 200
+24.01.2013 14:23:19.257: <http://fa.wikipedia.org/wiki/توده_خاکی> <http://www.w3.org/2000/01/rdf-schema#label> "توده خاکی"@fa . with result 200
+24.01.2013 14:23:22.312: <http://fa.wikipedia.org/wiki/توزیع_و_رشد_جمعیت> <http://www.w3.org/2000/01/rdf-schema#label> "توزیع و رشد جمعیت"@fa . with result 200
+24.01.2013 14:23:24.674: <http://fa.wikipedia.org/wiki/تپه> <http://www.w3.org/2000/01/rdf-schema#label> "تپه"@fa . with result 200
+24.01.2013 14:23:27.777: <http://fa.wikipedia.org/wiki/جای‌نام> <http://www.w3.org/2000/01/rdf-schema#label> "جای‌نام"@fa . with result 200
+24.01.2013 14:23:30.538: <http://fa.wikipedia.org/wiki/جزر_و_مد> <http://www.w3.org/2000/01/rdf-schema#label> "جزر و مد"@fa . with result 200
+24.01.2013 14:23:33.740: <http://fa.wikipedia.org/wiki/درگاه:جغرافیا> <http://www.w3.org/2000/01/rdf-schema#label> "درگاه:جغرافیا"@fa . with result 200
+24.01.2013 14:23:38.370: <http://fa.wikipedia.org/wiki/جغرافیا> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیا"@fa . with result 200
+24.01.2013 14:23:40.717: <http://fa.wikipedia.org/wiki/جغرافیای_انسانی> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیای انسانی"@fa . with result 200
+24.01.2013 14:23:43.784: <http://fa.wikipedia.org/wiki/جغرافیای_سیاسی> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیای سیاسی"@fa . with result 200
+24.01.2013 14:23:47.149: <http://fa.wikipedia.org/wiki/جغرافیای_طبیعی> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیای طبیعی"@fa . with result 200
+24.01.2013 14:23:49.700: <http://fa.wikipedia.org/wiki/جلگه> <http://www.w3.org/2000/01/rdf-schema#label> "جلگه"@fa . with result 200
+24.01.2013 14:23:52.886: <http://fa.wikipedia.org/wiki/جنوب_آفریقا> <http://www.w3.org/2000/01/rdf-schema#label> "جنوب آفریقا"@fa . with result 200
+24.01.2013 14:23:56.640: <http://fa.wikipedia.org/wiki/جنوبگان> <http://www.w3.org/2000/01/rdf-schema#label> "جنوبگان"@fa . with result 200
+24.01.2013 14:23:59.803: <http://fa.wikipedia.org/wiki/جنگل> <http://www.w3.org/2000/01/rdf-schema#label> "جنگل"@fa . with result 200
+24.01.2013 14:24:02.883: <http://fa.wikipedia.org/wiki/جهت‌یابی> <http://www.w3.org/2000/01/rdf-schema#label> "جهت‌یابی"@fa . with result 200
+24.01.2013 14:24:05.348: <http://fa.wikipedia.org/wiki/خاور_نزدیک> <http://www.w3.org/2000/01/rdf-schema#label> "خاور نزدیک"@fa . with result 200
+24.01.2013 14:24:08.310: <http://fa.wikipedia.org/wiki/خلیج_ایلات> <http://www.w3.org/2000/01/rdf-schema#label> "خلیج ایلات"@fa . with result 200
+24.01.2013 14:24:10.654: <http://fa.wikipedia.org/wiki/خلیج_بحرین> <http://www.w3.org/2000/01/rdf-schema#label> "خلیج بحرین"@fa . with result 200
+24.01.2013 14:24:13.916: <http://fa.wikipedia.org/wiki/خلیج_عقبه> <http://www.w3.org/2000/01/rdf-schema#label> "خلیج عقبه"@fa . with result 200
+24.01.2013 14:24:16.697: <http://fa.wikipedia.org/wiki/خور_عبدالله> <http://www.w3.org/2000/01/rdf-schema#label> "خور عبدالله"@fa . with result 200
+24.01.2013 14:24:19.619: <http://fa.wikipedia.org/wiki/خورشید_نیمه‌شب> <http://www.w3.org/2000/01/rdf-schema#label> "خورشید نیمه‌شب"@fa . with result 200
+24.01.2013 14:24:23.213: <http://fa.wikipedia.org/wiki/داده‌های_مکانی> <http://www.w3.org/2000/01/rdf-schema#label> "داده‌های مکانی"@fa . with result 200
+24.01.2013 14:24:26.028: <http://fa.wikipedia.org/wiki/دره_پازیریک> <http://www.w3.org/2000/01/rdf-schema#label> "دره پازیریک"@fa . with result 200
+24.01.2013 14:24:28.963: <http://fa.wikipedia.org/wiki/دستگاه_مختصات_جغرافیایی> <http://www.w3.org/2000/01/rdf-schema#label> "دستگاه مختصات جغرافیایی"@fa . with result 200
+24.01.2013 14:24:31.723: <http://fa.wikipedia.org/wiki/دماغه_واشنگتن> <http://www.w3.org/2000/01/rdf-schema#label> "دماغه واشنگتن"@fa . with result 200
+24.01.2013 14:24:34.127: <http://fa.wikipedia.org/wiki/ریگ‌روان> <http://www.w3.org/2000/01/rdf-schema#label> "ریگ‌روان"@fa . with result 200
+24.01.2013 14:24:40.574: <http://fa.wikipedia.org/wiki/زمین> <http://www.w3.org/2000/01/rdf-schema#label> "زمین"@fa . with result 200
+24.01.2013 14:24:42.819: <http://fa.wikipedia.org/wiki/سازمان_زمین‌شناسی_آمریکا> <http://www.w3.org/2000/01/rdf-schema#label> "سازمان زمین‌شناسی آمریکا"@fa . with result 200
+24.01.2013 14:24:45.914: <http://fa.wikipedia.org/wiki/سامانه_موقعیت‌یاب_جهانی> <http://www.w3.org/2000/01/rdf-schema#label> "سامانه موقعیت‌یاب جهانی"@fa . with result 200
+24.01.2013 14:24:49.029: <http://fa.wikipedia.org/wiki/سامانه_ناوبری_بیدو> <http://www.w3.org/2000/01/rdf-schema#label> "سامانه ناوبری بیدو"@fa . with result 200
+24.01.2013 14:24:52.198: <http://fa.wikipedia.org/wiki/سفیدرود_(ایران)> <http://www.w3.org/2000/01/rdf-schema#label> "سفیدرود (ایران)"@fa . with result 200
+24.01.2013 14:24:55.339: <http://fa.wikipedia.org/wiki/شبه‌قاره_هند> <http://www.w3.org/2000/01/rdf-schema#label> "شبه‌قاره هند"@fa . with result 200
+24.01.2013 14:24:58.589: <http://fa.wikipedia.org/wiki/شمال_حقیقی> <http://www.w3.org/2000/01/rdf-schema#label> "شمال حقیقی"@fa . with result 200
+24.01.2013 14:25:01.275: <http://fa.wikipedia.org/wiki/شمالگان> <http://www.w3.org/2000/01/rdf-schema#label> "شمالگان"@fa . with result 200
+24.01.2013 14:25:04.217: <http://fa.wikipedia.org/wiki/شهرسازی> <http://www.w3.org/2000/01/rdf-schema#label> "شهرسازی"@fa . with result 200
+24.01.2013 14:25:06.737: <http://fa.wikipedia.org/wiki/صفحه_آمریکای_جنوبی> <http://www.w3.org/2000/01/rdf-schema#label> "صفحه آمریکای جنوبی"@fa . with result 200
+24.01.2013 14:25:09.551: <http://fa.wikipedia.org/wiki/صفحه_نازکا> <http://www.w3.org/2000/01/rdf-schema#label> "صفحه نازکا"@fa . with result 200
+24.01.2013 14:25:12.975: <http://fa.wikipedia.org/wiki/طول_جغرافیایی> <http://www.w3.org/2000/01/rdf-schema#label> "طول جغرافیایی"@fa . with result 200
+24.01.2013 14:25:15.390: <http://fa.wikipedia.org/wiki/فانوس_دریایی_ایزاک> <http://www.w3.org/2000/01/rdf-schema#label> "فانوس دریایی ایزاک"@fa . with result 200
+24.01.2013 14:25:18.760: <http://fa.wikipedia.org/wiki/فهرست_دریاچه‌های_روسیه> <http://www.w3.org/2000/01/rdf-schema#label> "فهرست دریاچه‌های روسیه"@fa . with result 200
+24.01.2013 14:25:21.397: <http://fa.wikipedia.org/wiki/فهرست_شهرهای_قاره_آمریکای_جنوبی> <http://www.w3.org/2000/01/rdf-schema#label> "فهرست شهرهای قاره آمریکای جنوبی"@fa . with result 200
+24.01.2013 14:25:24.736: <http://fa.wikipedia.org/wiki/فهرست_کوه‌های_استان_هرمزگان> <http://www.w3.org/2000/01/rdf-schema#label> "فهرست کوه‌های استان هرمزگان"@fa . with result 200
+24.01.2013 14:25:27.448: <http://fa.wikipedia.org/wiki/قطب_شمال> <http://www.w3.org/2000/01/rdf-schema#label> "قطب شمال"@fa . with result 200
+24.01.2013 14:25:30.682: <http://fa.wikipedia.org/wiki/ویکی‌پدیا:قواعد_مختصات‌دهی> <http://www.w3.org/2000/01/rdf-schema#label> "ویکی‌پدیا:قواعد مختصات‌دهی"@fa . with result 200
+24.01.2013 14:25:33.988: <http://fa.wikipedia.org/wiki/مثلث_برمودا> <http://www.w3.org/2000/01/rdf-schema#label> "مثلث برمودا"@fa . with result 200
+24.01.2013 14:25:36.634: <http://fa.wikipedia.org/wiki/مدار_(جغرافیا)> <http://www.w3.org/2000/01/rdf-schema#label> "مدار (جغرافیا)"@fa . with result 200
+24.01.2013 14:25:39.260: <http://fa.wikipedia.org/wiki/مدار_قطبی> <http://www.w3.org/2000/01/rdf-schema#label> "مدار قطبی"@fa . with result 200
+24.01.2013 14:25:41.761: <http://fa.wikipedia.org/wiki/مدل_های_سه_بعدی_شهرها> <http://www.w3.org/2000/01/rdf-schema#label> "مدل های سه بعدی شهرها"@fa . with result 200
+24.01.2013 14:25:44.710: <http://fa.wikipedia.org/wiki/مرز_(سرحد)> <http://www.w3.org/2000/01/rdf-schema#label> "مرز (سرحد)"@fa . with result 200
+24.01.2013 14:25:47.093: <http://fa.wikipedia.org/wiki/ملنیک_(بلغارستان)> <http://www.w3.org/2000/01/rdf-schema#label> "ملنیک (بلغارستان)"@fa . with result 200
+24.01.2013 14:25:49.950: <http://fa.wikipedia.org/wiki/منطقه> <http://www.w3.org/2000/01/rdf-schema#label> "منطقه"@fa . with result 200
+24.01.2013 14:25:52.554: <http://fa.wikipedia.org/wiki/نبکا> <http://www.w3.org/2000/01/rdf-schema#label> "نبکا"@fa . with result 200
+24.01.2013 14:25:55.575: <http://fa.wikipedia.org/wiki/نصف‌النهار> <http://www.w3.org/2000/01/rdf-schema#label> "نصف‌النهار"@fa . with result 200
+24.01.2013 14:25:57.990: <http://fa.wikipedia.org/wiki/راهنما:نقشه_شهری_باز> <http://www.w3.org/2000/01/rdf-schema#label> "راهنما:نقشه شهری باز"@fa . with result 200
+24.01.2013 14:26:01.068: <http://fa.wikipedia.org/wiki/نقشه_پیری_رئیس> <http://www.w3.org/2000/01/rdf-schema#label> "نقشه پیری رئیس"@fa . with result 200
+24.01.2013 14:26:04.034: <http://fa.wikipedia.org/wiki/نقشه‌نگاری> <http://www.w3.org/2000/01/rdf-schema#label> "نقشه‌نگاری"@fa . with result 200
+24.01.2013 14:26:06.191: <http://fa.wikipedia.org/wiki/هفت_کشور> <http://www.w3.org/2000/01/rdf-schema#label> "هفت کشور"@fa . with result 200
+24.01.2013 14:26:09.536: <http://fa.wikipedia.org/wiki/هیمالیا> <http://www.w3.org/2000/01/rdf-schema#label> "هیمالیا"@fa . with result 200
+24.01.2013 14:26:11.947: <http://fa.wikipedia.org/wiki/ویکی‌پدیا:ویکی‌پروژه_جغرافیا> <http://www.w3.org/2000/01/rdf-schema#label> "ویکی‌پدیا:ویکی‌پروژه جغرافیا"@fa . with result 200
+24.01.2013 14:26:14.603: <http://fa.wikipedia.org/wiki/پارک_ملی_تیده> <http://www.w3.org/2000/01/rdf-schema#label> "پارک ملی تیده"@fa . with result 200
+24.01.2013 14:26:17.388: <http://fa.wikipedia.org/wiki/پارک_ملی_گاراجونای> <http://www.w3.org/2000/01/rdf-schema#label> "پارک ملی گاراجونای"@fa . with result 200
+24.01.2013 14:26:20.115: <http://fa.wikipedia.org/wiki/پیز_اسپالدا> <http://www.w3.org/2000/01/rdf-schema#label> "پیز اسپالدا"@fa . with result 200
+24.01.2013 14:26:22.647: <http://fa.wikipedia.org/wiki/ژرف_(جغرافیا)> <http://www.w3.org/2000/01/rdf-schema#label> "ژرف (جغرافیا)"@fa . with result 200
+24.01.2013 14:26:25.380: <http://fa.wikipedia.org/wiki/کارول_آ_دیرینگ> <http://www.w3.org/2000/01/rdf-schema#label> "کارول آ دیرینگ"@fa . with result 200
+24.01.2013 14:26:28.046: <http://fa.wikipedia.org/wiki/کشور> <http://www.w3.org/2000/01/rdf-schema#label> "کشور"@fa . with result 200
+24.01.2013 14:26:30.815: <http://fa.wikipedia.org/wiki/کشور_محصور_در_خشکی> <http://www.w3.org/2000/01/rdf-schema#label> "کشور محصور در خشکی"@fa . with result 200
+24.01.2013 14:26:33.822: <http://fa.wikipedia.org/wiki/کلوت> <http://www.w3.org/2000/01/rdf-schema#label> "کلوت"@fa . with result 200
+24.01.2013 14:26:36.603: <http://fa.wikipedia.org/wiki/کونمارا_پنجم> <http://www.w3.org/2000/01/rdf-schema#label> "کونمارا پنجم"@fa . with result 200
+24.01.2013 14:26:39.244: <http://fa.wikipedia.org/wiki/گالیلئو_(ناوبری_ماهواره‌ای)> <http://www.w3.org/2000/01/rdf-schema#label> "گالیلئو (ناوبری ماهواره‌ای)"@fa . with result 200
+24.01.2013 14:26:42.121: <http://fa.wikipedia.org/wiki/گلوناس> <http://www.w3.org/2000/01/rdf-schema#label> "گلوناس"@fa . with result 200
+24.01.2013 14:26:44.862: <http://fa.wikipedia.org/wiki/گلوناس-کی> <http://www.w3.org/2000/01/rdf-schema#label> "گلوناس-کی"@fa . with result 200
+24.01.2013 14:26:47.318: <http://fa.wikipedia.org/wiki/یواس‌اس_سایکلوپ> <http://www.w3.org/2000/01/rdf-schema#label> "یواس‌اس سایکلوپ"@fa . with result 200
+24.01.2013 14:26:50.068: <http://fa.wikipedia.org/wiki/یواس‌اس_نرئوس> <http://www.w3.org/2000/01/rdf-schema#label> "یواس‌اس نرئوس"@fa . with result 200
+24.01.2013 14:26:53.261: <http://fa.wikipedia.org/wiki/رده:علوم_میان‌رشته‌ای> <http://www.w3.org/2000/01/rdf-schema#label> "دسته‌بندی موضوعات اصلی"@fa . with result 200
+24.01.2013 14:26:56.020: <http://fa.wikipedia.org/wiki/ویکی‌پدیا:ویکی‌پروژه_ریاضی> <http://www.w3.org/2000/01/rdf-schema#label> "ویکی‌پدیا:ویکی‌پروژه ریاضی"@fa . with result 200
+24.01.2013 14:26:58.593: <http://fa.wikipedia.org/wiki/آنالیز_ریاضی> <http://www.w3.org/2000/01/rdf-schema#label> "آنالیز ریاضی"@fa . with result 200
+24.01.2013 14:27:01.213: <http://fa.wikipedia.org/wiki/اجتماع_(مجموعه)> <http://www.w3.org/2000/01/rdf-schema#label> "اجتماع (مجموعه)"@fa . with result 200
+24.01.2013 14:27:05.593: <http://fa.wikipedia.org/wiki/اسپلاین> <http://www.w3.org/2000/01/rdf-schema#label> "اسپلاین"@fa . with result 200
+24.01.2013 14:27:10.228: <http://fa.wikipedia.org/wiki/اصول_احتمال> <http://www.w3.org/2000/01/rdf-schema#label> "اصول احتمال"@fa . with result 200
+24.01.2013 14:27:12.618: <http://fa.wikipedia.org/wiki/اعداد_عربی> <http://www.w3.org/2000/01/rdf-schema#label> "اعداد عربی"@fa . with result 200
+24.01.2013 14:27:14.868: <http://fa.wikipedia.org/wiki/ان_رقمی> <http://www.w3.org/2000/01/rdf-schema#label> "ان رقمی"@fa . with result 200
+24.01.2013 14:27:17.396: <http://fa.wikipedia.org/wiki/انتگرال_حجمی> <http://www.w3.org/2000/01/rdf-schema#label> "انتگرال حجمی"@fa . with result 200
+24.01.2013 14:27:19.980: <http://fa.wikipedia.org/wiki/انتگرال‌گیری_جزء_به_جزء> <http://www.w3.org/2000/01/rdf-schema#label> "انتگرال‌گیری جزء به جزء"@fa . with result 200
+24.01.2013 14:27:22.590: <http://fa.wikipedia.org/wiki/بازه> <http://www.w3.org/2000/01/rdf-schema#label> "بازه"@fa . with result 200
+24.01.2013 14:27:25.127: <http://fa.wikipedia.org/wiki/بسامد_فضایی> <http://www.w3.org/2000/01/rdf-schema#label> "بسامد فضایی"@fa . with result 200
+24.01.2013 14:27:27.630: <http://fa.wikipedia.org/wiki/بطری_کلاین> <http://www.w3.org/2000/01/rdf-schema#label> "بطری کلاین"@fa . with result 200
+24.01.2013 14:27:29.599: <http://fa.wikipedia.org/wiki/تباهیدگی> <http://www.w3.org/2000/01/rdf-schema#label> "تباهیدگی"@fa . with result 200
+24.01.2013 14:27:32.248: <http://fa.wikipedia.org/wiki/جانشینی_مثلثاتی> <http://www.w3.org/2000/01/rdf-schema#label> "جانشینی مثلثاتی"@fa . with result 200
+24.01.2013 14:27:34.526: <http://fa.wikipedia.org/wiki/جبر_مجرد> <http://www.w3.org/2000/01/rdf-schema#label> "جبر مجرد"@fa . with result 200
+24.01.2013 14:27:36.991: <http://fa.wikipedia.org/wiki/جبر_محاسباتی> <http://www.w3.org/2000/01/rdf-schema#label> "جبر محاسباتی"@fa . with result 200
+24.01.2013 14:27:39.464: <http://fa.wikipedia.org/wiki/جمع_(ریاضی)> <http://www.w3.org/2000/01/rdf-schema#label> "جمع (ریاضی)"@fa . with result 200
+24.01.2013 14:27:41.333: <http://fa.wikipedia.org/wiki/حدس> <http://www.w3.org/2000/01/rdf-schema#label> "حدس"@fa . with result 200
+24.01.2013 14:27:44.017: <http://fa.wikipedia.org/wiki/حل_مسئله> <http://www.w3.org/2000/01/rdf-schema#label> "حل مسئله"@fa . with result 200
+24.01.2013 14:27:47.110: <http://fa.wikipedia.org/wiki/خانه_ریاضیات_نیشابور> <http://www.w3.org/2000/01/rdf-schema#label> "خانه ریاضیات نیشابور"@fa . with result 200
+24.01.2013 14:27:49.406: <http://fa.wikipedia.org/wiki/درونیابی_دوخطی> <http://www.w3.org/2000/01/rdf-schema#label> "درونیابی دوخطی"@fa . with result 200
+24.01.2013 14:27:51.791: <http://fa.wikipedia.org/wiki/درونیابی_دومکعبی> <http://www.w3.org/2000/01/rdf-schema#label> "درونیابی دومکعبی"@fa . with result 200
+24.01.2013 14:27:54.484: <http://fa.wikipedia.org/wiki/دستگاه_اعداد_هندی> <http://www.w3.org/2000/01/rdf-schema#label> "دستگاه اعداد هندی"@fa . with result 200
+24.01.2013 14:27:57.337: <http://fa.wikipedia.org/wiki/ده‌دهی> <http://www.w3.org/2000/01/rdf-schema#label> "ده‌دهی"@fa . with result 200
+24.01.2013 14:27:59.976: <http://fa.wikipedia.org/wiki/روش_تفاضل_محدود> <http://www.w3.org/2000/01/rdf-schema#label> "روش تفاضل محدود"@fa . with result 200
+24.01.2013 14:28:02.654: <http://fa.wikipedia.org/wiki/رویه_زیربخش_دو-سابین> <http://www.w3.org/2000/01/rdf-schema#label> "رویه زیربخش دو-سابین"@fa . with result 200
+24.01.2013 14:28:05.792: <http://fa.wikipedia.org/wiki/رویه_زیربخش_کتمول-کلارک> <http://www.w3.org/2000/01/rdf-schema#label> "رویه زیربخش کتمول-کلارک"@fa . with result 200
+24.01.2013 14:28:08.051: <http://fa.wikipedia.org/wiki/رویه_کونز> <http://www.w3.org/2000/01/rdf-schema#label> "رویه کونز"@fa . with result 200
+24.01.2013 14:28:11.904: <http://fa.wikipedia.org/wiki/ریاضیات> <http://www.w3.org/2000/01/rdf-schema#label> "ریاضیات"@fa . with result 200
+24.01.2013 14:28:14.452: <http://fa.wikipedia.org/wiki/ریاضیات_محض> <http://www.w3.org/2000/01/rdf-schema#label> "ریاضیات محض"@fa . with result 200
+24.01.2013 14:28:16.914: <http://fa.wikipedia.org/wiki/سکانت> <http://www.w3.org/2000/01/rdf-schema#label> "سکانت"@fa . with result 200
+24.01.2013 14:28:19.687: <http://fa.wikipedia.org/wiki/بحث_الگو:شاخه‌های_اصلی_ریاضیات> <http://www.w3.org/2000/01/rdf-schema#label> "بحث الگو:شاخه‌های اصلی ریاضیات"@fa . with result 200
+24.01.2013 14:28:22.655: <http://fa.wikipedia.org/wiki/شارل_هرمیت> <http://www.w3.org/2000/01/rdf-schema#label> "شارل هرمیت"@fa . with result 200
+24.01.2013 14:28:24.790: <http://fa.wikipedia.org/wiki/شناساگر_(ریاضیات)> <http://www.w3.org/2000/01/rdf-schema#label> "شناساگر (ریاضیات)"@fa . with result 200
+24.01.2013 14:28:27.202: <http://fa.wikipedia.org/wiki/ضرایب_لاگرانژ> <http://www.w3.org/2000/01/rdf-schema#label> "ضرایب لاگرانژ"@fa . with result 200
+24.01.2013 14:28:29.121: <http://fa.wikipedia.org/wiki/عدد_کولگن-کارپنتر> <http://www.w3.org/2000/01/rdf-schema#label> "عدد کولگن-کارپنتر"@fa . with result 200
+24.01.2013 14:28:31.987: <http://fa.wikipedia.org/wiki/فهرست_انتگرال_توابع_گویا> <http://www.w3.org/2000/01/rdf-schema#label> "فهرست انتگرال توابع گویا"@fa . with result 200
+24.01.2013 14:28:34.669: <http://fa.wikipedia.org/wiki/فهرست_دستورات_اسمبلی> <http://www.w3.org/2000/01/rdf-schema#label> "فهرست دستورات اسمبلی"@fa . with result 200
+24.01.2013 14:28:37.203: <http://fa.wikipedia.org/wiki/قاعده_ضرب> <http://www.w3.org/2000/01/rdf-schema#label> "قاعده ضرب"@fa . with result 200
+24.01.2013 14:28:39.449: <http://fa.wikipedia.org/wiki/قضیه_آخر_فرما> <http://www.w3.org/2000/01/rdf-schema#label> "قضیه آخر فرما"@fa . with result 200
+24.01.2013 14:28:43.220: <http://fa.wikipedia.org/wiki/مثلث_بزیه> <http://www.w3.org/2000/01/rdf-schema#label> "مثلث بزیه"@fa . with result 200
+24.01.2013 14:28:45.686: <http://fa.wikipedia.org/wiki/مسئله_دیسک_در_تئوری_ارتجاعی> <http://www.w3.org/2000/01/rdf-schema#label> "مسئله دیسک در تئوری ارتجاعی"@fa . with result 200
+24.01.2013 14:28:48.838: <http://fa.wikipedia.org/wiki/مسئله_محاسباتی_انجام‌پذیر> <http://www.w3.org/2000/01/rdf-schema#label> "مسئله محاسباتی انجام‌پذیر"@fa . with result 200
+24.01.2013 14:28:51.486: <http://fa.wikipedia.org/wiki/منحنی_بیضوی> <http://www.w3.org/2000/01/rdf-schema#label> "منحنی بیضوی"@fa . with result 200
+24.01.2013 14:28:54.391: <http://fa.wikipedia.org/wiki/مکمل_یک> <http://www.w3.org/2000/01/rdf-schema#label> "مکمل یک"@fa . with result 200
+24.01.2013 14:28:56.830: <http://fa.wikipedia.org/wiki/نمودار_دایره‌ای> <http://www.w3.org/2000/01/rdf-schema#label> "نمودار دایره‌ای"@fa . with result 200
+24.01.2013 14:29:00.178: <http://fa.wikipedia.org/wiki/نگارش_اعداد_انگلیسی> <http://www.w3.org/2000/01/rdf-schema#label> "نگارش اعداد انگلیسی"@fa . with result 200
+24.01.2013 14:29:02.824: <http://fa.wikipedia.org/wiki/نیمه‌صحیح> <http://www.w3.org/2000/01/rdf-schema#label> "نیمه‌صحیح"@fa . with result 200
+24.01.2013 14:29:05.237: <http://fa.wikipedia.org/wiki/هندسه_روش_کمترین_مربعات_معمولی> <http://www.w3.org/2000/01/rdf-schema#label> "هندسه روش کمترین مربعات معمولی"@fa . with result 200
+24.01.2013 14:29:07.918: <http://fa.wikipedia.org/wiki/پارامتر> <http://www.w3.org/2000/01/rdf-schema#label> "پارامتر"@fa . with result 200
+24.01.2013 14:29:10.390: <http://fa.wikipedia.org/wiki/چندگونای_جبری> <http://www.w3.org/2000/01/rdf-schema#label> "چندگونای جبری"@fa . with result 200
+24.01.2013 14:29:13.174: <http://fa.wikipedia.org/wiki/کاشی‌سازی_برخالی> <http://www.w3.org/2000/01/rdf-schema#label> "کاشی‌سازی برخالی"@fa . with result 200
+24.01.2013 14:29:15.576: <http://fa.wikipedia.org/wiki/کد_همینگ> <http://www.w3.org/2000/01/rdf-schema#label> "کد همینگ"@fa . with result 200
+24.01.2013 14:29:17.974: <http://fa.wikipedia.org/wiki/کرسی_ریاضیات_لوکاسی> <http://www.w3.org/2000/01/rdf-schema#label> "کرسی ریاضیات لوکاسی"@fa . with result 200
+24.01.2013 14:29:20.705: <http://fa.wikipedia.org/wiki/گوگولپلکس> <http://www.w3.org/2000/01/rdf-schema#label> "گوگولپلکس"@fa . with result 200
+24.01.2013 14:29:23.420: <http://fa.wikipedia.org/wiki/۲۳۲_(عدد)> <http://www.w3.org/2000/01/rdf-schema#label> "۲۳۲ (عدد)"@fa . with result 200
+24.01.2013 14:29:26.137: <http://fa.wikipedia.org/wiki/۲۳۶_(عدد)> <http://www.w3.org/2000/01/rdf-schema#label> "۲۳۶ (عدد)"@fa . with result 200
+24.01.2013 14:29:28.604: <http://fa.wikipedia.org/wiki/۲۳۸_(عدد)> <http://www.w3.org/2000/01/rdf-schema#label> "۲۳۸ (عدد)"@fa . with result 200
+24.01.2013 14:29:30.994: <http://fa.wikipedia.org/wiki/۲۴۴_(عدد)> <http://www.w3.org/2000/01/rdf-schema#label> "۲۴۴ (عدد)"@fa . with result 200
+24.01.2013 14:29:33.113: <http://fa.wikipedia.org/wiki/۲۴۶_(عدد)> <http://www.w3.org/2000/01/rdf-schema#label> "۲۴۶ (عدد)"@fa . with result 200
+24.01.2013 14:29:35.452: <http://fa.wikipedia.org/wiki/۲۴۸_(عدد)> <http://www.w3.org/2000/01/rdf-schema#label> "۲۴۸ (عدد)"@fa . with result 200
+24.01.2013 14:29:38.206: <http://fa.wikipedia.org/wiki/۲۴۹_(عدد)> <http://www.w3.org/2000/01/rdf-schema#label> "۲۴۹ (عدد)"@fa . with result 200
+24.01.2013 14:29:40.552: <http://fa.wikipedia.org/wiki/۲۵۲_(عدد)> <http://www.w3.org/2000/01/rdf-schema#label> "۲۵۲ (عدد)"@fa . with result 200
+24.01.2013 14:29:42.727: <http://fa.wikipedia.org/wiki/۲۵۳_(عدد)> <http://www.w3.org/2000/01/rdf-schema#label> "۲۵۳ (عدد)"@fa . with result 200
+24.01.2013 14:29:45.303: <http://fa.wikipedia.org/wiki/۲۵۸_(عدد)> <http://www.w3.org/2000/01/rdf-schema#label> "۲۵۸ (عدد)"@fa . with result 200
+24.01.2013 14:29:47.933: <http://fa.wikipedia.org/wiki/۲۵۹_(عدد)> <http://www.w3.org/2000/01/rdf-schema#label> "۲۵۹ (عدد)"@fa . with result 200
+24.01.2013 14:29:50.827: <http://fa.wikipedia.org/wiki/ویکی‌پدیا:ویکی‌پروژه_ریاضی> <http://www.w3.org/2000/01/rdf-schema#label> "ویکی‌پدیا:ویکی‌پروژه ریاضی"@fa . with result 200
+24.01.2013 14:29:53.259: <http://fa.wikipedia.org/wiki/آنالیز_ریاضی> <http://www.w3.org/2000/01/rdf-schema#label> "آنالیز ریاضی"@fa . with result 200
+24.01.2013 14:29:55.507: <http://fa.wikipedia.org/wiki/اجتماع_(مجموعه)> <http://www.w3.org/2000/01/rdf-schema#label> "اجتماع (مجموعه)"@fa . with result 200
+24.01.2013 14:29:57.916: <http://fa.wikipedia.org/wiki/اسپلاین> <http://www.w3.org/2000/01/rdf-schema#label> "اسپلاین"@fa . with result 200
+24.01.2013 14:30:00.993: <http://fa.wikipedia.org/wiki/اصول_احتمال> <http://www.w3.org/2000/01/rdf-schema#label> "اصول احتمال"@fa . with result 200
+24.01.2013 14:30:03.417: <http://fa.wikipedia.org/wiki/اعداد_عربی> <http://www.w3.org/2000/01/rdf-schema#label> "اعداد عربی"@fa . with result 200
+24.01.2013 14:30:05.725: <http://fa.wikipedia.org/wiki/ان_رقمی> <http://www.w3.org/2000/01/rdf-schema#label> "ان رقمی"@fa . with result 200
+24.01.2013 14:30:08.561: <http://fa.wikipedia.org/wiki/انتگرال_حجمی> <http://www.w3.org/2000/01/rdf-schema#label> "انتگرال حجمی"@fa . with result 200
+24.01.2013 14:30:11.099: <http://fa.wikipedia.org/wiki/انتگرال‌گیری_جزء_به_جزء> <http://www.w3.org/2000/01/rdf-schema#label> "انتگرال‌گیری جزء به جزء"@fa . with result 200
+24.01.2013 14:30:13.702: <http://fa.wikipedia.org/wiki/بازه> <http://www.w3.org/2000/01/rdf-schema#label> "بازه"@fa . with result 200
+24.01.2013 14:30:16.076: <http://fa.wikipedia.org/wiki/بسامد_فضایی> <http://www.w3.org/2000/01/rdf-schema#label> "بسامد فضایی"@fa . with result 200
+24.01.2013 14:30:18.646: <http://fa.wikipedia.org/wiki/بطری_کلاین> <http://www.w3.org/2000/01/rdf-schema#label> "بطری کلاین"@fa . with result 200
+24.01.2013 14:30:20.856: <http://fa.wikipedia.org/wiki/تباهیدگی> <http://www.w3.org/2000/01/rdf-schema#label> "تباهیدگی"@fa . with result 200
+24.01.2013 14:30:23.244: <http://fa.wikipedia.org/wiki/جانشینی_مثلثاتی> <http://www.w3.org/2000/01/rdf-schema#label> "جانشینی مثلثاتی"@fa . with result 200
+24.01.2013 14:30:25.885: <http://fa.wikipedia.org/wiki/جبر_مجرد> <http://www.w3.org/2000/01/rdf-schema#label> "جبر مجرد"@fa . with result 200
+24.01.2013 14:30:28.923: <http://fa.wikipedia.org/wiki/جبر_محاسباتی> <http://www.w3.org/2000/01/rdf-schema#label> "جبر محاسباتی"@fa . with result 200
+24.01.2013 14:30:31.822: <http://fa.wikipedia.org/wiki/جمع_(ریاضی)> <http://www.w3.org/2000/01/rdf-schema#label> "جمع (ریاضی)"@fa . with result 200
+24.01.2013 14:30:34.514: <http://fa.wikipedia.org/wiki/حدس> <http://www.w3.org/2000/01/rdf-schema#label> "حدس"@fa . with result 200
+24.01.2013 14:30:36.723: <http://fa.wikipedia.org/wiki/حل_مسئله> <http://www.w3.org/2000/01/rdf-schema#label> "حل مسئله"@fa . with result 200
+24.01.2013 14:30:39.669: <http://fa.wikipedia.org/wiki/خانه_ریاضیات_نیشابور> <http://www.w3.org/2000/01/rdf-schema#label> "خانه ریاضیات نیشابور"@fa . with result 200
+24.01.2013 14:30:42.667: <http://fa.wikipedia.org/wiki/درونیابی_دوخطی> <http://www.w3.org/2000/01/rdf-schema#label> "درونیابی دوخطی"@fa . with result 200
+24.01.2013 14:30:45.006: <http://fa.wikipedia.org/wiki/درونیابی_دومکعبی> <http://www.w3.org/2000/01/rdf-schema#label> "درونیابی دومکعبی"@fa . with result 200
+24.01.2013 14:30:47.426: <http://fa.wikipedia.org/wiki/دستگاه_اعداد_هندی> <http://www.w3.org/2000/01/rdf-schema#label> "دستگاه اعداد هندی"@fa . with result 200
+24.01.2013 14:30:50.115: <http://fa.wikipedia.org/wiki/ده‌دهی> <http://www.w3.org/2000/01/rdf-schema#label> "ده‌دهی"@fa . with result 200
+24.01.2013 14:30:52.356: <http://fa.wikipedia.org/wiki/روش_تفاضل_محدود> <http://www.w3.org/2000/01/rdf-schema#label> "روش تفاضل محدود"@fa . with result 200
+24.01.2013 14:30:55.488: <http://fa.wikipedia.org/wiki/رویه_زیربخش_دو-سابین> <http://www.w3.org/2000/01/rdf-schema#label> "رویه زیربخش دو-سابین"@fa . with result 200
+24.01.2013 14:30:57.934: <http://fa.wikipedia.org/wiki/رویه_زیربخش_کتمول-کلارک> <http://www.w3.org/2000/01/rdf-schema#label> "رویه زیربخش کتمول-کلارک"@fa . with result 200
+24.01.2013 14:31:00.423: <http://fa.wikipedia.org/wiki/رویه_کونز> <http://www.w3.org/2000/01/rdf-schema#label> "رویه کونز"@fa . with result 200
+24.01.2013 14:31:03.307: <http://fa.wikipedia.org/wiki/ریاضیات> <http://www.w3.org/2000/01/rdf-schema#label> "ریاضیات"@fa . with result 200
+24.01.2013 14:31:06.431: <http://fa.wikipedia.org/wiki/ریاضیات_محض> <http://www.w3.org/2000/01/rdf-schema#label> "ریاضیات محض"@fa . with result 200
+24.01.2013 14:31:08.705: <http://fa.wikipedia.org/wiki/سکانت> <http://www.w3.org/2000/01/rdf-schema#label> "سکانت"@fa . with result 200
+24.01.2013 14:31:11.204: <http://fa.wikipedia.org/wiki/بحث_الگو:شاخه‌های_اصلی_ریاضیات> <http://www.w3.org/2000/01/rdf-schema#label> "بحث الگو:شاخه‌های اصلی ریاضیات"@fa . with result 200
+24.01.2013 14:31:14.333: <http://fa.wikipedia.org/wiki/شارل_هرمیت> <http://www.w3.org/2000/01/rdf-schema#label> "شارل هرمیت"@fa . with result 200
+24.01.2013 14:31:17.028: <http://fa.wikipedia.org/wiki/شناساگر_(ریاضیات)> <http://www.w3.org/2000/01/rdf-schema#label> "شناساگر (ریاضیات)"@fa . with result 200
+24.01.2013 14:31:20.168: <http://fa.wikipedia.org/wiki/ضرایب_لاگرانژ> <http://www.w3.org/2000/01/rdf-schema#label> "ضرایب لاگرانژ"@fa . with result 200
+24.01.2013 14:31:22.292: <http://fa.wikipedia.org/wiki/عدد_کولگن-کارپنتر> <http://www.w3.org/2000/01/rdf-schema#label> "عدد کولگن-کارپنتر"@fa . with result 200
+24.01.2013 14:31:24.371: <http://fa.wikipedia.org/wiki/فهرست_انتگرال_توابع_گویا> <http://www.w3.org/2000/01/rdf-schema#label> "فهرست انتگرال توابع گویا"@fa . with result 200
+24.01.2013 14:31:26.775: <http://fa.wikipedia.org/wiki/فهرست_دستورات_اسمبلی> <http://www.w3.org/2000/01/rdf-schema#label> "فهرست دستورات اسمبلی"@fa . with result 200
+24.01.2013 14:31:29.200: <http://fa.wikipedia.org/wiki/قاعده_ضرب> <http://www.w3.org/2000/01/rdf-schema#label> "قاعده ضرب"@fa . with result 200
+24.01.2013 14:31:31.941: <http://fa.wikipedia.org/wiki/قضیه_آخر_فرما> <http://www.w3.org/2000/01/rdf-schema#label> "قضیه آخر فرما"@fa . with result 200
+24.01.2013 14:31:34.914: <http://fa.wikipedia.org/wiki/مثلث_بزیه> <http://www.w3.org/2000/01/rdf-schema#label> "مثلث بزیه"@fa . with result 200
+24.01.2013 14:31:37.287: <http://fa.wikipedia.org/wiki/مسئله_دیسک_در_تئوری_ارتجاعی> <http://www.w3.org/2000/01/rdf-schema#label> "مسئله دیسک در تئوری ارتجاعی"@fa . with result 200
+24.01.2013 14:31:39.630: <http://fa.wikipedia.org/wiki/مسئله_محاسباتی_انجام‌پذیر> <http://www.w3.org/2000/01/rdf-schema#label> "مسئله محاسباتی انجام‌پذیر"@fa . with result 200
+24.01.2013 14:31:42.510: <http://fa.wikipedia.org/wiki/منحنی_بیضوی> <http://www.w3.org/2000/01/rdf-schema#label> "منحنی بیضوی"@fa . with result 200
+24.01.2013 14:31:44.970: <http://fa.wikipedia.org/wiki/مکمل_یک> <http://www.w3.org/2000/01/rdf-schema#label> "مکمل یک"@fa . with result 200
+24.01.2013 14:31:47.978: <http://fa.wikipedia.org/wiki/نمودار_دایره‌ای> <http://www.w3.org/2000/01/rdf-schema#label> "نمودار دایره‌ای"@fa . with result 200
+24.01.2013 14:31:50.583: <http://fa.wikipedia.org/wiki/نگارش_اعداد_انگلیسی> <http://www.w3.org/2000/01/rdf-schema#label> "نگارش اعداد انگلیسی"@fa . with result 200
+24.01.2013 14:31:52.931: <http://fa.wikipedia.org/wiki/نیمه‌صحیح> <http://www.w3.org/2000/01/rdf-schema#label> "نیمه‌صحیح"@fa . with result 200
+24.01.2013 14:31:55.563: <http://fa.wikipedia.org/wiki/هندسه_روش_کمترین_مربعات_معمولی> <http://www.w3.org/2000/01/rdf-schema#label> "هندسه روش کمترین مربعات معمولی"@fa . with result 200
+24.01.2013 14:31:57.642: <http://fa.wikipedia.org/wiki/پارامتر> <http://www.w3.org/2000/01/rdf-schema#label> "پارامتر"@fa . with result 200
+24.01.2013 14:32:00.281: <http://fa.wikipedia.org/wiki/چندگونای_جبری> <http://www.w3.org/2000/01/rdf-schema#label> "چندگونای جبری"@fa . with result 200
+24.01.2013 14:32:03.111: <http://fa.wikipedia.org/wiki/کاشی‌سازی_برخالی> <http://www.w3.org/2000/01/rdf-schema#label> "کاشی‌سازی برخالی"@fa . with result 200
+24.01.2013 14:32:05.769: <http://fa.wikipedia.org/wiki/کد_همینگ> <http://www.w3.org/2000/01/rdf-schema#label> "کد همینگ"@fa . with result 200
+24.01.2013 14:32:08.534: <http://fa.wikipedia.org/wiki/کرسی_ریاضیات_لوکاسی> <http://www.w3.org/2000/01/rdf-schema#label> "کرسی ریاضیات لوکاسی"@fa . with result 200
+24.01.2013 14:32:11.173: <http://fa.wikipedia.org/wiki/گوگولپلکس> <http://www.w3.org/2000/01/rdf-schema#label> "گوگولپلکس"@fa . with result 200
+24.01.2013 14:32:14.420: <http://fa.wikipedia.org/wiki/۲۳۲_(عدد)> <http://www.w3.org/2000/01/rdf-schema#label> "۲۳۲ (عدد)"@fa . with result 200
+24.01.2013 14:32:16.922: <http://fa.wikipedia.org/wiki/۲۳۶_(عدد)> <http://www.w3.org/2000/01/rdf-schema#label> "۲۳۶ (عدد)"@fa . with result 200
+24.01.2013 14:32:19.769: <http://fa.wikipedia.org/wiki/۲۳۸_(عدد)> <http://www.w3.org/2000/01/rdf-schema#label> "۲۳۸ (عدد)"@fa . with result 200
+24.01.2013 14:32:22.317: <http://fa.wikipedia.org/wiki/۲۴۴_(عدد)> <http://www.w3.org/2000/01/rdf-schema#label> "۲۴۴ (عدد)"@fa . with result 200
+24.01.2013 14:32:24.720: <http://fa.wikipedia.org/wiki/۲۴۶_(عدد)> <http://www.w3.org/2000/01/rdf-schema#label> "۲۴۶ (عدد)"@fa . with result 200
+24.01.2013 14:32:27.729: <http://fa.wikipedia.org/wiki/۲۴۸_(عدد)> <http://www.w3.org/2000/01/rdf-schema#label> "۲۴۸ (عدد)"@fa . with result 200
+24.01.2013 14:32:30.669: <http://fa.wikipedia.org/wiki/۲۴۹_(عدد)> <http://www.w3.org/2000/01/rdf-schema#label> "۲۴۹ (عدد)"@fa . with result 200
+24.01.2013 14:32:33.171: <http://fa.wikipedia.org/wiki/۲۵۲_(عدد)> <http://www.w3.org/2000/01/rdf-schema#label> "۲۵۲ (عدد)"@fa . with result 200
+24.01.2013 14:32:35.472: <http://fa.wikipedia.org/wiki/۲۵۳_(عدد)> <http://www.w3.org/2000/01/rdf-schema#label> "۲۵۳ (عدد)"@fa . with result 200
+24.01.2013 14:32:38.585: <http://fa.wikipedia.org/wiki/۲۵۸_(عدد)> <http://www.w3.org/2000/01/rdf-schema#label> "۲۵۸ (عدد)"@fa . with result 200
+24.01.2013 14:32:41.280: <http://fa.wikipedia.org/wiki/۲۵۹_(عدد)> <http://www.w3.org/2000/01/rdf-schema#label> "۲۵۹ (عدد)"@fa . with result 200
+24.01.2013 14:32:44.415: <http://fa.wikipedia.org/wiki/رده:دسته‌بندی_موضوعات_اصلی> <http://www.w3.org/2000/01/rdf-schema#label> "ساختار"@fa . with result 200
+24.01.2013 14:32:48.421: <http://fa.wikipedia.org/wiki/آب_و_هوا_نیمه_خشک> <http://www.w3.org/2000/01/rdf-schema#label> "آب و هوا نیمه خشک"@fa . with result 200
+24.01.2013 14:32:51.073: <http://fa.wikipedia.org/wiki/آبرفت> <http://www.w3.org/2000/01/rdf-schema#label> "آبرفت"@fa . with result 200
+24.01.2013 14:32:54.016: <http://fa.wikipedia.org/wiki/آفریقای_شمالی> <http://www.w3.org/2000/01/rdf-schema#label> "آفریقای شمالی"@fa . with result 200
+24.01.2013 14:32:57.693: <http://fa.wikipedia.org/wiki/آفریقای_غربی> <http://www.w3.org/2000/01/rdf-schema#label> "آفریقای غربی"@fa . with result 200
+24.01.2013 14:33:00.613: <http://fa.wikipedia.org/wiki/آمازون_(رود)> <http://www.w3.org/2000/01/rdf-schema#label> "آمازون (رود)"@fa . with result 200
+24.01.2013 14:33:03.814: <http://fa.wikipedia.org/wiki/اختلاف_منظر> <http://www.w3.org/2000/01/rdf-schema#label> "اختلاف منظر"@fa . with result 200
+24.01.2013 14:33:05.798: <http://fa.wikipedia.org/wiki/ارتفاع_از_سطح_دریا> <http://www.w3.org/2000/01/rdf-schema#label> "ارتفاع از سطح دریا"@fa . with result 200
+24.01.2013 14:33:08.854: <http://fa.wikipedia.org/wiki/اردآپفل> <http://www.w3.org/2000/01/rdf-schema#label> "اردآپفل"@fa . with result 200
+24.01.2013 14:33:11.173: <http://fa.wikipedia.org/wiki/اسپیلی> <http://www.w3.org/2000/01/rdf-schema#label> "اسپیلی"@fa . with result 200
+24.01.2013 14:33:14.303: <http://fa.wikipedia.org/wiki/اطلس> <http://www.w3.org/2000/01/rdf-schema#label> "اطلس"@fa . with result 200
+24.01.2013 14:33:17.141: <http://fa.wikipedia.org/wiki/باتلاق> <http://www.w3.org/2000/01/rdf-schema#label> "باتلاق"@fa . with result 200
+24.01.2013 14:33:19.964: <http://fa.wikipedia.org/wiki/برنامه‌ریزی_شهری> <http://www.w3.org/2000/01/rdf-schema#label> "برنامه‌ریزی شهری"@fa . with result 200
+24.01.2013 14:33:22.833: <http://fa.wikipedia.org/wiki/بورا_بورا> <http://www.w3.org/2000/01/rdf-schema#label> "بورا بورا"@fa . with result 200
+24.01.2013 14:33:26.055: <http://fa.wikipedia.org/wiki/بیابان_گبی> <http://www.w3.org/2000/01/rdf-schema#label> "بیابان گبی"@fa . with result 200
+24.01.2013 14:33:28.583: <http://fa.wikipedia.org/wiki/بیمینی،_باهاما> <http://www.w3.org/2000/01/rdf-schema#label> "بیمینی، باهاما"@fa . with result 200
+24.01.2013 14:33:31.037: <http://fa.wikipedia.org/wiki/بی‌اس‌ای‌ای_استار_آریل> <http://www.w3.org/2000/01/rdf-schema#label> "بی‌اس‌ای‌ای استار آریل"@fa . with result 200
+24.01.2013 14:33:34.017: <http://fa.wikipedia.org/wiki/بی‌اس‌ای‌ای_استار_تیگر> <http://www.w3.org/2000/01/rdf-schema#label> "بی‌اس‌ای‌ای استار تیگر"@fa . with result 200
+24.01.2013 14:33:36.143: <http://fa.wikipedia.org/wiki/تراکم_جمعیت> <http://www.w3.org/2000/01/rdf-schema#label> "تراکم جمعیت"@fa . with result 200
+24.01.2013 14:33:39.062: <http://fa.wikipedia.org/wiki/تنگه> <http://www.w3.org/2000/01/rdf-schema#label> "تنگه"@fa . with result 200
+24.01.2013 14:33:41.507: <http://fa.wikipedia.org/wiki/تنگه_کره> <http://www.w3.org/2000/01/rdf-schema#label> "تنگه کره"@fa . with result 200
+24.01.2013 14:33:43.904: <http://fa.wikipedia.org/wiki/تنگه_کرچ> <http://www.w3.org/2000/01/rdf-schema#label> "تنگه کرچ"@fa . with result 200
+24.01.2013 14:33:46.875: <http://fa.wikipedia.org/wiki/توده_خاکی> <http://www.w3.org/2000/01/rdf-schema#label> "توده خاکی"@fa . with result 200
+24.01.2013 14:33:49.406: <http://fa.wikipedia.org/wiki/توزیع_و_رشد_جمعیت> <http://www.w3.org/2000/01/rdf-schema#label> "توزیع و رشد جمعیت"@fa . with result 200
+24.01.2013 14:33:52.356: <http://fa.wikipedia.org/wiki/تپه> <http://www.w3.org/2000/01/rdf-schema#label> "تپه"@fa . with result 200
+24.01.2013 14:33:54.971: <http://fa.wikipedia.org/wiki/جای‌نام> <http://www.w3.org/2000/01/rdf-schema#label> "جای‌نام"@fa . with result 200
+24.01.2013 14:33:57.778: <http://fa.wikipedia.org/wiki/جزر_و_مد> <http://www.w3.org/2000/01/rdf-schema#label> "جزر و مد"@fa . with result 200
+24.01.2013 14:34:00.865: <http://fa.wikipedia.org/wiki/درگاه:جغرافیا> <http://www.w3.org/2000/01/rdf-schema#label> "درگاه:جغرافیا"@fa . with result 200
+24.01.2013 14:34:05.770: <http://fa.wikipedia.org/wiki/جغرافیا> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیا"@fa . with result 200
+24.01.2013 14:34:08.254: <http://fa.wikipedia.org/wiki/جغرافیای_انسانی> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیای انسانی"@fa . with result 200
+24.01.2013 14:34:11.056: <http://fa.wikipedia.org/wiki/جغرافیای_سیاسی> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیای سیاسی"@fa . with result 200
+24.01.2013 14:34:14.986: <http://fa.wikipedia.org/wiki/جغرافیای_طبیعی> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیای طبیعی"@fa . with result 200
+24.01.2013 14:34:17.429: <http://fa.wikipedia.org/wiki/جلگه> <http://www.w3.org/2000/01/rdf-schema#label> "جلگه"@fa . with result 200
+24.01.2013 14:34:20.319: <http://fa.wikipedia.org/wiki/جنوب_آفریقا> <http://www.w3.org/2000/01/rdf-schema#label> "جنوب آفریقا"@fa . with result 200
+24.01.2013 14:34:23.866: <http://fa.wikipedia.org/wiki/جنوبگان> <http://www.w3.org/2000/01/rdf-schema#label> "جنوبگان"@fa . with result 200
+24.01.2013 14:34:26.887: <http://fa.wikipedia.org/wiki/جنگل> <http://www.w3.org/2000/01/rdf-schema#label> "جنگل"@fa . with result 200
+24.01.2013 14:34:30.033: <http://fa.wikipedia.org/wiki/جهت‌یابی> <http://www.w3.org/2000/01/rdf-schema#label> "جهت‌یابی"@fa . with result 200
+24.01.2013 14:34:32.486: <http://fa.wikipedia.org/wiki/خاور_نزدیک> <http://www.w3.org/2000/01/rdf-schema#label> "خاور نزدیک"@fa . with result 200
+24.01.2013 14:34:35.593: <http://fa.wikipedia.org/wiki/خلیج_ایلات> <http://www.w3.org/2000/01/rdf-schema#label> "خلیج ایلات"@fa . with result 200
+24.01.2013 14:34:38.219: <http://fa.wikipedia.org/wiki/خلیج_بحرین> <http://www.w3.org/2000/01/rdf-schema#label> "خلیج بحرین"@fa . with result 200
+24.01.2013 14:34:41.228: <http://fa.wikipedia.org/wiki/خلیج_عقبه> <http://www.w3.org/2000/01/rdf-schema#label> "خلیج عقبه"@fa . with result 200
+24.01.2013 14:34:43.867: <http://fa.wikipedia.org/wiki/خور_عبدالله> <http://www.w3.org/2000/01/rdf-schema#label> "خور عبدالله"@fa . with result 200
+24.01.2013 14:34:46.678: <http://fa.wikipedia.org/wiki/خورشید_نیمه‌شب> <http://www.w3.org/2000/01/rdf-schema#label> "خورشید نیمه‌شب"@fa . with result 200
+24.01.2013 14:34:49.499: <http://fa.wikipedia.org/wiki/داده‌های_مکانی> <http://www.w3.org/2000/01/rdf-schema#label> "داده‌های مکانی"@fa . with result 200
+24.01.2013 14:34:51.860: <http://fa.wikipedia.org/wiki/دره_پازیریک> <http://www.w3.org/2000/01/rdf-schema#label> "دره پازیریک"@fa . with result 200
+24.01.2013 14:34:54.646: <http://fa.wikipedia.org/wiki/دستگاه_مختصات_جغرافیایی> <http://www.w3.org/2000/01/rdf-schema#label> "دستگاه مختصات جغرافیایی"@fa . with result 200
+24.01.2013 14:34:57.293: <http://fa.wikipedia.org/wiki/دماغه_واشنگتن> <http://www.w3.org/2000/01/rdf-schema#label> "دماغه واشنگتن"@fa . with result 200
+24.01.2013 14:34:59.893: <http://fa.wikipedia.org/wiki/ریگ‌روان> <http://www.w3.org/2000/01/rdf-schema#label> "ریگ‌روان"@fa . with result 200
+24.01.2013 14:35:07.410: <http://fa.wikipedia.org/wiki/زمین> <http://www.w3.org/2000/01/rdf-schema#label> "زمین"@fa . with result 200
+24.01.2013 14:35:10.189: <http://fa.wikipedia.org/wiki/سازمان_زمین‌شناسی_آمریکا> <http://www.w3.org/2000/01/rdf-schema#label> "سازمان زمین‌شناسی آمریکا"@fa . with result 200
+24.01.2013 14:35:13.432: <http://fa.wikipedia.org/wiki/سامانه_موقعیت‌یاب_جهانی> <http://www.w3.org/2000/01/rdf-schema#label> "سامانه موقعیت‌یاب جهانی"@fa . with result 200
+24.01.2013 14:35:16.495: <http://fa.wikipedia.org/wiki/سامانه_ناوبری_بیدو> <http://www.w3.org/2000/01/rdf-schema#label> "سامانه ناوبری بیدو"@fa . with result 200
+24.01.2013 14:35:18.591: <http://fa.wikipedia.org/wiki/سفیدرود_(ایران)> <http://www.w3.org/2000/01/rdf-schema#label> "سفیدرود (ایران)"@fa . with result 200
+24.01.2013 14:35:21.657: <http://fa.wikipedia.org/wiki/شبه‌قاره_هند> <http://www.w3.org/2000/01/rdf-schema#label> "شبه‌قاره هند"@fa . with result 200
+24.01.2013 14:35:24.349: <http://fa.wikipedia.org/wiki/شمال_حقیقی> <http://www.w3.org/2000/01/rdf-schema#label> "شمال حقیقی"@fa . with result 200
+24.01.2013 14:35:27.650: <http://fa.wikipedia.org/wiki/شمالگان> <http://www.w3.org/2000/01/rdf-schema#label> "شمالگان"@fa . with result 200
+24.01.2013 14:35:29.743: <http://fa.wikipedia.org/wiki/شهرسازی> <http://www.w3.org/2000/01/rdf-schema#label> "شهرسازی"@fa . with result 200
+24.01.2013 14:35:32.604: <http://fa.wikipedia.org/wiki/صفحه_آمریکای_جنوبی> <http://www.w3.org/2000/01/rdf-schema#label> "صفحه آمریکای جنوبی"@fa . with result 200
+24.01.2013 14:35:35.655: <http://fa.wikipedia.org/wiki/صفحه_نازکا> <http://www.w3.org/2000/01/rdf-schema#label> "صفحه نازکا"@fa . with result 200
+24.01.2013 14:35:38.914: <http://fa.wikipedia.org/wiki/طول_جغرافیایی> <http://www.w3.org/2000/01/rdf-schema#label> "طول جغرافیایی"@fa . with result 200
+24.01.2013 14:35:41.807: <http://fa.wikipedia.org/wiki/فانوس_دریایی_ایزاک> <http://www.w3.org/2000/01/rdf-schema#label> "فانوس دریایی ایزاک"@fa . with result 200
+24.01.2013 14:35:43.915: <http://fa.wikipedia.org/wiki/فهرست_دریاچه‌های_روسیه> <http://www.w3.org/2000/01/rdf-schema#label> "فهرست دریاچه‌های روسیه"@fa . with result 200
+24.01.2013 14:35:46.228: <http://fa.wikipedia.org/wiki/فهرست_شهرهای_قاره_آمریکای_جنوبی> <http://www.w3.org/2000/01/rdf-schema#label> "فهرست شهرهای قاره آمریکای جنوبی"@fa . with result 200
+24.01.2013 14:35:48.838: <http://fa.wikipedia.org/wiki/فهرست_کوه‌های_استان_هرمزگان> <http://www.w3.org/2000/01/rdf-schema#label> "فهرست کوه‌های استان هرمزگان"@fa . with result 200
+24.01.2013 14:35:51.845: <http://fa.wikipedia.org/wiki/قطب_شمال> <http://www.w3.org/2000/01/rdf-schema#label> "قطب شمال"@fa . with result 200
+24.01.2013 14:35:54.873: <http://fa.wikipedia.org/wiki/ویکی‌پدیا:قواعد_مختصات‌دهی> <http://www.w3.org/2000/01/rdf-schema#label> "ویکی‌پدیا:قواعد مختصات‌دهی"@fa . with result 200
+24.01.2013 14:35:58.829: <http://fa.wikipedia.org/wiki/مثلث_برمودا> <http://www.w3.org/2000/01/rdf-schema#label> "مثلث برمودا"@fa . with result 200
+24.01.2013 14:36:01.979: <http://fa.wikipedia.org/wiki/مدار_(جغرافیا)> <http://www.w3.org/2000/01/rdf-schema#label> "مدار (جغرافیا)"@fa . with result 200
+24.01.2013 14:36:04.819: <http://fa.wikipedia.org/wiki/مدار_قطبی> <http://www.w3.org/2000/01/rdf-schema#label> "مدار قطبی"@fa . with result 200
+24.01.2013 14:36:07.524: <http://fa.wikipedia.org/wiki/مدل_های_سه_بعدی_شهرها> <http://www.w3.org/2000/01/rdf-schema#label> "مدل های سه بعدی شهرها"@fa . with result 200
+24.01.2013 14:36:10.423: <http://fa.wikipedia.org/wiki/مرز_(سرحد)> <http://www.w3.org/2000/01/rdf-schema#label> "مرز (سرحد)"@fa . with result 200
+24.01.2013 14:36:13.066: <http://fa.wikipedia.org/wiki/ملنیک_(بلغارستان)> <http://www.w3.org/2000/01/rdf-schema#label> "ملنیک (بلغارستان)"@fa . with result 200
+24.01.2013 14:36:15.617: <http://fa.wikipedia.org/wiki/منطقه> <http://www.w3.org/2000/01/rdf-schema#label> "منطقه"@fa . with result 200
+24.01.2013 14:36:18.217: <http://fa.wikipedia.org/wiki/نبکا> <http://www.w3.org/2000/01/rdf-schema#label> "نبکا"@fa . with result 200
+24.01.2013 14:36:20.691: <http://fa.wikipedia.org/wiki/نصف‌النهار> <http://www.w3.org/2000/01/rdf-schema#label> "نصف‌النهار"@fa . with result 200
+24.01.2013 14:36:23.689: <http://fa.wikipedia.org/wiki/راهنما:نقشه_شهری_باز> <http://www.w3.org/2000/01/rdf-schema#label> "راهنما:نقشه شهری باز"@fa . with result 200
+24.01.2013 14:36:26.698: <http://fa.wikipedia.org/wiki/نقشه_پیری_رئیس> <http://www.w3.org/2000/01/rdf-schema#label> "نقشه پیری رئیس"@fa . with result 200
+24.01.2013 14:36:29.887: <http://fa.wikipedia.org/wiki/نقشه‌نگاری> <http://www.w3.org/2000/01/rdf-schema#label> "نقشه‌نگاری"@fa . with result 200
+24.01.2013 14:36:31.780: <http://fa.wikipedia.org/wiki/هفت_کشور> <http://www.w3.org/2000/01/rdf-schema#label> "هفت کشور"@fa . with result 200
+24.01.2013 14:36:34.676: <http://fa.wikipedia.org/wiki/هیمالیا> <http://www.w3.org/2000/01/rdf-schema#label> "هیمالیا"@fa . with result 200
+24.01.2013 14:36:37.140: <http://fa.wikipedia.org/wiki/ویکی‌پدیا:ویکی‌پروژه_جغرافیا> <http://www.w3.org/2000/01/rdf-schema#label> "ویکی‌پدیا:ویکی‌پروژه جغرافیا"@fa . with result 200
+24.01.2013 14:36:39.608: <http://fa.wikipedia.org/wiki/پارک_ملی_تیده> <http://www.w3.org/2000/01/rdf-schema#label> "پارک ملی تیده"@fa . with result 200
+24.01.2013 14:36:42.019: <http://fa.wikipedia.org/wiki/پارک_ملی_گاراجونای> <http://www.w3.org/2000/01/rdf-schema#label> "پارک ملی گاراجونای"@fa . with result 200
+24.01.2013 14:36:45.092: <http://fa.wikipedia.org/wiki/پیز_اسپالدا> <http://www.w3.org/2000/01/rdf-schema#label> "پیز اسپالدا"@fa . with result 200
+24.01.2013 14:36:47.899: <http://fa.wikipedia.org/wiki/ژرف_(جغرافیا)> <http://www.w3.org/2000/01/rdf-schema#label> "ژرف (جغرافیا)"@fa . with result 200
+24.01.2013 14:36:50.739: <http://fa.wikipedia.org/wiki/کارول_آ_دیرینگ> <http://www.w3.org/2000/01/rdf-schema#label> "کارول آ دیرینگ"@fa . with result 200
+24.01.2013 14:36:53.592: <http://fa.wikipedia.org/wiki/کشور> <http://www.w3.org/2000/01/rdf-schema#label> "کشور"@fa . with result 200
+24.01.2013 14:36:56.037: <http://fa.wikipedia.org/wiki/کشور_محصور_در_خشکی> <http://www.w3.org/2000/01/rdf-schema#label> "کشور محصور در خشکی"@fa . with result 200
+24.01.2013 14:36:58.863: <http://fa.wikipedia.org/wiki/کلوت> <http://www.w3.org/2000/01/rdf-schema#label> "کلوت"@fa . with result 200
+24.01.2013 14:37:01.811: <http://fa.wikipedia.org/wiki/کونمارا_پنجم> <http://www.w3.org/2000/01/rdf-schema#label> "کونمارا پنجم"@fa . with result 200
+24.01.2013 14:37:04.506: <http://fa.wikipedia.org/wiki/گالیلئو_(ناوبری_ماهواره‌ای)> <http://www.w3.org/2000/01/rdf-schema#label> "گالیلئو (ناوبری ماهواره‌ای)"@fa . with result 200
+24.01.2013 14:37:07.211: <http://fa.wikipedia.org/wiki/گلوناس> <http://www.w3.org/2000/01/rdf-schema#label> "گلوناس"@fa . with result 200
+24.01.2013 14:37:10.059: <http://fa.wikipedia.org/wiki/گلوناس-کی> <http://www.w3.org/2000/01/rdf-schema#label> "گلوناس-کی"@fa . with result 200
+24.01.2013 14:37:12.747: <http://fa.wikipedia.org/wiki/یواس‌اس_سایکلوپ> <http://www.w3.org/2000/01/rdf-schema#label> "یواس‌اس سایکلوپ"@fa . with result 200
+24.01.2013 14:37:15.739: <http://fa.wikipedia.org/wiki/یواس‌اس_نرئوس> <http://www.w3.org/2000/01/rdf-schema#label> "یواس‌اس نرئوس"@fa . with result 200
+24.01.2013 14:37:16.243: <http://fa.wikipedia.org/wiki/پرونده:urmia_lake_1984_to_2011.gif> <http://www.w3.org/2000/01/rdf-schema#label> "<img alt="urmia lake 1984 to 2011.gif" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/urmia_lake_1984_to_2011.gif/120px-urmia_lake_1984_to_2011.gif" width="120" height="120" />"@fa . with result 500
+24.01.2013 14:37:18.159: <http://fa.wikipedia.org/wiki/پرونده:urmia_lake_1984_to_2011.gif> <http://www.w3.org/2000/01/rdf-schema#label> "urmia lake 1984 to 201..."@fa . with result 200
+24.01.2013 14:37:21.000: <http://fa.wikipedia.org/wiki/آب_و_هوا_نیمه_خشک> <http://www.w3.org/2000/01/rdf-schema#label> "آب و هوا نیمه خشک"@fa . with result 200
+24.01.2013 14:37:23.763: <http://fa.wikipedia.org/wiki/آبرفت> <http://www.w3.org/2000/01/rdf-schema#label> "آبرفت"@fa . with result 200
+24.01.2013 14:37:26.500: <http://fa.wikipedia.org/wiki/آفریقای_شمالی> <http://www.w3.org/2000/01/rdf-schema#label> "آفریقای شمالی"@fa . with result 200
+24.01.2013 14:37:29.405: <http://fa.wikipedia.org/wiki/آفریقای_غربی> <http://www.w3.org/2000/01/rdf-schema#label> "آفریقای غربی"@fa . with result 200
+24.01.2013 14:37:31.919: <http://fa.wikipedia.org/wiki/آمازون_(رود)> <http://www.w3.org/2000/01/rdf-schema#label> "آمازون (رود)"@fa . with result 200
+24.01.2013 14:37:35.280: <http://fa.wikipedia.org/wiki/اختلاف_منظر> <http://www.w3.org/2000/01/rdf-schema#label> "اختلاف منظر"@fa . with result 200
+24.01.2013 14:37:37.996: <http://fa.wikipedia.org/wiki/ارتفاع_از_سطح_دریا> <http://www.w3.org/2000/01/rdf-schema#label> "ارتفاع از سطح دریا"@fa . with result 200
+24.01.2013 14:37:40.648: <http://fa.wikipedia.org/wiki/اردآپفل> <http://www.w3.org/2000/01/rdf-schema#label> "اردآپفل"@fa . with result 200
+24.01.2013 14:37:43.311: <http://fa.wikipedia.org/wiki/اسپیلی> <http://www.w3.org/2000/01/rdf-schema#label> "اسپیلی"@fa . with result 200
+24.01.2013 14:37:46.387: <http://fa.wikipedia.org/wiki/اطلس> <http://www.w3.org/2000/01/rdf-schema#label> "اطلس"@fa . with result 200
+24.01.2013 14:37:48.644: <http://fa.wikipedia.org/wiki/باتلاق> <http://www.w3.org/2000/01/rdf-schema#label> "باتلاق"@fa . with result 200
+24.01.2013 14:37:51.217: <http://fa.wikipedia.org/wiki/برنامه‌ریزی_شهری> <http://www.w3.org/2000/01/rdf-schema#label> "برنامه‌ریزی شهری"@fa . with result 200
+24.01.2013 14:37:53.842: <http://fa.wikipedia.org/wiki/بورا_بورا> <http://www.w3.org/2000/01/rdf-schema#label> "بورا بورا"@fa . with result 200
+24.01.2013 14:37:55.894: <http://fa.wikipedia.org/wiki/بیابان_گبی> <http://www.w3.org/2000/01/rdf-schema#label> "بیابان گبی"@fa . with result 200
+24.01.2013 14:37:58.217: <http://fa.wikipedia.org/wiki/بیمینی،_باهاما> <http://www.w3.org/2000/01/rdf-schema#label> "بیمینی، باهاما"@fa . with result 200
+24.01.2013 14:38:00.766: <http://fa.wikipedia.org/wiki/بی‌اس‌ای‌ای_استار_آریل> <http://www.w3.org/2000/01/rdf-schema#label> "بی‌اس‌ای‌ای استار آریل"@fa . with result 200
+24.01.2013 14:38:03.774: <http://fa.wikipedia.org/wiki/بی‌اس‌ای‌ای_استار_تیگر> <http://www.w3.org/2000/01/rdf-schema#label> "بی‌اس‌ای‌ای استار تیگر"@fa . with result 200
+24.01.2013 14:38:06.355: <http://fa.wikipedia.org/wiki/تراکم_جمعیت> <http://www.w3.org/2000/01/rdf-schema#label> "تراکم جمعیت"@fa . with result 200
+24.01.2013 14:38:09.178: <http://fa.wikipedia.org/wiki/تنگه> <http://www.w3.org/2000/01/rdf-schema#label> "تنگه"@fa . with result 200
+24.01.2013 14:38:11.199: <http://fa.wikipedia.org/wiki/تنگه_کره> <http://www.w3.org/2000/01/rdf-schema#label> "تنگه کره"@fa . with result 200
+24.01.2013 14:38:13.755: <http://fa.wikipedia.org/wiki/تنگه_کرچ> <http://www.w3.org/2000/01/rdf-schema#label> "تنگه کرچ"@fa . with result 200
+24.01.2013 14:38:16.852: <http://fa.wikipedia.org/wiki/توده_خاکی> <http://www.w3.org/2000/01/rdf-schema#label> "توده خاکی"@fa . with result 200
+24.01.2013 14:38:19.089: <http://fa.wikipedia.org/wiki/توزیع_و_رشد_جمعیت> <http://www.w3.org/2000/01/rdf-schema#label> "توزیع و رشد جمعیت"@fa . with result 200
+24.01.2013 14:38:21.657: <http://fa.wikipedia.org/wiki/تپه> <http://www.w3.org/2000/01/rdf-schema#label> "تپه"@fa . with result 200
+24.01.2013 14:38:24.253: <http://fa.wikipedia.org/wiki/جای‌نام> <http://www.w3.org/2000/01/rdf-schema#label> "جای‌نام"@fa . with result 200
+24.01.2013 14:38:27.086: <http://fa.wikipedia.org/wiki/جزر_و_مد> <http://www.w3.org/2000/01/rdf-schema#label> "جزر و مد"@fa . with result 200
+24.01.2013 14:38:30.060: <http://fa.wikipedia.org/wiki/درگاه:جغرافیا> <http://www.w3.org/2000/01/rdf-schema#label> "درگاه:جغرافیا"@fa . with result 200
+24.01.2013 14:38:35.164: <http://fa.wikipedia.org/wiki/جغرافیا> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیا"@fa . with result 200
+24.01.2013 14:38:38.014: <http://fa.wikipedia.org/wiki/جغرافیای_انسانی> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیای انسانی"@fa . with result 200
+24.01.2013 14:38:41.195: <http://fa.wikipedia.org/wiki/جغرافیای_سیاسی> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیای سیاسی"@fa . with result 200
+24.01.2013 14:38:44.694: <http://fa.wikipedia.org/wiki/جغرافیای_طبیعی> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیای طبیعی"@fa . with result 200
+24.01.2013 14:38:46.757: <http://fa.wikipedia.org/wiki/جلگه> <http://www.w3.org/2000/01/rdf-schema#label> "جلگه"@fa . with result 200
+24.01.2013 14:38:49.530: <http://fa.wikipedia.org/wiki/جنوب_آفریقا> <http://www.w3.org/2000/01/rdf-schema#label> "جنوب آفریقا"@fa . with result 200
+24.01.2013 14:38:52.833: <http://fa.wikipedia.org/wiki/جنوبگان> <http://www.w3.org/2000/01/rdf-schema#label> "جنوبگان"@fa . with result 200
+24.01.2013 14:38:55.864: <http://fa.wikipedia.org/wiki/جنگل> <http://www.w3.org/2000/01/rdf-schema#label> "جنگل"@fa . with result 200
+24.01.2013 14:38:58.831: <http://fa.wikipedia.org/wiki/جهت‌یابی> <http://www.w3.org/2000/01/rdf-schema#label> "جهت‌یابی"@fa . with result 200
+24.01.2013 14:39:01.408: <http://fa.wikipedia.org/wiki/خاور_نزدیک> <http://www.w3.org/2000/01/rdf-schema#label> "خاور نزدیک"@fa . with result 200
+24.01.2013 14:39:03.657: <http://fa.wikipedia.org/wiki/خلیج_ایلات> <http://www.w3.org/2000/01/rdf-schema#label> "خلیج ایلات"@fa . with result 200
+24.01.2013 14:39:06.484: <http://fa.wikipedia.org/wiki/خلیج_بحرین> <http://www.w3.org/2000/01/rdf-schema#label> "خلیج بحرین"@fa . with result 200
+24.01.2013 14:39:09.006: <http://fa.wikipedia.org/wiki/خلیج_عقبه> <http://www.w3.org/2000/01/rdf-schema#label> "خلیج عقبه"@fa . with result 200
+24.01.2013 14:39:11.441: <http://fa.wikipedia.org/wiki/خور_عبدالله> <http://www.w3.org/2000/01/rdf-schema#label> "خور عبدالله"@fa . with result 200
+24.01.2013 14:39:13.804: <http://fa.wikipedia.org/wiki/خورشید_نیمه‌شب> <http://www.w3.org/2000/01/rdf-schema#label> "خورشید نیمه‌شب"@fa . with result 200
+24.01.2013 14:39:16.326: <http://fa.wikipedia.org/wiki/داده‌های_مکانی> <http://www.w3.org/2000/01/rdf-schema#label> "داده‌های مکانی"@fa . with result 200
+24.01.2013 14:39:19.309: <http://fa.wikipedia.org/wiki/دره_پازیریک> <http://www.w3.org/2000/01/rdf-schema#label> "دره پازیریک"@fa . with result 200
+24.01.2013 14:39:22.505: <http://fa.wikipedia.org/wiki/دستگاه_مختصات_جغرافیایی> <http://www.w3.org/2000/01/rdf-schema#label> "دستگاه مختصات جغرافیایی"@fa . with result 200
+24.01.2013 14:39:24.599: <http://fa.wikipedia.org/wiki/دماغه_واشنگتن> <http://www.w3.org/2000/01/rdf-schema#label> "دماغه واشنگتن"@fa . with result 200
+24.01.2013 14:39:26.959: <http://fa.wikipedia.org/wiki/ریگ‌روان> <http://www.w3.org/2000/01/rdf-schema#label> "ریگ‌روان"@fa . with result 200
+24.01.2013 14:39:34.592: <http://fa.wikipedia.org/wiki/زمین> <http://www.w3.org/2000/01/rdf-schema#label> "زمین"@fa . with result 200
+24.01.2013 14:39:37.056: <http://fa.wikipedia.org/wiki/سازمان_زمین‌شناسی_آمریکا> <http://www.w3.org/2000/01/rdf-schema#label> "سازمان زمین‌شناسی آمریکا"@fa . with result 200
+24.01.2013 14:39:40.283: <http://fa.wikipedia.org/wiki/سامانه_موقعیت‌یاب_جهانی> <http://www.w3.org/2000/01/rdf-schema#label> "سامانه موقعیت‌یاب جهانی"@fa . with result 200
+24.01.2013 14:39:43.158: <http://fa.wikipedia.org/wiki/سامانه_ناوبری_بیدو> <http://www.w3.org/2000/01/rdf-schema#label> "سامانه ناوبری بیدو"@fa . with result 200
+24.01.2013 14:39:45.930: <http://fa.wikipedia.org/wiki/سفیدرود_(ایران)> <http://www.w3.org/2000/01/rdf-schema#label> "سفیدرود (ایران)"@fa . with result 200
+24.01.2013 14:39:48.690: <http://fa.wikipedia.org/wiki/شبه‌قاره_هند> <http://www.w3.org/2000/01/rdf-schema#label> "شبه‌قاره هند"@fa . with result 200
+24.01.2013 14:39:51.028: <http://fa.wikipedia.org/wiki/شمال_حقیقی> <http://www.w3.org/2000/01/rdf-schema#label> "شمال حقیقی"@fa . with result 200
+24.01.2013 14:39:53.565: <http://fa.wikipedia.org/wiki/شمالگان> <http://www.w3.org/2000/01/rdf-schema#label> "شمالگان"@fa . with result 200
+24.01.2013 14:39:56.594: <http://fa.wikipedia.org/wiki/شهرسازی> <http://www.w3.org/2000/01/rdf-schema#label> "شهرسازی"@fa . with result 200
+24.01.2013 14:39:59.348: <http://fa.wikipedia.org/wiki/صفحه_آمریکای_جنوبی> <http://www.w3.org/2000/01/rdf-schema#label> "صفحه آمریکای جنوبی"@fa . with result 200
+24.01.2013 14:40:02.365: <http://fa.wikipedia.org/wiki/صفحه_نازکا> <http://www.w3.org/2000/01/rdf-schema#label> "صفحه نازکا"@fa . with result 200
+24.01.2013 14:40:04.898: <http://fa.wikipedia.org/wiki/طول_جغرافیایی> <http://www.w3.org/2000/01/rdf-schema#label> "طول جغرافیایی"@fa . with result 200
+24.01.2013 14:40:07.546: <http://fa.wikipedia.org/wiki/فانوس_دریایی_ایزاک> <http://www.w3.org/2000/01/rdf-schema#label> "فانوس دریایی ایزاک"@fa . with result 200
+24.01.2013 14:40:10.241: <http://fa.wikipedia.org/wiki/فهرست_دریاچه‌های_روسیه> <http://www.w3.org/2000/01/rdf-schema#label> "فهرست دریاچه‌های روسیه"@fa . with result 200
+24.01.2013 14:40:13.378: <http://fa.wikipedia.org/wiki/فهرست_شهرهای_قاره_آمریکای_جنوبی> <http://www.w3.org/2000/01/rdf-schema#label> "فهرست شهرهای قاره آمریکای جنوبی"@fa . with result 200
+24.01.2013 14:40:16.191: <http://fa.wikipedia.org/wiki/فهرست_کوه‌های_استان_هرمزگان> <http://www.w3.org/2000/01/rdf-schema#label> "فهرست کوه‌های استان هرمزگان"@fa . with result 200
+24.01.2013 14:40:19.533: <http://fa.wikipedia.org/wiki/قطب_شمال> <http://www.w3.org/2000/01/rdf-schema#label> "قطب شمال"@fa . with result 200
+24.01.2013 14:40:22.141: <http://fa.wikipedia.org/wiki/ویکی‌پدیا:قواعد_مختصات‌دهی> <http://www.w3.org/2000/01/rdf-schema#label> "ویکی‌پدیا:قواعد مختصات‌دهی"@fa . with result 200
+24.01.2013 14:40:26.214: <http://fa.wikipedia.org/wiki/مثلث_برمودا> <http://www.w3.org/2000/01/rdf-schema#label> "مثلث برمودا"@fa . with result 200
+24.01.2013 14:40:29.142: <http://fa.wikipedia.org/wiki/مدار_(جغرافیا)> <http://www.w3.org/2000/01/rdf-schema#label> "مدار (جغرافیا)"@fa . with result 200
+24.01.2013 14:40:31.666: <http://fa.wikipedia.org/wiki/مدار_قطبی> <http://www.w3.org/2000/01/rdf-schema#label> "مدار قطبی"@fa . with result 200
+24.01.2013 14:40:34.022: <http://fa.wikipedia.org/wiki/مدل_های_سه_بعدی_شهرها> <http://www.w3.org/2000/01/rdf-schema#label> "مدل های سه بعدی شهرها"@fa . with result 200
+24.01.2013 14:40:36.860: <http://fa.wikipedia.org/wiki/مرز_(سرحد)> <http://www.w3.org/2000/01/rdf-schema#label> "مرز (سرحد)"@fa . with result 200
+24.01.2013 14:40:39.449: <http://fa.wikipedia.org/wiki/ملنیک_(بلغارستان)> <http://www.w3.org/2000/01/rdf-schema#label> "ملنیک (بلغارستان)"@fa . with result 200
+24.01.2013 14:40:42.108: <http://fa.wikipedia.org/wiki/منطقه> <http://www.w3.org/2000/01/rdf-schema#label> "منطقه"@fa . with result 200
+24.01.2013 14:40:44.696: <http://fa.wikipedia.org/wiki/نبکا> <http://www.w3.org/2000/01/rdf-schema#label> "نبکا"@fa . with result 200
+24.01.2013 14:40:48.070: <http://fa.wikipedia.org/wiki/نصف‌النهار> <http://www.w3.org/2000/01/rdf-schema#label> "نصف‌النهار"@fa . with result 200
+24.01.2013 14:40:50.792: <http://fa.wikipedia.org/wiki/راهنما:نقشه_شهری_باز> <http://www.w3.org/2000/01/rdf-schema#label> "راهنما:نقشه شهری باز"@fa . with result 200
+24.01.2013 14:40:53.525: <http://fa.wikipedia.org/wiki/نقشه_پیری_رئیس> <http://www.w3.org/2000/01/rdf-schema#label> "نقشه پیری رئیس"@fa . with result 200
+24.01.2013 14:40:56.409: <http://fa.wikipedia.org/wiki/نقشه‌نگاری> <http://www.w3.org/2000/01/rdf-schema#label> "نقشه‌نگاری"@fa . with result 200
+24.01.2013 14:40:58.714: <http://fa.wikipedia.org/wiki/هفت_کشور> <http://www.w3.org/2000/01/rdf-schema#label> "هفت کشور"@fa . with result 200
+24.01.2013 14:41:01.710: <http://fa.wikipedia.org/wiki/هیمالیا> <http://www.w3.org/2000/01/rdf-schema#label> "هیمالیا"@fa . with result 200
+24.01.2013 14:41:04.413: <http://fa.wikipedia.org/wiki/ویکی‌پدیا:ویکی‌پروژه_جغرافیا> <http://www.w3.org/2000/01/rdf-schema#label> "ویکی‌پدیا:ویکی‌پروژه جغرافیا"@fa . with result 200
+24.01.2013 14:41:06.741: <http://fa.wikipedia.org/wiki/پارک_ملی_تیده> <http://www.w3.org/2000/01/rdf-schema#label> "پارک ملی تیده"@fa . with result 200
+24.01.2013 14:41:09.252: <http://fa.wikipedia.org/wiki/پارک_ملی_گاراجونای> <http://www.w3.org/2000/01/rdf-schema#label> "پارک ملی گاراجونای"@fa . with result 200
+24.01.2013 14:41:11.542: <http://fa.wikipedia.org/wiki/پیز_اسپالدا> <http://www.w3.org/2000/01/rdf-schema#label> "پیز اسپالدا"@fa . with result 200
+24.01.2013 14:41:14.328: <http://fa.wikipedia.org/wiki/ژرف_(جغرافیا)> <http://www.w3.org/2000/01/rdf-schema#label> "ژرف (جغرافیا)"@fa . with result 200
+24.01.2013 14:41:17.023: <http://fa.wikipedia.org/wiki/کارول_آ_دیرینگ> <http://www.w3.org/2000/01/rdf-schema#label> "کارول آ دیرینگ"@fa . with result 200
+24.01.2013 14:41:19.735: <http://fa.wikipedia.org/wiki/کشور> <http://www.w3.org/2000/01/rdf-schema#label> "کشور"@fa . with result 200
+24.01.2013 14:41:21.878: <http://fa.wikipedia.org/wiki/کشور_محصور_در_خشکی> <http://www.w3.org/2000/01/rdf-schema#label> "کشور محصور در خشکی"@fa . with result 200
+24.01.2013 14:41:24.465: <http://fa.wikipedia.org/wiki/کلوت> <http://www.w3.org/2000/01/rdf-schema#label> "کلوت"@fa . with result 200
+24.01.2013 14:41:26.913: <http://fa.wikipedia.org/wiki/کونمارا_پنجم> <http://www.w3.org/2000/01/rdf-schema#label> "کونمارا پنجم"@fa . with result 200
+24.01.2013 14:41:29.186: <http://fa.wikipedia.org/wiki/گالیلئو_(ناوبری_ماهواره‌ای)> <http://www.w3.org/2000/01/rdf-schema#label> "گالیلئو (ناوبری ماهواره‌ای)"@fa . with result 200
+24.01.2013 14:41:32.406: <http://fa.wikipedia.org/wiki/گلوناس> <http://www.w3.org/2000/01/rdf-schema#label> "گلوناس"@fa . with result 200
+24.01.2013 14:41:34.498: <http://fa.wikipedia.org/wiki/گلوناس-کی> <http://www.w3.org/2000/01/rdf-schema#label> "گلوناس-کی"@fa . with result 200
+24.01.2013 14:41:36.894: <http://fa.wikipedia.org/wiki/یواس‌اس_سایکلوپ> <http://www.w3.org/2000/01/rdf-schema#label> "یواس‌اس سایکلوپ"@fa . with result 200
+24.01.2013 14:41:39.411: <http://fa.wikipedia.org/wiki/یواس‌اس_نرئوس> <http://www.w3.org/2000/01/rdf-schema#label> "یواس‌اس نرئوس"@fa . with result 200
+24.01.2013 14:41:42.521: <http://fa.wikipedia.org/wiki/رده:علوم_میان‌رشته‌ای> <http://www.w3.org/2000/01/rdf-schema#label> "دسته‌بندی موضوعات اصلی"@fa . with result 200
+24.01.2013 14:41:45.266: <http://fa.wikipedia.org/wiki/ویکی‌پدیا:ویکی‌پروژه_ریاضی> <http://www.w3.org/2000/01/rdf-schema#label> "ویکی‌پدیا:ویکی‌پروژه ریاضی"@fa . with result 200
+24.01.2013 14:41:48.247: <http://fa.wikipedia.org/wiki/آنالیز_ریاضی> <http://www.w3.org/2000/01/rdf-schema#label> "آنالیز ریاضی"@fa . with result 200
+24.01.2013 14:41:50.865: <http://fa.wikipedia.org/wiki/اجتماع_(مجموعه)> <http://www.w3.org/2000/01/rdf-schema#label> "اجتماع (مجموعه)"@fa . with result 200
+24.01.2013 14:41:53.475: <http://fa.wikipedia.org/wiki/اسپلاین> <http://www.w3.org/2000/01/rdf-schema#label> "اسپلاین"@fa . with result 200
+24.01.2013 14:41:55.900: <http://fa.wikipedia.org/wiki/اصول_احتمال> <http://www.w3.org/2000/01/rdf-schema#label> "اصول احتمال"@fa . with result 200
+24.01.2013 14:41:58.360: <http://fa.wikipedia.org/wiki/اعداد_عربی> <http://www.w3.org/2000/01/rdf-schema#label> "اعداد عربی"@fa . with result 200
+24.01.2013 14:42:00.862: <http://fa.wikipedia.org/wiki/ان_رقمی> <http://www.w3.org/2000/01/rdf-schema#label> "ان رقمی"@fa . with result 200
+24.01.2013 14:42:03.844: <http://fa.wikipedia.org/wiki/انتگرال_حجمی> <http://www.w3.org/2000/01/rdf-schema#label> "انتگرال حجمی"@fa . with result 200
+24.01.2013 14:42:06.350: <http://fa.wikipedia.org/wiki/انتگرال‌گیری_جزء_به_جزء> <http://www.w3.org/2000/01/rdf-schema#label> "انتگرال‌گیری جزء به جزء"@fa . with result 200
+24.01.2013 14:42:08.820: <http://fa.wikipedia.org/wiki/بازه> <http://www.w3.org/2000/01/rdf-schema#label> "بازه"@fa . with result 200
+24.01.2013 14:42:11.467: <http://fa.wikipedia.org/wiki/بسامد_فضایی> <http://www.w3.org/2000/01/rdf-schema#label> "بسامد فضایی"@fa . with result 200
+24.01.2013 14:42:14.831: <http://fa.wikipedia.org/wiki/بطری_کلاین> <http://www.w3.org/2000/01/rdf-schema#label> "بطری کلاین"@fa . with result 200
+24.01.2013 14:42:16.922: <http://fa.wikipedia.org/wiki/تباهیدگی> <http://www.w3.org/2000/01/rdf-schema#label> "تباهیدگی"@fa . with result 200
+24.01.2013 14:42:19.944: <http://fa.wikipedia.org/wiki/جانشینی_مثلثاتی> <http://www.w3.org/2000/01/rdf-schema#label> "جانشینی مثلثاتی"@fa . with result 200
+24.01.2013 14:42:22.776: <http://fa.wikipedia.org/wiki/جبر_مجرد> <http://www.w3.org/2000/01/rdf-schema#label> "جبر مجرد"@fa . with result 200
+24.01.2013 14:42:25.329: <http://fa.wikipedia.org/wiki/جبر_محاسباتی> <http://www.w3.org/2000/01/rdf-schema#label> "جبر محاسباتی"@fa . with result 200
+24.01.2013 14:42:28.197: <http://fa.wikipedia.org/wiki/جمع_(ریاضی)> <http://www.w3.org/2000/01/rdf-schema#label> "جمع (ریاضی)"@fa . with result 200
+24.01.2013 14:42:30.644: <http://fa.wikipedia.org/wiki/حدس> <http://www.w3.org/2000/01/rdf-schema#label> "حدس"@fa . with result 200
+24.01.2013 14:42:33.151: <http://fa.wikipedia.org/wiki/حل_مسئله> <http://www.w3.org/2000/01/rdf-schema#label> "حل مسئله"@fa . with result 200
+24.01.2013 14:42:35.937: <http://fa.wikipedia.org/wiki/خانه_ریاضیات_نیشابور> <http://www.w3.org/2000/01/rdf-schema#label> "خانه ریاضیات نیشابور"@fa . with result 200
+24.01.2013 14:42:39.147: <http://fa.wikipedia.org/wiki/درونیابی_دوخطی> <http://www.w3.org/2000/01/rdf-schema#label> "درونیابی دوخطی"@fa . with result 200
+24.01.2013 14:42:41.533: <http://fa.wikipedia.org/wiki/درونیابی_دومکعبی> <http://www.w3.org/2000/01/rdf-schema#label> "درونیابی دومکعبی"@fa . with result 200
+24.01.2013 14:42:44.833: <http://fa.wikipedia.org/wiki/دستگاه_اعداد_هندی> <http://www.w3.org/2000/01/rdf-schema#label> "دستگاه اعداد هندی"@fa . with result 200
+24.01.2013 14:42:47.526: <http://fa.wikipedia.org/wiki/ده‌دهی> <http://www.w3.org/2000/01/rdf-schema#label> "ده‌دهی"@fa . with result 200
+24.01.2013 14:42:50.681: <http://fa.wikipedia.org/wiki/روش_تفاضل_محدود> <http://www.w3.org/2000/01/rdf-schema#label> "روش تفاضل محدود"@fa . with result 200
+24.01.2013 14:42:53.346: <http://fa.wikipedia.org/wiki/رویه_زیربخش_دو-سابین> <http://www.w3.org/2000/01/rdf-schema#label> "رویه زیربخش دو-سابین"@fa . with result 200
+24.01.2013 14:42:55.858: <http://fa.wikipedia.org/wiki/رویه_زیربخش_کتمول-کلارک> <http://www.w3.org/2000/01/rdf-schema#label> "رویه زیربخش کتمول-کلارک"@fa . with result 200
+24.01.2013 14:42:58.101: <http://fa.wikipedia.org/wiki/رویه_کونز> <http://www.w3.org/2000/01/rdf-schema#label> "رویه کونز"@fa . with result 200
+24.01.2013 14:43:01.070: <http://fa.wikipedia.org/wiki/ریاضیات> <http://www.w3.org/2000/01/rdf-schema#label> "ریاضیات"@fa . with result 200
+24.01.2013 14:43:03.626: <http://fa.wikipedia.org/wiki/ریاضیات_محض> <http://www.w3.org/2000/01/rdf-schema#label> "ریاضیات محض"@fa . with result 200
+24.01.2013 14:43:06.584: <http://fa.wikipedia.org/wiki/سکانت> <http://www.w3.org/2000/01/rdf-schema#label> "سکانت"@fa . with result 200
+24.01.2013 14:43:08.917: <http://fa.wikipedia.org/wiki/بحث_الگو:شاخه‌های_اصلی_ریاضیات> <http://www.w3.org/2000/01/rdf-schema#label> "بحث الگو:شاخه‌های اصلی ریاضیات"@fa . with result 200
+24.01.2013 14:43:11.592: <http://fa.wikipedia.org/wiki/شارل_هرمیت> <http://www.w3.org/2000/01/rdf-schema#label> "شارل هرمیت"@fa . with result 200
+24.01.2013 14:43:14.298: <http://fa.wikipedia.org/wiki/شناساگر_(ریاضیات)> <http://www.w3.org/2000/01/rdf-schema#label> "شناساگر (ریاضیات)"@fa . with result 200
+24.01.2013 14:43:16.951: <http://fa.wikipedia.org/wiki/ضرایب_لاگرانژ> <http://www.w3.org/2000/01/rdf-schema#label> "ضرایب لاگرانژ"@fa . with result 200
+24.01.2013 14:43:19.994: <http://fa.wikipedia.org/wiki/عدد_کولگن-کارپنتر> <http://www.w3.org/2000/01/rdf-schema#label> "عدد کولگن-کارپنتر"@fa . with result 200
+24.01.2013 14:43:22.715: <http://fa.wikipedia.org/wiki/فهرست_انتگرال_توابع_گویا> <http://www.w3.org/2000/01/rdf-schema#label> "فهرست انتگرال توابع گویا"@fa . with result 200
+24.01.2013 14:43:25.850: <http://fa.wikipedia.org/wiki/فهرست_دستورات_اسمبلی> <http://www.w3.org/2000/01/rdf-schema#label> "فهرست دستورات اسمبلی"@fa . with result 200
+24.01.2013 14:43:28.781: <http://fa.wikipedia.org/wiki/قاعده_ضرب> <http://www.w3.org/2000/01/rdf-schema#label> "قاعده ضرب"@fa . with result 200
+24.01.2013 14:43:31.873: <http://fa.wikipedia.org/wiki/قضیه_آخر_فرما> <http://www.w3.org/2000/01/rdf-schema#label> "قضیه آخر فرما"@fa . with result 200
+24.01.2013 14:43:34.595: <http://fa.wikipedia.org/wiki/مثلث_بزیه> <http://www.w3.org/2000/01/rdf-schema#label> "مثلث بزیه"@fa . with result 200
+24.01.2013 14:43:37.067: <http://fa.wikipedia.org/wiki/مسئله_دیسک_در_تئوری_ارتجاعی> <http://www.w3.org/2000/01/rdf-schema#label> "مسئله دیسک در تئوری ارتجاعی"@fa . with result 200
+24.01.2013 14:43:40.216: <http://fa.wikipedia.org/wiki/مسئله_محاسباتی_انجام‌پذیر> <http://www.w3.org/2000/01/rdf-schema#label> "مسئله محاسباتی انجام‌پذیر"@fa . with result 200
+24.01.2013 14:43:42.721: <http://fa.wikipedia.org/wiki/منحنی_بیضوی> <http://www.w3.org/2000/01/rdf-schema#label> "منحنی بیضوی"@fa . with result 200
+24.01.2013 14:43:45.562: <http://fa.wikipedia.org/wiki/مکمل_یک> <http://www.w3.org/2000/01/rdf-schema#label> "مکمل یک"@fa . with result 200
+24.01.2013 14:43:48.001: <http://fa.wikipedia.org/wiki/نمودار_دایره‌ای> <http://www.w3.org/2000/01/rdf-schema#label> "نمودار دایره‌ای"@fa . with result 200
+24.01.2013 14:43:50.837: <http://fa.wikipedia.org/wiki/نگارش_اعداد_انگلیسی> <http://www.w3.org/2000/01/rdf-schema#label> "نگارش اعداد انگلیسی"@fa . with result 200
+24.01.2013 14:43:53.096: <http://fa.wikipedia.org/wiki/نیمه‌صحیح> <http://www.w3.org/2000/01/rdf-schema#label> "نیمه‌صحیح"@fa . with result 200
+24.01.2013 14:43:55.500: <http://fa.wikipedia.org/wiki/هندسه_روش_کمترین_مربعات_معمولی> <http://www.w3.org/2000/01/rdf-schema#label> "هندسه روش کمترین مربعات معمولی"@fa . with result 200
+24.01.2013 14:43:57.448: <http://fa.wikipedia.org/wiki/پارامتر> <http://www.w3.org/2000/01/rdf-schema#label> "پارامتر"@fa . with result 200
+24.01.2013 14:43:59.595: <http://fa.wikipedia.org/wiki/چندگونای_جبری> <http://www.w3.org/2000/01/rdf-schema#label> "چندگونای جبری"@fa . with result 200
