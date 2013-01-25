@@ -1,10 +1,14 @@
-Copyright (c) Conatix UK Ltd. www.conatix.com
-Stanbol Entity Set Acquisition Widget is a contribution of Conatix UK Ltd. to Apache Stanbol for the early adapters program of IKS, http://www.iks-project.eu/ SESAW is specifically built to fetch the pages from wikipedia, get the title and the URL of the respective title and add them to entityhub of the Apache Stanbol. When they're added to the entityhub, the entities can be used as Named Entities. It can be used to add entities for a language for instance. Another use of it is to add a category or a set of categories as well as portals. 
+Copyright (c) Conatix UK Ltd. www.conatix.com  
+Stanbol Entity Set Acquisition Widget is a contribution of Conatix UK Ltd. to Apache Stanbol for the early adapters program of IKS, http://www.iks-project.eu/ SESAW is specifically built to fetch the pages from wikipedia, get the title and the URL of the respective title and add them to entityhub of the Apache Stanbol. When they're added to the entityhub, the entities can be used as Named Entities. It can be used to add entities for a language for instance. Another use of it is to add a category or a set of categories as well as portals.  
 Author Amin Alizadeh, amin.alizadeh@conatix.com/amin.alizadeh@gmail.com
 
-args:
+#Run the JAR file:  
+java -jar seesaw.jar
+
+args:  
 (optional): If command line args are not used, the default configs.xml file is used. You can change the the properties in  configs.xml or create a new XML file under a new name. Note that the command line args override the XML or default values.
--URLs: the filename where the URLs are located in the XML format.
+
+-URLs: the filename where the URLs are located in the XML format.  
 
 -RDFFormat: Default is <http://www.w3.org/2000/01/rdf-schema#label>.
 
