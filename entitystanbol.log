@@ -1269,3 +1269,8 @@
 25.01.2013 12:05:04.022: <http://fa.wikipedia.org/wiki/بطری_کلاین> <http://www.w3.org/2000/01/rdf-schema#label> "بطری کلاین"@fa . with result 200
 25.01.2013 12:05:06.163: <http://fa.wikipedia.org/wiki/تباهیدگی> <http://www.w3.org/2000/01/rdf-schema#label> "تباهیدگی"@fa . with result 200
 25.01.2013 12:05:08.483: <http://fa.wikipedia.org/wiki/جانشینی_مثلثاتی> <http://www.w3.org/2000/01/rdf-schema#label> "جانشینی مثلثاتی"@fa . with result 200
+25.01.2013 15:26:46.617: <http://fa.wikipedia.org/wiki/آب_و_هوا_نیمه_خشک> <http://www.w3.org/2000/01/rdf-schema#label> "آب و هوا نیمه خشک"@fa . with result 200
+25.01.2013 15:26:48.033: <http://fa.wikipedia.org/wiki/آبرفت> <http://www.w3.org/2000/01/rdf-schema#label> "آبرفت"@fa . with result 200
+25.01.2013 15:27:31.852: <http://fa.wikipedia.org/wiki/آب_و_هوا_نیمه_خشک> <http://www.w3.org/2000/01/rdf-schema#label> "آب و هوا نیمه خشک"@fa . with result 200
+25.01.2013 15:27:33.016: <http://fa.wikipedia.org/wiki/آبرفت> <http://www.w3.org/2000/01/rdf-schema#label> "آبرفت"@fa . with result 200
+25.01.2013 15:41:53.043: <http://fa.wikipedia.org/wiki/آب_و_هوا_نیمه_خشک> <http://www.w3.org/2000/01/rdf-schema#label> "آب و هوا نیمه خشک"@fa . with result 200
