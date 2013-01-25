@@ -64,7 +64,7 @@ public class EntitySetScheduled extends TimerTask {
 	 * 
 	 * @see {@link #run()}, {@link #correctUrl(String)}
 	 */
-	
+
 	public EntitySetScheduled(Timer entitySchedule, List<String> allUrls,
 			String validateUrl, String language, BufferedWriter rdfWriter,
 			LogWriter logger, String entityUrl) {
@@ -77,9 +77,12 @@ public class EntitySetScheduled extends TimerTask {
 		this.count = 0;
 		this.entitySchedule = entitySchedule;
 	}
-	
+
 	/**
-	 * This method is run in intervals which is configurable in the XML file of configurations or on the command line. It fetches each url within the allUrls parameter, parses, and discovers the pages and categories there. 
+	 * This method is run in intervals which is configurable in the XML file of
+	 * configurations or on the command line. It fetches each url within the
+	 * allUrls parameter, parses, and discovers the pages and categories in each
+	 * url which comes from the urls.xml file.
 	 */
 
 	@SuppressWarnings("unused")
@@ -96,8 +99,6 @@ public class EntitySetScheduled extends TimerTask {
 			String currentUrl = pUrls.get(i);
 			String currentTitle = pTitles.get(i);
 			if (correctUrl(currentUrl)) {
-				// allPageUrls.add(currentUrl);
-				// allPageTitles.add(currentTitle);
 				RDFGenerator rdfStanbol = new RDFGenerator();
 				String rdfFormat = rdfStanbol.RDFEntity(currentUrl,
 						currentTitle, language);
@@ -149,26 +150,25 @@ public class EntitySetScheduled extends TimerTask {
 
 	}
 
-	@SuppressWarnings("unused")
-	public static boolean correctUrl(String recUrl) {
+	/**
+	 * Checks if the URL is valid.
+	 * @param recUrl
+	 *            String of the URL to be checked.
+	 * @return If the URL is a valid page in wikipedia, it returns
+	 *         <code>true</code>, otherwise it returns <code>false</code>
+	 */
+	private static boolean correctUrl(String recUrl) {
 		URL url;
 		HttpURLConnection conn;
-		BufferedReader rd;
-		String line;
-		String result = "";
 		try {
 			url = new URL(recUrl);
 			conn = (HttpURLConnection) url.openConnection();
 			conn.setRequestMethod("GET");
-			rd = new BufferedReader(
-					new InputStreamReader(conn.getInputStream()));
-			while ((line = rd.readLine()) != null) {
-				result += line.toLowerCase() + "\n";
-				if (line.contains("<title>Wikimedia Error</title>")) {
-					return false;
-				}
+			int conResult = conn.getResponseCode();
+			if (conResult != 200){
+				return false;
 			}
-			rd.close();
+			conn.disconnect();
 		} catch (Exception e) {
 			return false;
 		}

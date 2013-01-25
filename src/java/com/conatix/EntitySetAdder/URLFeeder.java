@@ -20,28 +20,38 @@ import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
 
+/**
+ * Reads the XML formatted file of feed URLs and returns a List.
+ */
 public class URLFeeder {
-
+	/**
+	 * Constructor of the object. Reads the XML formatted file of feed URLs and
+	 * returns a List.
+	 */
 	public URLFeeder() {
 		super();
 	}
 
-	@SuppressWarnings("deprecation")
-	public List<String> UrlList(String filename){
+	/**
+	 * Reads the XML formatted file of feed URLs and returns a List.
+	 * @param filename	The XML file where the URLs are stored.
+	 * @return	The List of URLs.
+	 */
+	public List<String> UrlList(String filename) {
 		List<String> urls = new ArrayList<String>();
-		
+
 		Document dom = null;
 		DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
 		try {
 			DocumentBuilder db = dbf.newDocumentBuilder();
 			dom = db.parse(filename);
 			Element docEle = dom.getDocumentElement();
-			Element fieldsElements = (Element) docEle
-					.getElementsByTagName("Urls").item(0);
+			Element fieldsElements = (Element) docEle.getElementsByTagName(
+					"Urls").item(0);
 			NodeList fieldsNode = fieldsElements.getElementsByTagName("Url");
 			for (int i = 0; i < fieldsNode.getLength(); i++) {
-				urls.add(fieldsNode.item(i).getFirstChild()
-						.getTextContent().trim());
+				urls.add(fieldsNode.item(i).getFirstChild().getTextContent()
+						.trim());
 			}
 
 		} catch (ParserConfigurationException e) {
@@ -52,21 +62,6 @@ public class URLFeeder {
 			e.printStackTrace();
 		}
 
-//		
-//		try {
-//			FileInputStream fStream = new FileInputStream(filename);
-//			DataInputStream in = new DataInputStream(fStream);
-//			BufferedReader br = new BufferedReader(new InputStreamReader(in));
-//			String line = "";
-//			while ((line = br.readLine()) != null){
-//				urls.add(URLDecoder.decode(line));
-//			}
-//			in.close();
-//		} catch (Exception e) {
-//			// TODO Auto-generated catch block
-//			e.printStackTrace();
-//		}
-//		
 		return urls;
 	}
 

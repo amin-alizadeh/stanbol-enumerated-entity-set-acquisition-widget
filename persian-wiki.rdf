@@ -854,3 +854,439 @@
 <http://fa.wikipedia.org/wiki/پارامتر> <http://www.w3.org/2000/01/rdf-schema#label> "پارامتر"@fa .
 <http://fa.wikipedia.org/wiki/چندگونای_جبری> <http://www.w3.org/2000/01/rdf-schema#label> "چندگونای جبری"@fa .
 <http://fa.wikipedia.org/wiki/کاشی‌سازی_برخالی> <http://www.w3.org/2000/01/rdf-schema#label> "کاشی‌سازی برخالی"@fa .
+#Persian pages in WikiPedia added by Amin Alizadeh, Conatix.
+<http://fa.wikipedia.org/wiki/آب_و_هوا_نیمه_خشک> <http://www.w3.org/2000/01/rdf-schema#label> "آب و هوا نیمه خشک"@fa .
+<http://fa.wikipedia.org/wiki/آبرفت> <http://www.w3.org/2000/01/rdf-schema#label> "آبرفت"@fa .
+<http://fa.wikipedia.org/wiki/آفریقای_شمالی> <http://www.w3.org/2000/01/rdf-schema#label> "آفریقای شمالی"@fa .
+<http://fa.wikipedia.org/wiki/آفریقای_غربی> <http://www.w3.org/2000/01/rdf-schema#label> "آفریقای غربی"@fa .
+<http://fa.wikipedia.org/wiki/آمازون_(رود)> <http://www.w3.org/2000/01/rdf-schema#label> "آمازون (رود)"@fa .
+<http://fa.wikipedia.org/wiki/اختلاف_منظر> <http://www.w3.org/2000/01/rdf-schema#label> "اختلاف منظر"@fa .
+<http://fa.wikipedia.org/wiki/ارتفاع_از_سطح_دریا> <http://www.w3.org/2000/01/rdf-schema#label> "ارتفاع از سطح دریا"@fa .
+<http://fa.wikipedia.org/wiki/اردآپفل> <http://www.w3.org/2000/01/rdf-schema#label> "اردآپفل"@fa .
+<http://fa.wikipedia.org/wiki/اسپیلی> <http://www.w3.org/2000/01/rdf-schema#label> "اسپیلی"@fa .
+<http://fa.wikipedia.org/wiki/اطلس> <http://www.w3.org/2000/01/rdf-schema#label> "اطلس"@fa .
+<http://fa.wikipedia.org/wiki/باتلاق> <http://www.w3.org/2000/01/rdf-schema#label> "باتلاق"@fa .
+<http://fa.wikipedia.org/wiki/برنامه‌ریزی_شهری> <http://www.w3.org/2000/01/rdf-schema#label> "برنامه‌ریزی شهری"@fa .
+<http://fa.wikipedia.org/wiki/بورا_بورا> <http://www.w3.org/2000/01/rdf-schema#label> "بورا بورا"@fa .
+<http://fa.wikipedia.org/wiki/بیابان_گبی> <http://www.w3.org/2000/01/rdf-schema#label> "بیابان گبی"@fa .
+<http://fa.wikipedia.org/wiki/بیمینی،_باهاما> <http://www.w3.org/2000/01/rdf-schema#label> "بیمینی، باهاما"@fa .
+<http://fa.wikipedia.org/wiki/بی‌اس‌ای‌ای_استار_آریل> <http://www.w3.org/2000/01/rdf-schema#label> "بی‌اس‌ای‌ای استار آریل"@fa .
+<http://fa.wikipedia.org/wiki/بی‌اس‌ای‌ای_استار_تیگر> <http://www.w3.org/2000/01/rdf-schema#label> "بی‌اس‌ای‌ای استار تیگر"@fa .
+<http://fa.wikipedia.org/wiki/تراکم_جمعیت> <http://www.w3.org/2000/01/rdf-schema#label> "تراکم جمعیت"@fa .
+<http://fa.wikipedia.org/wiki/تنگه> <http://www.w3.org/2000/01/rdf-schema#label> "تنگه"@fa .
+<http://fa.wikipedia.org/wiki/تنگه_کره> <http://www.w3.org/2000/01/rdf-schema#label> "تنگه کره"@fa .
+<http://fa.wikipedia.org/wiki/تنگه_کرچ> <http://www.w3.org/2000/01/rdf-schema#label> "تنگه کرچ"@fa .
+<http://fa.wikipedia.org/wiki/توده_خاکی> <http://www.w3.org/2000/01/rdf-schema#label> "توده خاکی"@fa .
+<http://fa.wikipedia.org/wiki/توزیع_و_رشد_جمعیت> <http://www.w3.org/2000/01/rdf-schema#label> "توزیع و رشد جمعیت"@fa .
+<http://fa.wikipedia.org/wiki/تپه> <http://www.w3.org/2000/01/rdf-schema#label> "تپه"@fa .
+<http://fa.wikipedia.org/wiki/جای‌نام> <http://www.w3.org/2000/01/rdf-schema#label> "جای‌نام"@fa .
+<http://fa.wikipedia.org/wiki/جزر_و_مد> <http://www.w3.org/2000/01/rdf-schema#label> "جزر و مد"@fa .
+#Persian pages in WikiPedia added by Amin Alizadeh, Conatix.
+<http://fa.wikipedia.org/wiki/آب_و_هوا_نیمه_خشک> <http://www.w3.org/2000/01/rdf-schema#label> "آب و هوا نیمه خشک"@fa .
+<http://fa.wikipedia.org/wiki/آبرفت> <http://www.w3.org/2000/01/rdf-schema#label> "آبرفت"@fa .
+<http://fa.wikipedia.org/wiki/آفریقای_شمالی> <http://www.w3.org/2000/01/rdf-schema#label> "آفریقای شمالی"@fa .
+<http://fa.wikipedia.org/wiki/آفریقای_غربی> <http://www.w3.org/2000/01/rdf-schema#label> "آفریقای غربی"@fa .
+#Persian pages in WikiPedia added by Amin Alizadeh, Conatix.
+<http://fa.wikipedia.org/wiki/آب_و_هوا_نیمه_خشک> <http://www.w3.org/2000/01/rdf-schema#label> "آب و هوا نیمه خشک"@fa .
+<http://fa.wikipedia.org/wiki/آبرفت> <http://www.w3.org/2000/01/rdf-schema#label> "آبرفت"@fa .
+<http://fa.wikipedia.org/wiki/آفریقای_شمالی> <http://www.w3.org/2000/01/rdf-schema#label> "آفریقای شمالی"@fa .
+<http://fa.wikipedia.org/wiki/آفریقای_غربی> <http://www.w3.org/2000/01/rdf-schema#label> "آفریقای غربی"@fa .
+<http://fa.wikipedia.org/wiki/آمازون_(رود)> <http://www.w3.org/2000/01/rdf-schema#label> "آمازون (رود)"@fa .
+#Persian pages in WikiPedia added by Amin Alizadeh, Conatix.
+<http://fa.wikipedia.org/wiki/آب_و_هوا_نیمه_خشک> <http://www.w3.org/2000/01/rdf-schema#label> "آب و هوا نیمه خشک"@fa .
+<http://fa.wikipedia.org/wiki/آبرفت> <http://www.w3.org/2000/01/rdf-schema#label> "آبرفت"@fa .
+<http://fa.wikipedia.org/wiki/آفریقای_شمالی> <http://www.w3.org/2000/01/rdf-schema#label> "آفریقای شمالی"@fa .
+<http://fa.wikipedia.org/wiki/آفریقای_غربی> <http://www.w3.org/2000/01/rdf-schema#label> "آفریقای غربی"@fa .
+<http://fa.wikipedia.org/wiki/آمازون_(رود)> <http://www.w3.org/2000/01/rdf-schema#label> "آمازون (رود)"@fa .
+<http://fa.wikipedia.org/wiki/اختلاف_منظر> <http://www.w3.org/2000/01/rdf-schema#label> "اختلاف منظر"@fa .
+<http://fa.wikipedia.org/wiki/ارتفاع_از_سطح_دریا> <http://www.w3.org/2000/01/rdf-schema#label> "ارتفاع از سطح دریا"@fa .
+<http://fa.wikipedia.org/wiki/اردآپفل> <http://www.w3.org/2000/01/rdf-schema#label> "اردآپفل"@fa .
+<http://fa.wikipedia.org/wiki/اسپیلی> <http://www.w3.org/2000/01/rdf-schema#label> "اسپیلی"@fa .
+<http://fa.wikipedia.org/wiki/اطلس> <http://www.w3.org/2000/01/rdf-schema#label> "اطلس"@fa .
+<http://fa.wikipedia.org/wiki/باتلاق> <http://www.w3.org/2000/01/rdf-schema#label> "باتلاق"@fa .
+<http://fa.wikipedia.org/wiki/برنامه‌ریزی_شهری> <http://www.w3.org/2000/01/rdf-schema#label> "برنامه‌ریزی شهری"@fa .
+<http://fa.wikipedia.org/wiki/بورا_بورا> <http://www.w3.org/2000/01/rdf-schema#label> "بورا بورا"@fa .
+<http://fa.wikipedia.org/wiki/بیابان_گبی> <http://www.w3.org/2000/01/rdf-schema#label> "بیابان گبی"@fa .
+<http://fa.wikipedia.org/wiki/بیمینی،_باهاما> <http://www.w3.org/2000/01/rdf-schema#label> "بیمینی، باهاما"@fa .
+<http://fa.wikipedia.org/wiki/بی‌اس‌ای‌ای_استار_آریل> <http://www.w3.org/2000/01/rdf-schema#label> "بی‌اس‌ای‌ای استار آریل"@fa .
+<http://fa.wikipedia.org/wiki/بی‌اس‌ای‌ای_استار_تیگر> <http://www.w3.org/2000/01/rdf-schema#label> "بی‌اس‌ای‌ای استار تیگر"@fa .
+<http://fa.wikipedia.org/wiki/تراکم_جمعیت> <http://www.w3.org/2000/01/rdf-schema#label> "تراکم جمعیت"@fa .
+<http://fa.wikipedia.org/wiki/تنگه> <http://www.w3.org/2000/01/rdf-schema#label> "تنگه"@fa .
+<http://fa.wikipedia.org/wiki/تنگه_کره> <http://www.w3.org/2000/01/rdf-schema#label> "تنگه کره"@fa .
+<http://fa.wikipedia.org/wiki/تنگه_کرچ> <http://www.w3.org/2000/01/rdf-schema#label> "تنگه کرچ"@fa .
+<http://fa.wikipedia.org/wiki/توده_خاکی> <http://www.w3.org/2000/01/rdf-schema#label> "توده خاکی"@fa .
+<http://fa.wikipedia.org/wiki/توزیع_و_رشد_جمعیت> <http://www.w3.org/2000/01/rdf-schema#label> "توزیع و رشد جمعیت"@fa .
+<http://fa.wikipedia.org/wiki/تپه> <http://www.w3.org/2000/01/rdf-schema#label> "تپه"@fa .
+<http://fa.wikipedia.org/wiki/جای‌نام> <http://www.w3.org/2000/01/rdf-schema#label> "جای‌نام"@fa .
+<http://fa.wikipedia.org/wiki/جزر_و_مد> <http://www.w3.org/2000/01/rdf-schema#label> "جزر و مد"@fa .
+<http://fa.wikipedia.org/wiki/درگاه:جغرافیا> <http://www.w3.org/2000/01/rdf-schema#label> "درگاه:جغرافیا"@fa .
+<http://fa.wikipedia.org/wiki/جغرافیا> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیا"@fa .
+<http://fa.wikipedia.org/wiki/جغرافیای_انسانی> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیای انسانی"@fa .
+<http://fa.wikipedia.org/wiki/جغرافیای_سیاسی> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیای سیاسی"@fa .
+<http://fa.wikipedia.org/wiki/جغرافیای_طبیعی> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیای طبیعی"@fa .
+<http://fa.wikipedia.org/wiki/جلگه> <http://www.w3.org/2000/01/rdf-schema#label> "جلگه"@fa .
+<http://fa.wikipedia.org/wiki/جنوب_آفریقا> <http://www.w3.org/2000/01/rdf-schema#label> "جنوب آفریقا"@fa .
+<http://fa.wikipedia.org/wiki/جنوبگان> <http://www.w3.org/2000/01/rdf-schema#label> "جنوبگان"@fa .
+<http://fa.wikipedia.org/wiki/جنگل> <http://www.w3.org/2000/01/rdf-schema#label> "جنگل"@fa .
+<http://fa.wikipedia.org/wiki/جهت‌یابی> <http://www.w3.org/2000/01/rdf-schema#label> "جهت‌یابی"@fa .
+<http://fa.wikipedia.org/wiki/خاور_نزدیک> <http://www.w3.org/2000/01/rdf-schema#label> "خاور نزدیک"@fa .
+<http://fa.wikipedia.org/wiki/خلیج_ایلات> <http://www.w3.org/2000/01/rdf-schema#label> "خلیج ایلات"@fa .
+<http://fa.wikipedia.org/wiki/خلیج_بحرین> <http://www.w3.org/2000/01/rdf-schema#label> "خلیج بحرین"@fa .
+<http://fa.wikipedia.org/wiki/خلیج_عقبه> <http://www.w3.org/2000/01/rdf-schema#label> "خلیج عقبه"@fa .
+<http://fa.wikipedia.org/wiki/خور_عبدالله> <http://www.w3.org/2000/01/rdf-schema#label> "خور عبدالله"@fa .
+<http://fa.wikipedia.org/wiki/خورشید_نیمه‌شب> <http://www.w3.org/2000/01/rdf-schema#label> "خورشید نیمه‌شب"@fa .
+<http://fa.wikipedia.org/wiki/داده‌های_مکانی> <http://www.w3.org/2000/01/rdf-schema#label> "داده‌های مکانی"@fa .
+<http://fa.wikipedia.org/wiki/دره_پازیریک> <http://www.w3.org/2000/01/rdf-schema#label> "دره پازیریک"@fa .
+<http://fa.wikipedia.org/wiki/دستگاه_مختصات_جغرافیایی> <http://www.w3.org/2000/01/rdf-schema#label> "دستگاه مختصات جغرافیایی"@fa .
+<http://fa.wikipedia.org/wiki/دماغه_واشنگتن> <http://www.w3.org/2000/01/rdf-schema#label> "دماغه واشنگتن"@fa .
+<http://fa.wikipedia.org/wiki/ریگ‌روان> <http://www.w3.org/2000/01/rdf-schema#label> "ریگ‌روان"@fa .
+<http://fa.wikipedia.org/wiki/زمین> <http://www.w3.org/2000/01/rdf-schema#label> "زمین"@fa .
+<http://fa.wikipedia.org/wiki/سازمان_زمین‌شناسی_آمریکا> <http://www.w3.org/2000/01/rdf-schema#label> "سازمان زمین‌شناسی آمریکا"@fa .
+<http://fa.wikipedia.org/wiki/سامانه_موقعیت‌یاب_جهانی> <http://www.w3.org/2000/01/rdf-schema#label> "سامانه موقعیت‌یاب جهانی"@fa .
+<http://fa.wikipedia.org/wiki/سامانه_ناوبری_بیدو> <http://www.w3.org/2000/01/rdf-schema#label> "سامانه ناوبری بیدو"@fa .
+<http://fa.wikipedia.org/wiki/سفیدرود_(ایران)> <http://www.w3.org/2000/01/rdf-schema#label> "سفیدرود (ایران)"@fa .
+<http://fa.wikipedia.org/wiki/شبه‌قاره_هند> <http://www.w3.org/2000/01/rdf-schema#label> "شبه‌قاره هند"@fa .
+<http://fa.wikipedia.org/wiki/شمال_حقیقی> <http://www.w3.org/2000/01/rdf-schema#label> "شمال حقیقی"@fa .
+<http://fa.wikipedia.org/wiki/شمالگان> <http://www.w3.org/2000/01/rdf-schema#label> "شمالگان"@fa .
+<http://fa.wikipedia.org/wiki/شهرسازی> <http://www.w3.org/2000/01/rdf-schema#label> "شهرسازی"@fa .
+<http://fa.wikipedia.org/wiki/صفحه_آمریکای_جنوبی> <http://www.w3.org/2000/01/rdf-schema#label> "صفحه آمریکای جنوبی"@fa .
+<http://fa.wikipedia.org/wiki/صفحه_نازکا> <http://www.w3.org/2000/01/rdf-schema#label> "صفحه نازکا"@fa .
+<http://fa.wikipedia.org/wiki/طول_جغرافیایی> <http://www.w3.org/2000/01/rdf-schema#label> "طول جغرافیایی"@fa .
+<http://fa.wikipedia.org/wiki/فانوس_دریایی_ایزاک> <http://www.w3.org/2000/01/rdf-schema#label> "فانوس دریایی ایزاک"@fa .
+<http://fa.wikipedia.org/wiki/فهرست_دریاچه‌های_روسیه> <http://www.w3.org/2000/01/rdf-schema#label> "فهرست دریاچه‌های روسیه"@fa .
+<http://fa.wikipedia.org/wiki/فهرست_شهرهای_قاره_آمریکای_جنوبی> <http://www.w3.org/2000/01/rdf-schema#label> "فهرست شهرهای قاره آمریکای جنوبی"@fa .
+<http://fa.wikipedia.org/wiki/فهرست_کوه‌های_استان_هرمزگان> <http://www.w3.org/2000/01/rdf-schema#label> "فهرست کوه‌های استان هرمزگان"@fa .
+<http://fa.wikipedia.org/wiki/قطب_شمال> <http://www.w3.org/2000/01/rdf-schema#label> "قطب شمال"@fa .
+<http://fa.wikipedia.org/wiki/ویکی‌پدیا:قواعد_مختصات‌دهی> <http://www.w3.org/2000/01/rdf-schema#label> "ویکی‌پدیا:قواعد مختصات‌دهی"@fa .
+<http://fa.wikipedia.org/wiki/مثلث_برمودا> <http://www.w3.org/2000/01/rdf-schema#label> "مثلث برمودا"@fa .
+<http://fa.wikipedia.org/wiki/مدار_(جغرافیا)> <http://www.w3.org/2000/01/rdf-schema#label> "مدار (جغرافیا)"@fa .
+<http://fa.wikipedia.org/wiki/مدار_قطبی> <http://www.w3.org/2000/01/rdf-schema#label> "مدار قطبی"@fa .
+<http://fa.wikipedia.org/wiki/مدل_های_سه_بعدی_شهرها> <http://www.w3.org/2000/01/rdf-schema#label> "مدل های سه بعدی شهرها"@fa .
+<http://fa.wikipedia.org/wiki/مرز_(سرحد)> <http://www.w3.org/2000/01/rdf-schema#label> "مرز (سرحد)"@fa .
+<http://fa.wikipedia.org/wiki/ملنیک_(بلغارستان)> <http://www.w3.org/2000/01/rdf-schema#label> "ملنیک (بلغارستان)"@fa .
+<http://fa.wikipedia.org/wiki/منطقه> <http://www.w3.org/2000/01/rdf-schema#label> "منطقه"@fa .
+<http://fa.wikipedia.org/wiki/نبکا> <http://www.w3.org/2000/01/rdf-schema#label> "نبکا"@fa .
+<http://fa.wikipedia.org/wiki/نصف‌النهار> <http://www.w3.org/2000/01/rdf-schema#label> "نصف‌النهار"@fa .
+<http://fa.wikipedia.org/wiki/راهنما:نقشه_شهری_باز> <http://www.w3.org/2000/01/rdf-schema#label> "راهنما:نقشه شهری باز"@fa .
+<http://fa.wikipedia.org/wiki/نقشه_پیری_رئیس> <http://www.w3.org/2000/01/rdf-schema#label> "نقشه پیری رئیس"@fa .
+<http://fa.wikipedia.org/wiki/نقشه‌نگاری> <http://www.w3.org/2000/01/rdf-schema#label> "نقشه‌نگاری"@fa .
+<http://fa.wikipedia.org/wiki/هفت_کشور> <http://www.w3.org/2000/01/rdf-schema#label> "هفت کشور"@fa .
+<http://fa.wikipedia.org/wiki/هیمالیا> <http://www.w3.org/2000/01/rdf-schema#label> "هیمالیا"@fa .
+<http://fa.wikipedia.org/wiki/ویکی‌پدیا:ویکی‌پروژه_جغرافیا> <http://www.w3.org/2000/01/rdf-schema#label> "ویکی‌پدیا:ویکی‌پروژه جغرافیا"@fa .
+<http://fa.wikipedia.org/wiki/پارک_ملی_تیده> <http://www.w3.org/2000/01/rdf-schema#label> "پارک ملی تیده"@fa .
+<http://fa.wikipedia.org/wiki/پارک_ملی_گاراجونای> <http://www.w3.org/2000/01/rdf-schema#label> "پارک ملی گاراجونای"@fa .
+<http://fa.wikipedia.org/wiki/پیز_اسپالدا> <http://www.w3.org/2000/01/rdf-schema#label> "پیز اسپالدا"@fa .
+<http://fa.wikipedia.org/wiki/ژرف_(جغرافیا)> <http://www.w3.org/2000/01/rdf-schema#label> "ژرف (جغرافیا)"@fa .
+<http://fa.wikipedia.org/wiki/کارول_آ_دیرینگ> <http://www.w3.org/2000/01/rdf-schema#label> "کارول آ دیرینگ"@fa .
+<http://fa.wikipedia.org/wiki/کشور> <http://www.w3.org/2000/01/rdf-schema#label> "کشور"@fa .
+<http://fa.wikipedia.org/wiki/کشور_محصور_در_خشکی> <http://www.w3.org/2000/01/rdf-schema#label> "کشور محصور در خشکی"@fa .
+<http://fa.wikipedia.org/wiki/کلوت> <http://www.w3.org/2000/01/rdf-schema#label> "کلوت"@fa .
+<http://fa.wikipedia.org/wiki/کونمارا_پنجم> <http://www.w3.org/2000/01/rdf-schema#label> "کونمارا پنجم"@fa .
+<http://fa.wikipedia.org/wiki/گالیلئو_(ناوبری_ماهواره‌ای)> <http://www.w3.org/2000/01/rdf-schema#label> "گالیلئو (ناوبری ماهواره‌ای)"@fa .
+<http://fa.wikipedia.org/wiki/گلوناس> <http://www.w3.org/2000/01/rdf-schema#label> "گلوناس"@fa .
+<http://fa.wikipedia.org/wiki/گلوناس-کی> <http://www.w3.org/2000/01/rdf-schema#label> "گلوناس-کی"@fa .
+<http://fa.wikipedia.org/wiki/یواس‌اس_سایکلوپ> <http://www.w3.org/2000/01/rdf-schema#label> "یواس‌اس سایکلوپ"@fa .
+<http://fa.wikipedia.org/wiki/یواس‌اس_نرئوس> <http://www.w3.org/2000/01/rdf-schema#label> "یواس‌اس نرئوس"@fa .
+<http://fa.wikipedia.org/wiki/پرونده:urmia_lake_1984_to_2011.gif> <http://www.w3.org/2000/01/rdf-schema#label> "<img alt="urmia lake 1984 to 2011.gif" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/urmia_lake_1984_to_2011.gif/120px-urmia_lake_1984_to_2011.gif" width="120" height="120" />"@fa .
+<http://fa.wikipedia.org/wiki/پرونده:urmia_lake_1984_to_2011.gif> <http://www.w3.org/2000/01/rdf-schema#label> "urmia lake 1984 to 201..."@fa .
+<http://fa.wikipedia.org/wiki/آب_و_هوا_نیمه_خشک> <http://www.w3.org/2000/01/rdf-schema#label> "آب و هوا نیمه خشک"@fa .
+<http://fa.wikipedia.org/wiki/آبرفت> <http://www.w3.org/2000/01/rdf-schema#label> "آبرفت"@fa .
+<http://fa.wikipedia.org/wiki/آفریقای_شمالی> <http://www.w3.org/2000/01/rdf-schema#label> "آفریقای شمالی"@fa .
+<http://fa.wikipedia.org/wiki/آفریقای_غربی> <http://www.w3.org/2000/01/rdf-schema#label> "آفریقای غربی"@fa .
+<http://fa.wikipedia.org/wiki/آمازون_(رود)> <http://www.w3.org/2000/01/rdf-schema#label> "آمازون (رود)"@fa .
+<http://fa.wikipedia.org/wiki/اختلاف_منظر> <http://www.w3.org/2000/01/rdf-schema#label> "اختلاف منظر"@fa .
+<http://fa.wikipedia.org/wiki/ارتفاع_از_سطح_دریا> <http://www.w3.org/2000/01/rdf-schema#label> "ارتفاع از سطح دریا"@fa .
+<http://fa.wikipedia.org/wiki/اردآپفل> <http://www.w3.org/2000/01/rdf-schema#label> "اردآپفل"@fa .
+<http://fa.wikipedia.org/wiki/اسپیلی> <http://www.w3.org/2000/01/rdf-schema#label> "اسپیلی"@fa .
+<http://fa.wikipedia.org/wiki/اطلس> <http://www.w3.org/2000/01/rdf-schema#label> "اطلس"@fa .
+<http://fa.wikipedia.org/wiki/باتلاق> <http://www.w3.org/2000/01/rdf-schema#label> "باتلاق"@fa .
+<http://fa.wikipedia.org/wiki/برنامه‌ریزی_شهری> <http://www.w3.org/2000/01/rdf-schema#label> "برنامه‌ریزی شهری"@fa .
+<http://fa.wikipedia.org/wiki/بورا_بورا> <http://www.w3.org/2000/01/rdf-schema#label> "بورا بورا"@fa .
+<http://fa.wikipedia.org/wiki/بیابان_گبی> <http://www.w3.org/2000/01/rdf-schema#label> "بیابان گبی"@fa .
+<http://fa.wikipedia.org/wiki/بیمینی،_باهاما> <http://www.w3.org/2000/01/rdf-schema#label> "بیمینی، باهاما"@fa .
+<http://fa.wikipedia.org/wiki/بی‌اس‌ای‌ای_استار_آریل> <http://www.w3.org/2000/01/rdf-schema#label> "بی‌اس‌ای‌ای استار آریل"@fa .
+<http://fa.wikipedia.org/wiki/بی‌اس‌ای‌ای_استار_تیگر> <http://www.w3.org/2000/01/rdf-schema#label> "بی‌اس‌ای‌ای استار تیگر"@fa .
+<http://fa.wikipedia.org/wiki/تراکم_جمعیت> <http://www.w3.org/2000/01/rdf-schema#label> "تراکم جمعیت"@fa .
+<http://fa.wikipedia.org/wiki/تنگه> <http://www.w3.org/2000/01/rdf-schema#label> "تنگه"@fa .
+<http://fa.wikipedia.org/wiki/تنگه_کره> <http://www.w3.org/2000/01/rdf-schema#label> "تنگه کره"@fa .
+<http://fa.wikipedia.org/wiki/تنگه_کرچ> <http://www.w3.org/2000/01/rdf-schema#label> "تنگه کرچ"@fa .
+<http://fa.wikipedia.org/wiki/توده_خاکی> <http://www.w3.org/2000/01/rdf-schema#label> "توده خاکی"@fa .
+<http://fa.wikipedia.org/wiki/توزیع_و_رشد_جمعیت> <http://www.w3.org/2000/01/rdf-schema#label> "توزیع و رشد جمعیت"@fa .
+<http://fa.wikipedia.org/wiki/تپه> <http://www.w3.org/2000/01/rdf-schema#label> "تپه"@fa .
+<http://fa.wikipedia.org/wiki/جای‌نام> <http://www.w3.org/2000/01/rdf-schema#label> "جای‌نام"@fa .
+<http://fa.wikipedia.org/wiki/جزر_و_مد> <http://www.w3.org/2000/01/rdf-schema#label> "جزر و مد"@fa .
+<http://fa.wikipedia.org/wiki/درگاه:جغرافیا> <http://www.w3.org/2000/01/rdf-schema#label> "درگاه:جغرافیا"@fa .
+<http://fa.wikipedia.org/wiki/جغرافیا> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیا"@fa .
+<http://fa.wikipedia.org/wiki/جغرافیای_انسانی> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیای انسانی"@fa .
+<http://fa.wikipedia.org/wiki/جغرافیای_سیاسی> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیای سیاسی"@fa .
+<http://fa.wikipedia.org/wiki/جغرافیای_طبیعی> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیای طبیعی"@fa .
+<http://fa.wikipedia.org/wiki/جلگه> <http://www.w3.org/2000/01/rdf-schema#label> "جلگه"@fa .
+<http://fa.wikipedia.org/wiki/جنوب_آفریقا> <http://www.w3.org/2000/01/rdf-schema#label> "جنوب آفریقا"@fa .
+<http://fa.wikipedia.org/wiki/جنوبگان> <http://www.w3.org/2000/01/rdf-schema#label> "جنوبگان"@fa .
+<http://fa.wikipedia.org/wiki/جنگل> <http://www.w3.org/2000/01/rdf-schema#label> "جنگل"@fa .
+<http://fa.wikipedia.org/wiki/جهت‌یابی> <http://www.w3.org/2000/01/rdf-schema#label> "جهت‌یابی"@fa .
+<http://fa.wikipedia.org/wiki/خاور_نزدیک> <http://www.w3.org/2000/01/rdf-schema#label> "خاور نزدیک"@fa .
+<http://fa.wikipedia.org/wiki/خلیج_ایلات> <http://www.w3.org/2000/01/rdf-schema#label> "خلیج ایلات"@fa .
+<http://fa.wikipedia.org/wiki/خلیج_بحرین> <http://www.w3.org/2000/01/rdf-schema#label> "خلیج بحرین"@fa .
+<http://fa.wikipedia.org/wiki/خلیج_عقبه> <http://www.w3.org/2000/01/rdf-schema#label> "خلیج عقبه"@fa .
+<http://fa.wikipedia.org/wiki/خور_عبدالله> <http://www.w3.org/2000/01/rdf-schema#label> "خور عبدالله"@fa .
+<http://fa.wikipedia.org/wiki/خورشید_نیمه‌شب> <http://www.w3.org/2000/01/rdf-schema#label> "خورشید نیمه‌شب"@fa .
+<http://fa.wikipedia.org/wiki/داده‌های_مکانی> <http://www.w3.org/2000/01/rdf-schema#label> "داده‌های مکانی"@fa .
+<http://fa.wikipedia.org/wiki/دره_پازیریک> <http://www.w3.org/2000/01/rdf-schema#label> "دره پازیریک"@fa .
+<http://fa.wikipedia.org/wiki/دستگاه_مختصات_جغرافیایی> <http://www.w3.org/2000/01/rdf-schema#label> "دستگاه مختصات جغرافیایی"@fa .
+<http://fa.wikipedia.org/wiki/دماغه_واشنگتن> <http://www.w3.org/2000/01/rdf-schema#label> "دماغه واشنگتن"@fa .
+<http://fa.wikipedia.org/wiki/ریگ‌روان> <http://www.w3.org/2000/01/rdf-schema#label> "ریگ‌روان"@fa .
+<http://fa.wikipedia.org/wiki/زمین> <http://www.w3.org/2000/01/rdf-schema#label> "زمین"@fa .
+<http://fa.wikipedia.org/wiki/سازمان_زمین‌شناسی_آمریکا> <http://www.w3.org/2000/01/rdf-schema#label> "سازمان زمین‌شناسی آمریکا"@fa .
+<http://fa.wikipedia.org/wiki/سامانه_موقعیت‌یاب_جهانی> <http://www.w3.org/2000/01/rdf-schema#label> "سامانه موقعیت‌یاب جهانی"@fa .
+<http://fa.wikipedia.org/wiki/سامانه_ناوبری_بیدو> <http://www.w3.org/2000/01/rdf-schema#label> "سامانه ناوبری بیدو"@fa .
+<http://fa.wikipedia.org/wiki/سفیدرود_(ایران)> <http://www.w3.org/2000/01/rdf-schema#label> "سفیدرود (ایران)"@fa .
+<http://fa.wikipedia.org/wiki/شبه‌قاره_هند> <http://www.w3.org/2000/01/rdf-schema#label> "شبه‌قاره هند"@fa .
+<http://fa.wikipedia.org/wiki/شمال_حقیقی> <http://www.w3.org/2000/01/rdf-schema#label> "شمال حقیقی"@fa .
+<http://fa.wikipedia.org/wiki/شمالگان> <http://www.w3.org/2000/01/rdf-schema#label> "شمالگان"@fa .
+<http://fa.wikipedia.org/wiki/شهرسازی> <http://www.w3.org/2000/01/rdf-schema#label> "شهرسازی"@fa .
+<http://fa.wikipedia.org/wiki/صفحه_آمریکای_جنوبی> <http://www.w3.org/2000/01/rdf-schema#label> "صفحه آمریکای جنوبی"@fa .
+<http://fa.wikipedia.org/wiki/صفحه_نازکا> <http://www.w3.org/2000/01/rdf-schema#label> "صفحه نازکا"@fa .
+<http://fa.wikipedia.org/wiki/طول_جغرافیایی> <http://www.w3.org/2000/01/rdf-schema#label> "طول جغرافیایی"@fa .
+<http://fa.wikipedia.org/wiki/فانوس_دریایی_ایزاک> <http://www.w3.org/2000/01/rdf-schema#label> "فانوس دریایی ایزاک"@fa .
+<http://fa.wikipedia.org/wiki/فهرست_دریاچه‌های_روسیه> <http://www.w3.org/2000/01/rdf-schema#label> "فهرست دریاچه‌های روسیه"@fa .
+<http://fa.wikipedia.org/wiki/فهرست_شهرهای_قاره_آمریکای_جنوبی> <http://www.w3.org/2000/01/rdf-schema#label> "فهرست شهرهای قاره آمریکای جنوبی"@fa .
+<http://fa.wikipedia.org/wiki/فهرست_کوه‌های_استان_هرمزگان> <http://www.w3.org/2000/01/rdf-schema#label> "فهرست کوه‌های استان هرمزگان"@fa .
+<http://fa.wikipedia.org/wiki/قطب_شمال> <http://www.w3.org/2000/01/rdf-schema#label> "قطب شمال"@fa .
+<http://fa.wikipedia.org/wiki/ویکی‌پدیا:قواعد_مختصات‌دهی> <http://www.w3.org/2000/01/rdf-schema#label> "ویکی‌پدیا:قواعد مختصات‌دهی"@fa .
+<http://fa.wikipedia.org/wiki/مثلث_برمودا> <http://www.w3.org/2000/01/rdf-schema#label> "مثلث برمودا"@fa .
+<http://fa.wikipedia.org/wiki/مدار_(جغرافیا)> <http://www.w3.org/2000/01/rdf-schema#label> "مدار (جغرافیا)"@fa .
+<http://fa.wikipedia.org/wiki/مدار_قطبی> <http://www.w3.org/2000/01/rdf-schema#label> "مدار قطبی"@fa .
+<http://fa.wikipedia.org/wiki/مدل_های_سه_بعدی_شهرها> <http://www.w3.org/2000/01/rdf-schema#label> "مدل های سه بعدی شهرها"@fa .
+<http://fa.wikipedia.org/wiki/مرز_(سرحد)> <http://www.w3.org/2000/01/rdf-schema#label> "مرز (سرحد)"@fa .
+<http://fa.wikipedia.org/wiki/ملنیک_(بلغارستان)> <http://www.w3.org/2000/01/rdf-schema#label> "ملنیک (بلغارستان)"@fa .
+<http://fa.wikipedia.org/wiki/منطقه> <http://www.w3.org/2000/01/rdf-schema#label> "منطقه"@fa .
+<http://fa.wikipedia.org/wiki/نبکا> <http://www.w3.org/2000/01/rdf-schema#label> "نبکا"@fa .
+<http://fa.wikipedia.org/wiki/نصف‌النهار> <http://www.w3.org/2000/01/rdf-schema#label> "نصف‌النهار"@fa .
+<http://fa.wikipedia.org/wiki/راهنما:نقشه_شهری_باز> <http://www.w3.org/2000/01/rdf-schema#label> "راهنما:نقشه شهری باز"@fa .
+<http://fa.wikipedia.org/wiki/نقشه_پیری_رئیس> <http://www.w3.org/2000/01/rdf-schema#label> "نقشه پیری رئیس"@fa .
+<http://fa.wikipedia.org/wiki/نقشه‌نگاری> <http://www.w3.org/2000/01/rdf-schema#label> "نقشه‌نگاری"@fa .
+<http://fa.wikipedia.org/wiki/هفت_کشور> <http://www.w3.org/2000/01/rdf-schema#label> "هفت کشور"@fa .
+<http://fa.wikipedia.org/wiki/هیمالیا> <http://www.w3.org/2000/01/rdf-schema#label> "هیمالیا"@fa .
+<http://fa.wikipedia.org/wiki/ویکی‌پدیا:ویکی‌پروژه_جغرافیا> <http://www.w3.org/2000/01/rdf-schema#label> "ویکی‌پدیا:ویکی‌پروژه جغرافیا"@fa .
+<http://fa.wikipedia.org/wiki/پارک_ملی_تیده> <http://www.w3.org/2000/01/rdf-schema#label> "پارک ملی تیده"@fa .
+<http://fa.wikipedia.org/wiki/پارک_ملی_گاراجونای> <http://www.w3.org/2000/01/rdf-schema#label> "پارک ملی گاراجونای"@fa .
+<http://fa.wikipedia.org/wiki/پیز_اسپالدا> <http://www.w3.org/2000/01/rdf-schema#label> "پیز اسپالدا"@fa .
+<http://fa.wikipedia.org/wiki/ژرف_(جغرافیا)> <http://www.w3.org/2000/01/rdf-schema#label> "ژرف (جغرافیا)"@fa .
+<http://fa.wikipedia.org/wiki/کارول_آ_دیرینگ> <http://www.w3.org/2000/01/rdf-schema#label> "کارول آ دیرینگ"@fa .
+<http://fa.wikipedia.org/wiki/کشور> <http://www.w3.org/2000/01/rdf-schema#label> "کشور"@fa .
+<http://fa.wikipedia.org/wiki/کشور_محصور_در_خشکی> <http://www.w3.org/2000/01/rdf-schema#label> "کشور محصور در خشکی"@fa .
+<http://fa.wikipedia.org/wiki/کلوت> <http://www.w3.org/2000/01/rdf-schema#label> "کلوت"@fa .
+<http://fa.wikipedia.org/wiki/کونمارا_پنجم> <http://www.w3.org/2000/01/rdf-schema#label> "کونمارا پنجم"@fa .
+<http://fa.wikipedia.org/wiki/گالیلئو_(ناوبری_ماهواره‌ای)> <http://www.w3.org/2000/01/rdf-schema#label> "گالیلئو (ناوبری ماهواره‌ای)"@fa .
+<http://fa.wikipedia.org/wiki/گلوناس> <http://www.w3.org/2000/01/rdf-schema#label> "گلوناس"@fa .
+<http://fa.wikipedia.org/wiki/گلوناس-کی> <http://www.w3.org/2000/01/rdf-schema#label> "گلوناس-کی"@fa .
+<http://fa.wikipedia.org/wiki/یواس‌اس_سایکلوپ> <http://www.w3.org/2000/01/rdf-schema#label> "یواس‌اس سایکلوپ"@fa .
+<http://fa.wikipedia.org/wiki/یواس‌اس_نرئوس> <http://www.w3.org/2000/01/rdf-schema#label> "یواس‌اس نرئوس"@fa .
+<http://fa.wikipedia.org/wiki/رده:علوم_میان‌رشته‌ای> <http://www.w3.org/2000/01/rdf-schema#label> "دسته‌بندی موضوعات اصلی"@fa .
+<http://fa.wikipedia.org/wiki/آب_و_هوا_نیمه_خشک> <http://www.w3.org/2000/01/rdf-schema#label> "آب و هوا نیمه خشک"@fa .
+<http://fa.wikipedia.org/wiki/آبرفت> <http://www.w3.org/2000/01/rdf-schema#label> "آبرفت"@fa .
+<http://fa.wikipedia.org/wiki/آفریقای_شمالی> <http://www.w3.org/2000/01/rdf-schema#label> "آفریقای شمالی"@fa .
+<http://fa.wikipedia.org/wiki/آفریقای_غربی> <http://www.w3.org/2000/01/rdf-schema#label> "آفریقای غربی"@fa .
+<http://fa.wikipedia.org/wiki/آمازون_(رود)> <http://www.w3.org/2000/01/rdf-schema#label> "آمازون (رود)"@fa .
+<http://fa.wikipedia.org/wiki/اختلاف_منظر> <http://www.w3.org/2000/01/rdf-schema#label> "اختلاف منظر"@fa .
+<http://fa.wikipedia.org/wiki/ارتفاع_از_سطح_دریا> <http://www.w3.org/2000/01/rdf-schema#label> "ارتفاع از سطح دریا"@fa .
+<http://fa.wikipedia.org/wiki/اردآپفل> <http://www.w3.org/2000/01/rdf-schema#label> "اردآپفل"@fa .
+<http://fa.wikipedia.org/wiki/اسپیلی> <http://www.w3.org/2000/01/rdf-schema#label> "اسپیلی"@fa .
+<http://fa.wikipedia.org/wiki/اطلس> <http://www.w3.org/2000/01/rdf-schema#label> "اطلس"@fa .
+<http://fa.wikipedia.org/wiki/باتلاق> <http://www.w3.org/2000/01/rdf-schema#label> "باتلاق"@fa .
+<http://fa.wikipedia.org/wiki/برنامه‌ریزی_شهری> <http://www.w3.org/2000/01/rdf-schema#label> "برنامه‌ریزی شهری"@fa .
+<http://fa.wikipedia.org/wiki/بورا_بورا> <http://www.w3.org/2000/01/rdf-schema#label> "بورا بورا"@fa .
+<http://fa.wikipedia.org/wiki/بیابان_گبی> <http://www.w3.org/2000/01/rdf-schema#label> "بیابان گبی"@fa .
+<http://fa.wikipedia.org/wiki/بیمینی،_باهاما> <http://www.w3.org/2000/01/rdf-schema#label> "بیمینی، باهاما"@fa .
+<http://fa.wikipedia.org/wiki/بی‌اس‌ای‌ای_استار_آریل> <http://www.w3.org/2000/01/rdf-schema#label> "بی‌اس‌ای‌ای استار آریل"@fa .
+<http://fa.wikipedia.org/wiki/بی‌اس‌ای‌ای_استار_تیگر> <http://www.w3.org/2000/01/rdf-schema#label> "بی‌اس‌ای‌ای استار تیگر"@fa .
+<http://fa.wikipedia.org/wiki/تراکم_جمعیت> <http://www.w3.org/2000/01/rdf-schema#label> "تراکم جمعیت"@fa .
+<http://fa.wikipedia.org/wiki/تنگه> <http://www.w3.org/2000/01/rdf-schema#label> "تنگه"@fa .
+<http://fa.wikipedia.org/wiki/تنگه_کره> <http://www.w3.org/2000/01/rdf-schema#label> "تنگه کره"@fa .
+<http://fa.wikipedia.org/wiki/تنگه_کرچ> <http://www.w3.org/2000/01/rdf-schema#label> "تنگه کرچ"@fa .
+<http://fa.wikipedia.org/wiki/توده_خاکی> <http://www.w3.org/2000/01/rdf-schema#label> "توده خاکی"@fa .
+<http://fa.wikipedia.org/wiki/توزیع_و_رشد_جمعیت> <http://www.w3.org/2000/01/rdf-schema#label> "توزیع و رشد جمعیت"@fa .
+<http://fa.wikipedia.org/wiki/تپه> <http://www.w3.org/2000/01/rdf-schema#label> "تپه"@fa .
+<http://fa.wikipedia.org/wiki/جای‌نام> <http://www.w3.org/2000/01/rdf-schema#label> "جای‌نام"@fa .
+<http://fa.wikipedia.org/wiki/جزر_و_مد> <http://www.w3.org/2000/01/rdf-schema#label> "جزر و مد"@fa .
+<http://fa.wikipedia.org/wiki/درگاه:جغرافیا> <http://www.w3.org/2000/01/rdf-schema#label> "درگاه:جغرافیا"@fa .
+<http://fa.wikipedia.org/wiki/جغرافیا> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیا"@fa .
+<http://fa.wikipedia.org/wiki/جغرافیای_انسانی> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیای انسانی"@fa .
+<http://fa.wikipedia.org/wiki/جغرافیای_سیاسی> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیای سیاسی"@fa .
+<http://fa.wikipedia.org/wiki/جغرافیای_طبیعی> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیای طبیعی"@fa .
+<http://fa.wikipedia.org/wiki/جلگه> <http://www.w3.org/2000/01/rdf-schema#label> "جلگه"@fa .
+<http://fa.wikipedia.org/wiki/جنوب_آفریقا> <http://www.w3.org/2000/01/rdf-schema#label> "جنوب آفریقا"@fa .
+<http://fa.wikipedia.org/wiki/جنوبگان> <http://www.w3.org/2000/01/rdf-schema#label> "جنوبگان"@fa .
+<http://fa.wikipedia.org/wiki/جنگل> <http://www.w3.org/2000/01/rdf-schema#label> "جنگل"@fa .
+<http://fa.wikipedia.org/wiki/جهت‌یابی> <http://www.w3.org/2000/01/rdf-schema#label> "جهت‌یابی"@fa .
+<http://fa.wikipedia.org/wiki/خاور_نزدیک> <http://www.w3.org/2000/01/rdf-schema#label> "خاور نزدیک"@fa .
+<http://fa.wikipedia.org/wiki/خلیج_ایلات> <http://www.w3.org/2000/01/rdf-schema#label> "خلیج ایلات"@fa .
+<http://fa.wikipedia.org/wiki/خلیج_بحرین> <http://www.w3.org/2000/01/rdf-schema#label> "خلیج بحرین"@fa .
+<http://fa.wikipedia.org/wiki/خلیج_عقبه> <http://www.w3.org/2000/01/rdf-schema#label> "خلیج عقبه"@fa .
+<http://fa.wikipedia.org/wiki/خور_عبدالله> <http://www.w3.org/2000/01/rdf-schema#label> "خور عبدالله"@fa .
+<http://fa.wikipedia.org/wiki/خورشید_نیمه‌شب> <http://www.w3.org/2000/01/rdf-schema#label> "خورشید نیمه‌شب"@fa .
+<http://fa.wikipedia.org/wiki/داده‌های_مکانی> <http://www.w3.org/2000/01/rdf-schema#label> "داده‌های مکانی"@fa .
+<http://fa.wikipedia.org/wiki/دره_پازیریک> <http://www.w3.org/2000/01/rdf-schema#label> "دره پازیریک"@fa .
+<http://fa.wikipedia.org/wiki/دستگاه_مختصات_جغرافیایی> <http://www.w3.org/2000/01/rdf-schema#label> "دستگاه مختصات جغرافیایی"@fa .
+<http://fa.wikipedia.org/wiki/دماغه_واشنگتن> <http://www.w3.org/2000/01/rdf-schema#label> "دماغه واشنگتن"@fa .
+<http://fa.wikipedia.org/wiki/ریگ‌روان> <http://www.w3.org/2000/01/rdf-schema#label> "ریگ‌روان"@fa .
+<http://fa.wikipedia.org/wiki/زمین> <http://www.w3.org/2000/01/rdf-schema#label> "زمین"@fa .
+<http://fa.wikipedia.org/wiki/سازمان_زمین‌شناسی_آمریکا> <http://www.w3.org/2000/01/rdf-schema#label> "سازمان زمین‌شناسی آمریکا"@fa .
+<http://fa.wikipedia.org/wiki/سامانه_موقعیت‌یاب_جهانی> <http://www.w3.org/2000/01/rdf-schema#label> "سامانه موقعیت‌یاب جهانی"@fa .
+<http://fa.wikipedia.org/wiki/سامانه_ناوبری_بیدو> <http://www.w3.org/2000/01/rdf-schema#label> "سامانه ناوبری بیدو"@fa .
+<http://fa.wikipedia.org/wiki/سفیدرود_(ایران)> <http://www.w3.org/2000/01/rdf-schema#label> "سفیدرود (ایران)"@fa .
+<http://fa.wikipedia.org/wiki/شبه‌قاره_هند> <http://www.w3.org/2000/01/rdf-schema#label> "شبه‌قاره هند"@fa .
+<http://fa.wikipedia.org/wiki/شمال_حقیقی> <http://www.w3.org/2000/01/rdf-schema#label> "شمال حقیقی"@fa .
+<http://fa.wikipedia.org/wiki/شمالگان> <http://www.w3.org/2000/01/rdf-schema#label> "شمالگان"@fa .
+<http://fa.wikipedia.org/wiki/شهرسازی> <http://www.w3.org/2000/01/rdf-schema#label> "شهرسازی"@fa .
+<http://fa.wikipedia.org/wiki/صفحه_آمریکای_جنوبی> <http://www.w3.org/2000/01/rdf-schema#label> "صفحه آمریکای جنوبی"@fa .
+<http://fa.wikipedia.org/wiki/صفحه_نازکا> <http://www.w3.org/2000/01/rdf-schema#label> "صفحه نازکا"@fa .
+<http://fa.wikipedia.org/wiki/طول_جغرافیایی> <http://www.w3.org/2000/01/rdf-schema#label> "طول جغرافیایی"@fa .
+<http://fa.wikipedia.org/wiki/فانوس_دریایی_ایزاک> <http://www.w3.org/2000/01/rdf-schema#label> "فانوس دریایی ایزاک"@fa .
+<http://fa.wikipedia.org/wiki/فهرست_دریاچه‌های_روسیه> <http://www.w3.org/2000/01/rdf-schema#label> "فهرست دریاچه‌های روسیه"@fa .
+<http://fa.wikipedia.org/wiki/فهرست_شهرهای_قاره_آمریکای_جنوبی> <http://www.w3.org/2000/01/rdf-schema#label> "فهرست شهرهای قاره آمریکای جنوبی"@fa .
+<http://fa.wikipedia.org/wiki/فهرست_کوه‌های_استان_هرمزگان> <http://www.w3.org/2000/01/rdf-schema#label> "فهرست کوه‌های استان هرمزگان"@fa .
+<http://fa.wikipedia.org/wiki/قطب_شمال> <http://www.w3.org/2000/01/rdf-schema#label> "قطب شمال"@fa .
+<http://fa.wikipedia.org/wiki/ویکی‌پدیا:قواعد_مختصات‌دهی> <http://www.w3.org/2000/01/rdf-schema#label> "ویکی‌پدیا:قواعد مختصات‌دهی"@fa .
+<http://fa.wikipedia.org/wiki/مثلث_برمودا> <http://www.w3.org/2000/01/rdf-schema#label> "مثلث برمودا"@fa .
+<http://fa.wikipedia.org/wiki/مدار_(جغرافیا)> <http://www.w3.org/2000/01/rdf-schema#label> "مدار (جغرافیا)"@fa .
+<http://fa.wikipedia.org/wiki/مدار_قطبی> <http://www.w3.org/2000/01/rdf-schema#label> "مدار قطبی"@fa .
+<http://fa.wikipedia.org/wiki/مدل_های_سه_بعدی_شهرها> <http://www.w3.org/2000/01/rdf-schema#label> "مدل های سه بعدی شهرها"@fa .
+<http://fa.wikipedia.org/wiki/مرز_(سرحد)> <http://www.w3.org/2000/01/rdf-schema#label> "مرز (سرحد)"@fa .
+<http://fa.wikipedia.org/wiki/ملنیک_(بلغارستان)> <http://www.w3.org/2000/01/rdf-schema#label> "ملنیک (بلغارستان)"@fa .
+<http://fa.wikipedia.org/wiki/منطقه> <http://www.w3.org/2000/01/rdf-schema#label> "منطقه"@fa .
+<http://fa.wikipedia.org/wiki/نبکا> <http://www.w3.org/2000/01/rdf-schema#label> "نبکا"@fa .
+<http://fa.wikipedia.org/wiki/نصف‌النهار> <http://www.w3.org/2000/01/rdf-schema#label> "نصف‌النهار"@fa .
+<http://fa.wikipedia.org/wiki/راهنما:نقشه_شهری_باز> <http://www.w3.org/2000/01/rdf-schema#label> "راهنما:نقشه شهری باز"@fa .
+<http://fa.wikipedia.org/wiki/نقشه_پیری_رئیس> <http://www.w3.org/2000/01/rdf-schema#label> "نقشه پیری رئیس"@fa .
+<http://fa.wikipedia.org/wiki/نقشه‌نگاری> <http://www.w3.org/2000/01/rdf-schema#label> "نقشه‌نگاری"@fa .
+<http://fa.wikipedia.org/wiki/هفت_کشور> <http://www.w3.org/2000/01/rdf-schema#label> "هفت کشور"@fa .
+<http://fa.wikipedia.org/wiki/هیمالیا> <http://www.w3.org/2000/01/rdf-schema#label> "هیمالیا"@fa .
+<http://fa.wikipedia.org/wiki/ویکی‌پدیا:ویکی‌پروژه_جغرافیا> <http://www.w3.org/2000/01/rdf-schema#label> "ویکی‌پدیا:ویکی‌پروژه جغرافیا"@fa .
+<http://fa.wikipedia.org/wiki/پارک_ملی_تیده> <http://www.w3.org/2000/01/rdf-schema#label> "پارک ملی تیده"@fa .
+<http://fa.wikipedia.org/wiki/پارک_ملی_گاراجونای> <http://www.w3.org/2000/01/rdf-schema#label> "پارک ملی گاراجونای"@fa .
+<http://fa.wikipedia.org/wiki/پیز_اسپالدا> <http://www.w3.org/2000/01/rdf-schema#label> "پیز اسپالدا"@fa .
+<http://fa.wikipedia.org/wiki/ژرف_(جغرافیا)> <http://www.w3.org/2000/01/rdf-schema#label> "ژرف (جغرافیا)"@fa .
+<http://fa.wikipedia.org/wiki/کارول_آ_دیرینگ> <http://www.w3.org/2000/01/rdf-schema#label> "کارول آ دیرینگ"@fa .
+<http://fa.wikipedia.org/wiki/کشور> <http://www.w3.org/2000/01/rdf-schema#label> "کشور"@fa .
+<http://fa.wikipedia.org/wiki/کشور_محصور_در_خشکی> <http://www.w3.org/2000/01/rdf-schema#label> "کشور محصور در خشکی"@fa .
+<http://fa.wikipedia.org/wiki/کلوت> <http://www.w3.org/2000/01/rdf-schema#label> "کلوت"@fa .
+<http://fa.wikipedia.org/wiki/کونمارا_پنجم> <http://www.w3.org/2000/01/rdf-schema#label> "کونمارا پنجم"@fa .
+<http://fa.wikipedia.org/wiki/گالیلئو_(ناوبری_ماهواره‌ای)> <http://www.w3.org/2000/01/rdf-schema#label> "گالیلئو (ناوبری ماهواره‌ای)"@fa .
+<http://fa.wikipedia.org/wiki/گلوناس> <http://www.w3.org/2000/01/rdf-schema#label> "گلوناس"@fa .
+<http://fa.wikipedia.org/wiki/گلوناس-کی> <http://www.w3.org/2000/01/rdf-schema#label> "گلوناس-کی"@fa .
+<http://fa.wikipedia.org/wiki/یواس‌اس_سایکلوپ> <http://www.w3.org/2000/01/rdf-schema#label> "یواس‌اس سایکلوپ"@fa .
+<http://fa.wikipedia.org/wiki/یواس‌اس_نرئوس> <http://www.w3.org/2000/01/rdf-schema#label> "یواس‌اس نرئوس"@fa .
+<http://fa.wikipedia.org/wiki/پرونده:urmia_lake_1984_to_2011.gif> <http://www.w3.org/2000/01/rdf-schema#label> "<img alt="urmia lake 1984 to 2011.gif" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/urmia_lake_1984_to_2011.gif/120px-urmia_lake_1984_to_2011.gif" width="120" height="120" />"@fa .
+<http://fa.wikipedia.org/wiki/پرونده:urmia_lake_1984_to_2011.gif> <http://www.w3.org/2000/01/rdf-schema#label> "urmia lake 1984 to 201..."@fa .
+<http://fa.wikipedia.org/wiki/آب_و_هوا_نیمه_خشک> <http://www.w3.org/2000/01/rdf-schema#label> "آب و هوا نیمه خشک"@fa .
+<http://fa.wikipedia.org/wiki/آبرفت> <http://www.w3.org/2000/01/rdf-schema#label> "آبرفت"@fa .
+<http://fa.wikipedia.org/wiki/آفریقای_شمالی> <http://www.w3.org/2000/01/rdf-schema#label> "آفریقای شمالی"@fa .
+<http://fa.wikipedia.org/wiki/آفریقای_غربی> <http://www.w3.org/2000/01/rdf-schema#label> "آفریقای غربی"@fa .
+<http://fa.wikipedia.org/wiki/آمازون_(رود)> <http://www.w3.org/2000/01/rdf-schema#label> "آمازون (رود)"@fa .
+<http://fa.wikipedia.org/wiki/اختلاف_منظر> <http://www.w3.org/2000/01/rdf-schema#label> "اختلاف منظر"@fa .
+<http://fa.wikipedia.org/wiki/ارتفاع_از_سطح_دریا> <http://www.w3.org/2000/01/rdf-schema#label> "ارتفاع از سطح دریا"@fa .
+<http://fa.wikipedia.org/wiki/اردآپفل> <http://www.w3.org/2000/01/rdf-schema#label> "اردآپفل"@fa .
+<http://fa.wikipedia.org/wiki/اسپیلی> <http://www.w3.org/2000/01/rdf-schema#label> "اسپیلی"@fa .
+<http://fa.wikipedia.org/wiki/اطلس> <http://www.w3.org/2000/01/rdf-schema#label> "اطلس"@fa .
+<http://fa.wikipedia.org/wiki/باتلاق> <http://www.w3.org/2000/01/rdf-schema#label> "باتلاق"@fa .
+<http://fa.wikipedia.org/wiki/برنامه‌ریزی_شهری> <http://www.w3.org/2000/01/rdf-schema#label> "برنامه‌ریزی شهری"@fa .
+<http://fa.wikipedia.org/wiki/بورا_بورا> <http://www.w3.org/2000/01/rdf-schema#label> "بورا بورا"@fa .
+<http://fa.wikipedia.org/wiki/بیابان_گبی> <http://www.w3.org/2000/01/rdf-schema#label> "بیابان گبی"@fa .
+<http://fa.wikipedia.org/wiki/بیمینی،_باهاما> <http://www.w3.org/2000/01/rdf-schema#label> "بیمینی، باهاما"@fa .
+<http://fa.wikipedia.org/wiki/بی‌اس‌ای‌ای_استار_آریل> <http://www.w3.org/2000/01/rdf-schema#label> "بی‌اس‌ای‌ای استار آریل"@fa .
+<http://fa.wikipedia.org/wiki/بی‌اس‌ای‌ای_استار_تیگر> <http://www.w3.org/2000/01/rdf-schema#label> "بی‌اس‌ای‌ای استار تیگر"@fa .
+<http://fa.wikipedia.org/wiki/تراکم_جمعیت> <http://www.w3.org/2000/01/rdf-schema#label> "تراکم جمعیت"@fa .
+<http://fa.wikipedia.org/wiki/تنگه> <http://www.w3.org/2000/01/rdf-schema#label> "تنگه"@fa .
+<http://fa.wikipedia.org/wiki/تنگه_کره> <http://www.w3.org/2000/01/rdf-schema#label> "تنگه کره"@fa .
+<http://fa.wikipedia.org/wiki/تنگه_کرچ> <http://www.w3.org/2000/01/rdf-schema#label> "تنگه کرچ"@fa .
+<http://fa.wikipedia.org/wiki/توده_خاکی> <http://www.w3.org/2000/01/rdf-schema#label> "توده خاکی"@fa .
+<http://fa.wikipedia.org/wiki/توزیع_و_رشد_جمعیت> <http://www.w3.org/2000/01/rdf-schema#label> "توزیع و رشد جمعیت"@fa .
+<http://fa.wikipedia.org/wiki/تپه> <http://www.w3.org/2000/01/rdf-schema#label> "تپه"@fa .
+<http://fa.wikipedia.org/wiki/جای‌نام> <http://www.w3.org/2000/01/rdf-schema#label> "جای‌نام"@fa .
+<http://fa.wikipedia.org/wiki/جزر_و_مد> <http://www.w3.org/2000/01/rdf-schema#label> "جزر و مد"@fa .
+<http://fa.wikipedia.org/wiki/درگاه:جغرافیا> <http://www.w3.org/2000/01/rdf-schema#label> "درگاه:جغرافیا"@fa .
+<http://fa.wikipedia.org/wiki/جغرافیا> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیا"@fa .
+<http://fa.wikipedia.org/wiki/جغرافیای_انسانی> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیای انسانی"@fa .
+<http://fa.wikipedia.org/wiki/جغرافیای_سیاسی> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیای سیاسی"@fa .
+<http://fa.wikipedia.org/wiki/جغرافیای_طبیعی> <http://www.w3.org/2000/01/rdf-schema#label> "جغرافیای طبیعی"@fa .
+<http://fa.wikipedia.org/wiki/جلگه> <http://www.w3.org/2000/01/rdf-schema#label> "جلگه"@fa .
+<http://fa.wikipedia.org/wiki/جنوب_آفریقا> <http://www.w3.org/2000/01/rdf-schema#label> "جنوب آفریقا"@fa .
+<http://fa.wikipedia.org/wiki/جنوبگان> <http://www.w3.org/2000/01/rdf-schema#label> "جنوبگان"@fa .
+<http://fa.wikipedia.org/wiki/جنگل> <http://www.w3.org/2000/01/rdf-schema#label> "جنگل"@fa .
+<http://fa.wikipedia.org/wiki/جهت‌یابی> <http://www.w3.org/2000/01/rdf-schema#label> "جهت‌یابی"@fa .
+<http://fa.wikipedia.org/wiki/خاور_نزدیک> <http://www.w3.org/2000/01/rdf-schema#label> "خاور نزدیک"@fa .
+<http://fa.wikipedia.org/wiki/خلیج_ایلات> <http://www.w3.org/2000/01/rdf-schema#label> "خلیج ایلات"@fa .
+<http://fa.wikipedia.org/wiki/خلیج_بحرین> <http://www.w3.org/2000/01/rdf-schema#label> "خلیج بحرین"@fa .
+<http://fa.wikipedia.org/wiki/خلیج_عقبه> <http://www.w3.org/2000/01/rdf-schema#label> "خلیج عقبه"@fa .
+<http://fa.wikipedia.org/wiki/خور_عبدالله> <http://www.w3.org/2000/01/rdf-schema#label> "خور عبدالله"@fa .
+<http://fa.wikipedia.org/wiki/خورشید_نیمه‌شب> <http://www.w3.org/2000/01/rdf-schema#label> "خورشید نیمه‌شب"@fa .
+<http://fa.wikipedia.org/wiki/داده‌های_مکانی> <http://www.w3.org/2000/01/rdf-schema#label> "داده‌های مکانی"@fa .
+<http://fa.wikipedia.org/wiki/دره_پازیریک> <http://www.w3.org/2000/01/rdf-schema#label> "دره پازیریک"@fa .
+<http://fa.wikipedia.org/wiki/دستگاه_مختصات_جغرافیایی> <http://www.w3.org/2000/01/rdf-schema#label> "دستگاه مختصات جغرافیایی"@fa .
+<http://fa.wikipedia.org/wiki/دماغه_واشنگتن> <http://www.w3.org/2000/01/rdf-schema#label> "دماغه واشنگتن"@fa .
+<http://fa.wikipedia.org/wiki/ریگ‌روان> <http://www.w3.org/2000/01/rdf-schema#label> "ریگ‌روان"@fa .
+<http://fa.wikipedia.org/wiki/زمین> <http://www.w3.org/2000/01/rdf-schema#label> "زمین"@fa .
+<http://fa.wikipedia.org/wiki/سازمان_زمین‌شناسی_آمریکا> <http://www.w3.org/2000/01/rdf-schema#label> "سازمان زمین‌شناسی آمریکا"@fa .
+<http://fa.wikipedia.org/wiki/سامانه_موقعیت‌یاب_جهانی> <http://www.w3.org/2000/01/rdf-schema#label> "سامانه موقعیت‌یاب جهانی"@fa .
+<http://fa.wikipedia.org/wiki/سامانه_ناوبری_بیدو> <http://www.w3.org/2000/01/rdf-schema#label> "سامانه ناوبری بیدو"@fa .
+<http://fa.wikipedia.org/wiki/سفیدرود_(ایران)> <http://www.w3.org/2000/01/rdf-schema#label> "سفیدرود (ایران)"@fa .
+<http://fa.wikipedia.org/wiki/شبه‌قاره_هند> <http://www.w3.org/2000/01/rdf-schema#label> "شبه‌قاره هند"@fa .
+<http://fa.wikipedia.org/wiki/شمال_حقیقی> <http://www.w3.org/2000/01/rdf-schema#label> "شمال حقیقی"@fa .
+<http://fa.wikipedia.org/wiki/شمالگان> <http://www.w3.org/2000/01/rdf-schema#label> "شمالگان"@fa .
+<http://fa.wikipedia.org/wiki/شهرسازی> <http://www.w3.org/2000/01/rdf-schema#label> "شهرسازی"@fa .
+<http://fa.wikipedia.org/wiki/صفحه_آمریکای_جنوبی> <http://www.w3.org/2000/01/rdf-schema#label> "صفحه آمریکای جنوبی"@fa .
+<http://fa.wikipedia.org/wiki/صفحه_نازکا> <http://www.w3.org/2000/01/rdf-schema#label> "صفحه نازکا"@fa .
+<http://fa.wikipedia.org/wiki/طول_جغرافیایی> <http://www.w3.org/2000/01/rdf-schema#label> "طول جغرافیایی"@fa .
+<http://fa.wikipedia.org/wiki/فانوس_دریایی_ایزاک> <http://www.w3.org/2000/01/rdf-schema#label> "فانوس دریایی ایزاک"@fa .
+<http://fa.wikipedia.org/wiki/فهرست_دریاچه‌های_روسیه> <http://www.w3.org/2000/01/rdf-schema#label> "فهرست دریاچه‌های روسیه"@fa .
+<http://fa.wikipedia.org/wiki/فهرست_شهرهای_قاره_آمریکای_جنوبی> <http://www.w3.org/2000/01/rdf-schema#label> "فهرست شهرهای قاره آمریکای جنوبی"@fa .
+<http://fa.wikipedia.org/wiki/فهرست_کوه‌های_استان_هرمزگان> <http://www.w3.org/2000/01/rdf-schema#label> "فهرست کوه‌های استان هرمزگان"@fa .
+<http://fa.wikipedia.org/wiki/قطب_شمال> <http://www.w3.org/2000/01/rdf-schema#label> "قطب شمال"@fa .
+<http://fa.wikipedia.org/wiki/ویکی‌پدیا:قواعد_مختصات‌دهی> <http://www.w3.org/2000/01/rdf-schema#label> "ویکی‌پدیا:قواعد مختصات‌دهی"@fa .
+<http://fa.wikipedia.org/wiki/مثلث_برمودا> <http://www.w3.org/2000/01/rdf-schema#label> "مثلث برمودا"@fa .
+<http://fa.wikipedia.org/wiki/مدار_(جغرافیا)> <http://www.w3.org/2000/01/rdf-schema#label> "مدار (جغرافیا)"@fa .
+<http://fa.wikipedia.org/wiki/مدار_قطبی> <http://www.w3.org/2000/01/rdf-schema#label> "مدار قطبی"@fa .
+<http://fa.wikipedia.org/wiki/مدل_های_سه_بعدی_شهرها> <http://www.w3.org/2000/01/rdf-schema#label> "مدل های سه بعدی شهرها"@fa .
+<http://fa.wikipedia.org/wiki/مرز_(سرحد)> <http://www.w3.org/2000/01/rdf-schema#label> "مرز (سرحد)"@fa .
+<http://fa.wikipedia.org/wiki/ملنیک_(بلغارستان)> <http://www.w3.org/2000/01/rdf-schema#label> "ملنیک (بلغارستان)"@fa .
+<http://fa.wikipedia.org/wiki/منطقه> <http://www.w3.org/2000/01/rdf-schema#label> "منطقه"@fa .
+<http://fa.wikipedia.org/wiki/نبکا> <http://www.w3.org/2000/01/rdf-schema#label> "نبکا"@fa .
+<http://fa.wikipedia.org/wiki/نصف‌النهار> <http://www.w3.org/2000/01/rdf-schema#label> "نصف‌النهار"@fa .
+<http://fa.wikipedia.org/wiki/راهنما:نقشه_شهری_باز> <http://www.w3.org/2000/01/rdf-schema#label> "راهنما:نقشه شهری باز"@fa .
+<http://fa.wikipedia.org/wiki/نقشه_پیری_رئیس> <http://www.w3.org/2000/01/rdf-schema#label> "نقشه پیری رئیس"@fa .
+<http://fa.wikipedia.org/wiki/نقشه‌نگاری> <http://www.w3.org/2000/01/rdf-schema#label> "نقشه‌نگاری"@fa .
+<http://fa.wikipedia.org/wiki/هفت_کشور> <http://www.w3.org/2000/01/rdf-schema#label> "هفت کشور"@fa .
+<http://fa.wikipedia.org/wiki/هیمالیا> <http://www.w3.org/2000/01/rdf-schema#label> "هیمالیا"@fa .
+<http://fa.wikipedia.org/wiki/ویکی‌پدیا:ویکی‌پروژه_جغرافیا> <http://www.w3.org/2000/01/rdf-schema#label> "ویکی‌پدیا:ویکی‌پروژه جغرافیا"@fa .
+<http://fa.wikipedia.org/wiki/پارک_ملی_تیده> <http://www.w3.org/2000/01/rdf-schema#label> "پارک ملی تیده"@fa .
+<http://fa.wikipedia.org/wiki/پارک_ملی_گاراجونای> <http://www.w3.org/2000/01/rdf-schema#label> "پارک ملی گاراجونای"@fa .
+<http://fa.wikipedia.org/wiki/پیز_اسپالدا> <http://www.w3.org/2000/01/rdf-schema#label> "پیز اسپالدا"@fa .
+<http://fa.wikipedia.org/wiki/ژرف_(جغرافیا)> <http://www.w3.org/2000/01/rdf-schema#label> "ژرف (جغرافیا)"@fa .
+<http://fa.wikipedia.org/wiki/کارول_آ_دیرینگ> <http://www.w3.org/2000/01/rdf-schema#label> "کارول آ دیرینگ"@fa .
+<http://fa.wikipedia.org/wiki/کشور> <http://www.w3.org/2000/01/rdf-schema#label> "کشور"@fa .
+<http://fa.wikipedia.org/wiki/کشور_محصور_در_خشکی> <http://www.w3.org/2000/01/rdf-schema#label> "کشور محصور در خشکی"@fa .
+<http://fa.wikipedia.org/wiki/کلوت> <http://www.w3.org/2000/01/rdf-schema#label> "کلوت"@fa .
+<http://fa.wikipedia.org/wiki/کونمارا_پنجم> <http://www.w3.org/2000/01/rdf-schema#label> "کونمارا پنجم"@fa .
+<http://fa.wikipedia.org/wiki/گالیلئو_(ناوبری_ماهواره‌ای)> <http://www.w3.org/2000/01/rdf-schema#label> "گالیلئو (ناوبری ماهواره‌ای)"@fa .
+<http://fa.wikipedia.org/wiki/گلوناس> <http://www.w3.org/2000/01/rdf-schema#label> "گلوناس"@fa .
+<http://fa.wikipedia.org/wiki/گلوناس-کی> <http://www.w3.org/2000/01/rdf-schema#label> "گلوناس-کی"@fa .
+<http://fa.wikipedia.org/wiki/یواس‌اس_سایکلوپ> <http://www.w3.org/2000/01/rdf-schema#label> "یواس‌اس سایکلوپ"@fa .
+<http://fa.wikipedia.org/wiki/یواس‌اس_نرئوس> <http://www.w3.org/2000/01/rdf-schema#label> "یواس‌اس نرئوس"@fa .
+<http://fa.wikipedia.org/wiki/رده:علوم_میان‌رشته‌ای> <http://www.w3.org/2000/01/rdf-schema#label> "دسته‌بندی موضوعات اصلی"@fa .
+<http://fa.wikipedia.org/wiki/ویکی‌پدیا:ویکی‌پروژه_ریاضی> <http://www.w3.org/2000/01/rdf-schema#label> "ویکی‌پدیا:ویکی‌پروژه ریاضی"@fa .
+<http://fa.wikipedia.org/wiki/آنالیز_ریاضی> <http://www.w3.org/2000/01/rdf-schema#label> "آنالیز ریاضی"@fa .
+<http://fa.wikipedia.org/wiki/اجتماع_(مجموعه)> <http://www.w3.org/2000/01/rdf-schema#label> "اجتماع (مجموعه)"@fa .
+<http://fa.wikipedia.org/wiki/اسپلاین> <http://www.w3.org/2000/01/rdf-schema#label> "اسپلاین"@fa .
+<http://fa.wikipedia.org/wiki/اصول_احتمال> <http://www.w3.org/2000/01/rdf-schema#label> "اصول احتمال"@fa .
+<http://fa.wikipedia.org/wiki/اعداد_عربی> <http://www.w3.org/2000/01/rdf-schema#label> "اعداد عربی"@fa .
+<http://fa.wikipedia.org/wiki/ان_رقمی> <http://www.w3.org/2000/01/rdf-schema#label> "ان رقمی"@fa .
+<http://fa.wikipedia.org/wiki/انتگرال_حجمی> <http://www.w3.org/2000/01/rdf-schema#label> "انتگرال حجمی"@fa .
+<http://fa.wikipedia.org/wiki/انتگرال‌گیری_جزء_به_جزء> <http://www.w3.org/2000/01/rdf-schema#label> "انتگرال‌گیری جزء به جزء"@fa .
+<http://fa.wikipedia.org/wiki/بازه> <http://www.w3.org/2000/01/rdf-schema#label> "بازه"@fa .
+<http://fa.wikipedia.org/wiki/بسامد_فضایی> <http://www.w3.org/2000/01/rdf-schema#label> "بسامد فضایی"@fa .
+<http://fa.wikipedia.org/wiki/بطری_کلاین> <http://www.w3.org/2000/01/rdf-schema#label> "بطری کلاین"@fa .
+<http://fa.wikipedia.org/wiki/تباهیدگی> <http://www.w3.org/2000/01/rdf-schema#label> "تباهیدگی"@fa .
+<http://fa.wikipedia.org/wiki/جانشینی_مثلثاتی> <http://www.w3.org/2000/01/rdf-schema#label> "جانشینی مثلثاتی"@fa .
+<http://fa.wikipedia.org/wiki/جبر_مجرد> <http://www.w3.org/2000/01/rdf-schema#label> "جبر مجرد"@fa .

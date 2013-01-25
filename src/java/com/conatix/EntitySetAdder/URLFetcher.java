@@ -11,6 +11,11 @@ import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+/**
+ * The object to fetch URLs from Wikipedia and lists the pages mentioned in
+ * those URLs as well as categories. It identifies them and returns the Lists of
+ * Titles and URLs of pages and categories.
+ */
 public class URLFetcher {
 	private static List<String> pagesUrls = new ArrayList<String>();
 	private static List<String> pagesTitles = new ArrayList<String>();
@@ -23,7 +28,20 @@ public class URLFetcher {
 	private static String siteContent;
 	private static String validateUrl;
 
-	@SuppressWarnings("static-access")
+	/**
+	 * The constructor of the object. The object fetches URLs from Wikipedia and
+	 * lists the pages mentioned in those URLs as well as categories. It
+	 * identifies them and returns the Lists of Titles and URLs of pages and
+	 * categories.
+	 * 
+	 * @param feedUrl
+	 *            The URL of the page where the list of other pages and
+	 *            categories/subcategories is listed.
+	 * @param validateUrl
+	 *            When fetching the pages from a list in Wikipedia, the
+	 *            addresses are relative. This will add the correct part at the
+	 *            beginning of the URL so they are valid URLs.
+	 */
 	public URLFetcher(String feedUrl, String validateUrl) {
 		this.feedUrl = feedUrl;
 		this.validateUrl = validateUrl;
@@ -34,6 +52,15 @@ public class URLFetcher {
 
 	}
 
+	/**
+	 * Only retrieves the part where the subcategories in a wikipedia page are
+	 * listed and based on that content fetches and separates the Titles and
+	 * URLs and stores them in the static variables common within the whole
+	 * class.
+	 * 
+	 * @see {@link #getMWsubCategories()}, {@link #getTitlesAndUrls(String)},
+	 *      {@link #makeValidURLs(List, String)}
+	 */
 	private void getCategoriesTitlesAndUrls() {
 		String subCategoriesContent = getMWsubCategories();
 
@@ -47,6 +74,21 @@ public class URLFetcher {
 		}
 	}
 
+	/**
+	 * When fetching the pages from a list in Wikipedia, the addresses are
+	 * relative. This will add the correct part at the beginning of the URL so
+	 * they are valid URLs. It also checks whether the URLs are actually
+	 * existing or not.
+	 * 
+	 * @param allUrls
+	 *            The list of URLs to be validated.
+	 * @param webUrl
+	 *            Makes the URLs valid. Since the URLs in Wikipedia pages are
+	 *            relative, it makes all of them absolute by adding this part at
+	 *            the beginning of each relative URL.
+	 * @return List of validated URLs.
+	 * @see {@link #isValidURL(String)}
+	 */
 	@SuppressWarnings("deprecation")
 	private static List<String> makeValidURLs(List<String> allUrls,
 			String webUrl) {
@@ -62,11 +104,18 @@ public class URLFetcher {
 			validUrl = URLDecoder.decode(validUrl);
 			validURLs.add(validUrl);
 		}
-		
-		
+
 		return validURLs;
 	}
 
+	/**
+	 * Checks if the construction of a URL is correct.
+	 * 
+	 * @param strUrl
+	 *            The URL to be checked.
+	 * @return If the URL is valid it returns <i>true</i>, otherwise if the URL
+	 *         is malformed it returns <i>false</i>.
+	 */
 	private static boolean isValidURL(String strUrl) {
 		boolean isValid = false;
 		try {
@@ -79,6 +128,14 @@ public class URLFetcher {
 		return isValid;
 	}
 
+	/**
+	 * Only retrieves the part where the subpages in a wikipedia page are listed
+	 * and based on that content fetches and separates the Titles and URLs and
+	 * stores them in the static variables common within the whole class.
+	 * 
+	 * @see {@link #getMWSubPages(String)}, {@link #getTitlesAndUrls(String)},
+	 *      {@link #makeValidURLs(List, String)}
+	 */
 	private static void getPagesTitlesAndUrls() {
 		String subPagesContent = getMWSubPages(siteContent);
 
@@ -99,6 +156,17 @@ public class URLFetcher {
 		pagesUrls.addAll(validListUrls);
 	}
 
+	/**
+	 * Gets the Titles and URLs in a wikipedia page by analyzing the site
+	 * content using regular expressions.
+	 * 
+	 * @param siteContent
+	 *            The content of the site or a part of the site containing the
+	 *            titles and URLs. siteContent is the content of the wikipedia
+	 *            page where subpages are located.
+	 * @return List of Titles and URLs in <i>ListOfTitlesUrls</i>.
+	 * @see {@link #getTitle(String)}, {@link #getHrefURL(String)}
+	 */
 	private static ListOfTitlesUrls getListUrls(String siteContent) {
 		// <li><span class="flagicon"><img alt="flag of azerbaijan.svg"
 		// src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/flag_of_azerbaijan.svg/22px-flag_of_azerbaijan.svg.png"
@@ -136,6 +204,17 @@ public class URLFetcher {
 		return subTitlesNUrls;
 	}
 
+	/**
+	 * Gets the Titles and URLs in a wikipedia page by analyzing the site
+	 * content using regular expressions.
+	 * 
+	 * @param siteContent
+	 *            The content of the site or a part of the site containing the
+	 *            titles and URLs. siteContent is the content of the wikipedia
+	 *            page where subcategories are located.
+	 * @return List of Titles and URLs in <i>ListOfTitlesUrls</i>.
+	 * @see {@link #getTitle(String)}, {@link #getHrefURL(String)}
+	 */
 	private static ListOfTitlesUrls getTitlesAndUrls(String subTitlesContent) {
 
 		List<String> allTitles = new ArrayList<String>();
@@ -154,13 +233,20 @@ public class URLFetcher {
 			allUrls.add(hrefURL);
 			allTitles.add(title);
 		}
-		
+
 		subTitlesNUrls.allTitles.addAll(allTitles);
 		subTitlesNUrls.allUrls.addAll(allUrls);
 
 		return subTitlesNUrls;
 	}
 
+	/**
+	 * Retrieves the URL of the page from the HTML tag of the wikipedia page.
+	 * 
+	 * @param tag
+	 *            The HTML tag retrieved from the content of the wikipedia page.
+	 * @return the URL to the entity.
+	 */
 	private static String getHrefURL(String tag) {
 		String hrefURL = "";
 		String[] tagSplits1 = tag.split("\\shref=\"");
@@ -168,6 +254,13 @@ public class URLFetcher {
 		return hrefURL;
 	}
 
+	/**
+	 * Retrieves the Title of the page from the HTML tag of the wikipedia page.
+	 * 
+	 * @param tag
+	 *            The HTML tag retrieved from the content of the wikipedia page.
+	 * @return the Title of the entity.
+	 */
 	private static String getTitle(String tag) {
 		String title = "";
 		tag = tag.replaceAll("<a\\s.*href=\".*\"\\w*>", "");
@@ -175,6 +268,12 @@ public class URLFetcher {
 		return title;
 	}
 
+	/**
+	 * Retrieves the part of the content of a wikipedia page containing
+	 * subcategories.
+	 * 
+	 * @return The section of the page where the subcategories are.
+	 */
 	private static String getMWsubCategories() {
 		if (siteContent.contains("<div id=\"mw-subcategories\">")) {
 			String[] contentSplits = siteContent
@@ -189,6 +288,12 @@ public class URLFetcher {
 		}
 	}
 
+	/**
+	 * Retrieves the part of the content of a wikipedia page containing
+	 * subpages.
+	 * 
+	 * @return The section of the page where the subpages are.
+	 */
 	private static String getMWSubPages(String siteContent) {
 		if (siteContent.contains("<div id=\"mw-pages\">")) {
 			String[] contentSplits = siteContent.split("<div id=\"mw-pages\">");
@@ -202,6 +307,13 @@ public class URLFetcher {
 		}
 	}
 
+	/**
+	 * Reads the entire page given its URL.
+	 * 
+	 * @param recUrl
+	 *            the URL of the page to be fetched.
+	 * @return The content of the page.
+	 */
 	private static String getUrlContent(String recUrl) {
 
 		URL url;
@@ -226,18 +338,30 @@ public class URLFetcher {
 		return result;
 	}
 
+	/**
+	 * @return the List of the titles of the pages.
+	 */
 	public List<String> getPagesTitle() {
 		return pagesTitles;
 	}
 
+	/**
+	 * @return the List of the URLs of the pages.
+	 */
 	public List<String> getPagesUrls() {
 		return pagesUrls;
 	}
 
+	/**
+	 * @return the List of the titles of the categories.
+	 */
 	public List<String> getCategoriesTitle() {
 		return categoriesTitles;
 	}
 
+	/**
+	 * @return the List of the URLs of the categories.
+	 */
 	public List<String> getCategoriesUrls() {
 		return categoriesUrls;
 	}
